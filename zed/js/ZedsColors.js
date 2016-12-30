@@ -8,6 +8,16 @@ function drawCircle(color, x, y, radius, onClick){
  stage.update();
 }
 
+function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array;
+}
+
 function correct(){ 
   alert("great job!"); 
 }
@@ -15,6 +25,7 @@ function correct(){
 function incorrect(){ 
   alert("whoops - try again!"); 
 }
+
 
 var radius = 60;
 var padding = radius * 1.5;
@@ -31,6 +42,7 @@ var colors = ["Red",
               "SaddleBrown"];
 
 var shuffleColors = colors.slice();
+shuffleColors = shuffleArray(shuffleColors);
 
 for (i = 0; i < shuffleColors.length; i++) { 
 	var x = padding + (i%5 * radius * 2.2);
