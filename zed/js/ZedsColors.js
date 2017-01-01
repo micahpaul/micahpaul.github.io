@@ -12,7 +12,7 @@ var sayCircle = new Audio("sounds/circle.mp3");
 var sayGreatJob = new Audio("sounds/greatjob.mp3");
 sayGreatJob.onended = reset;
 var sayTryAgain = new Audio("sounds/tryagain.mp3"); 
-sayTryAgain.onended = function(){sayTouchThe.play();};
+
 
 function ColorObject (color) {
 	this.color = color;
@@ -26,6 +26,7 @@ function success(){
 
 function failure(){
 	sayTryAgain.play();
+	sayTryAgain.addEventListener('ended',function(){sayTouchThe.play();});
 }
 
 function drawCircle(color, x, y, onClick){
