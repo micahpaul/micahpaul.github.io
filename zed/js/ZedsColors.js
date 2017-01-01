@@ -1,51 +1,92 @@
+var RADIUS = 60;
+var PADDING = RADIUS * 1.5;
+var NUM_PLAY_COLORS = 3;
+var colors = [];
+var playColors = [];
+var theColor;
 var stage = new createjs.Stage('myCanvas');
+createjs.Touch.enable(stage);
+var sayTouchThe = new Audio("sounds/touchthe.mp3");
+sayTouchThe.onended = sayTheColor;
+var sayCircle = new Audio("sounds/circle.mp3");
+var sayGreatJob = new Audio("sounds/greatjob.mp3");
+sayGreatJob.onended = reset;
+var sayTryAgain = new Audio("sounds/tryagain.mp3"); 
+sayTryAgain.onended = function(){sayTouchThe.play();};
 
-function drawCircle(color, x, y, radius, onClick){
+function ColorObject (color) {
+	this.color = color;
+	this.sound = new Audio("sounds/" + color + ".mp3");
+	this.sound.onended = function(){sayCircle.play();};
+}
+
+function success(){
+	sayGreatJob.play();
+}
+
+function failure(){
+	sayTryAgain.play();
+}
+
+function drawCircle(color, x, y, onClick){
  var circle = new createjs.Shape();
- circle.graphics.setStrokeStyle(1).beginFill(color).drawCircle(x, y, radius);
+ circle.graphics.setStrokeStyle(1).beginFill(color).drawCircle(x, y, RADIUS);
  circle.addEventListener("click", onClick);
  stage.addChild(circle);
  stage.update();
 }
 
-function shuffleArray(array) {
-    for (var i = array.length - 1; i > 0; i--) {
-        var j = Math.floor(Math.random() * (i + 1));
-        var temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
-    }
-    return array;
+function randomIntFromInterval(min,max)
+{
+    return Math.floor(Math.random()*(max-min+1)+min);
 }
 
-function correct(){ 
-  alert("great job!"); 
+function pickPlayColors() {
+	playColors.length = 0;
+	while (playColors.length < NUM_PLAY_COLORS) {
+		var color = colors[randomIntFromInterval(0,colors.length-1)];
+		if (playColors.indexOf(color) == -1) {
+			playColors.push(color);
+		}
+	}
+	
+	theColor = playColors[randomIntFromInterval(0,playColors.length-1)];
 }
 
-function incorrect(){ 
-  alert("whoops - try again!"); 
+function reset() {
+	stage.clear();
+	pickPlayColors();
+	
+	for (i = 0; i < playColors.length; i++) { 
+		var thisColor = playColors[i];
+		var x = PADDING + (i * RADIUS * 3);
+		var y = PADDING;
+		var onClick = (thisColor == theColor) ? success : failure;
+		drawCircle(thisColor.color, x, y, onClick);			
+	}
+	
+	sayTouchThe.play();
 }
 
-
-var radius = 60;
-var padding = radius * 1.5;
-
-var colors = ["Red", 
-							"DarkOrange", 
-              "Yellow", 
-              "LimeGreen", 
-              "Blue", 
-              "Purple", 
-              "Black", 
-              "White", 
-              "HotPink", 
-              "SaddleBrown"];
-
-var shuffleColors = colors.slice();
-shuffleColors = shuffleArray(shuffleColors);
-
-for (i = 0; i < shuffleColors.length; i++) { 
-	var x = padding + (i%5 * radius * 2.2);
-  var y = ( i < 5 ) ? padding : padding + (radius * 2.1) ;
-	drawCircle(shuffleColors[i], x, y, radius, incorrect);    
+function sayTheColor() {
+	theColor.sound.play();
 }
+
+function main() {
+	var welcome = new Audio("sounds/welcome.mp3");
+	welcome.onended = reset;
+	welcome.play();
+}
+
+colors.push(new ColorObject("Red")); 
+colors.push(new ColorObject("DarkOrange")); 
+colors.push(new ColorObject("Yellow")); 
+colors.push(new ColorObject("LimeGreen")); 
+colors.push(new ColorObject("Blue")); 
+colors.push(new ColorObject("Purple")); 
+colors.push(new ColorObject("Black")); 
+colors.push(new ColorObject("White")); 
+colors.push(new ColorObject("HotPink")); 
+colors.push(new ColorObject("SaddleBrown"));
+
+main();
