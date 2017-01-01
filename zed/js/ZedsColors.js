@@ -78,15 +78,15 @@ function main() {
 	welcome.play();
 }
 
-colors.push(new ColorObject("Red")); 
-colors.push(new ColorObject("DarkOrange")); 
-colors.push(new ColorObject("Yellow")); 
-colors.push(new ColorObject("LimeGreen")); 
-colors.push(new ColorObject("Blue")); 
-colors.push(new ColorObject("Purple")); 
-colors.push(new ColorObject("Black")); 
-colors.push(new ColorObject("White")); 
-colors.push(new ColorObject("HotPink")); 
-colors.push(new ColorObject("SaddleBrown"));
+colors.push(new ColorObject("red")); 
+colors.push(new ColorObject("darkorange")); 
+colors.push(new ColorObject("yellow")); 
+colors.push(new ColorObject("limegreen")); 
+colors.push(new ColorObject("blue")); 
+colors.push(new ColorObject("purple")); 
+colors.push(new ColorObject("black")); 
+colors.push(new ColorObject("white")); 
+colors.push(new ColorObject("hotpink")); 
+colors.push(new ColorObject("saddlebrown"));
 
 main();
