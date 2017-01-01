@@ -88,5 +88,3 @@ colors.push(new ColorObject("black"));
 colors.push(new ColorObject("white")); 
 colors.push(new ColorObject("hotpink")); 
 colors.push(new ColorObject("saddlebrown"));
-
-main();
