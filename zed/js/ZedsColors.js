@@ -73,9 +73,10 @@ function sayTheColor() {
 }
 
 function main() {
-	var welcome = new Audio("sounds/welcome.mp3");
-	welcome.onended = reset;
-	welcome.play();
+	//var welcome = new Audio("sounds/welcome.mp3");
+	//welcome.onended = reset;
+	//welcome.play();
+	reset();
 }
 
 colors.push(new ColorObject("red")); 
