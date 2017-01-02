@@ -12,7 +12,14 @@ var sayCircle = new Audio("sounds/circle.mp3");
 var sayGreatJob = new Audio("sounds/greatjob.mp3");
 sayGreatJob.onended = reset;
 var sayTryAgain = new Audio("sounds/tryagain.mp3"); 
+var isPlaying = false;
 
+function makeSound(baseName) {
+
+function playSound(sound) {
+	isPlaying = true;
+	sound.play();
+}
 
 function ColorObject (color) {
 	this.color = color;
