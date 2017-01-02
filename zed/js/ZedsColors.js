@@ -93,7 +93,7 @@ function main() {
 	
 	setInterval(function () {
 		if (soundQueue.length > 0 && ! isPlaying) {
-		queue.shift().play();
+		soundQueue.shift().play();
 		isPlaying = true;
 		}
 	}, 500);
