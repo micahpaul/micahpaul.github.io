@@ -3,6 +3,7 @@ var PADDING = RADIUS * 1.5;
 var NUM_PLAY_COLORS = 3;
 var colors = [];
 var playColors = [];
+var soundQueue = [];
 var theColor;
 var isPlaying = false;
 var stage = new createjs.Stage('myCanvas');
@@ -22,8 +23,7 @@ function makeSound(baseName) {
 
 
 function playSound(sound) {
-	isPlaying = true;
-	sound.play();
+	soundQueue.push(sound);
 }
 
 function ColorObject (color) {
@@ -90,6 +90,13 @@ function main() {
 	playSound(welcomeSound);
 	reset();
 	playColorPrompt();
+	
+	setInterval(function () {
+		if (soundQueue.length > 0 && ! isPlaying) {
+		queue.shift().play();
+		isPlaying = true;
+		}
+	}, 500);
 }
 
 colors.push(new ColorObject("red")); 
