@@ -33,7 +33,7 @@ function ColorObject (color) {
 
 function playColorPrompt(){
 	playSound(touchTheSound);
-	playSound(thisColor.sound);
+	playSound(theColor.sound);
 	playSound(circleSound);
 }
 
