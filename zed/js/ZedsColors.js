@@ -4,44 +4,62 @@ var NUM_PLAY_COLORS = 3;
 var colors = [];
 var playColors = [];
 var theColor;
+var isPlaying = false;
 var stage = new createjs.Stage('myCanvas');
 createjs.Touch.enable(stage);
-var sayTouchThe = new Audio("sounds/touchthe.mp3");
-sayTouchThe.onended = sayTheColor;
-var sayCircle = new Audio("sounds/circle.mp3");
-var sayGreatJob = new Audio("sounds/greatjob.mp3");
-sayGreatJob.onended = reset;
-var sayTryAgain = new Audio("sounds/tryagain.mp3"); 
-var isPlaying = false;
+
+var welcomeSound = makeSound("welcome");
+var touchTheSound = makeSound("touchthe");
+var circleSound = makeSound("circle");
+var greatJobSound = makeSound("greatjob");
+var tryAgainSound = makeSound("tryagain");
 
 function makeSound(baseName) {
+	var thisSound = new Audio("sounds/"+ baseName + ".mp3");
+	thisSound.onended = function(){isPlaying = false;};
+	return thisSound;
+}
+
+function waitForSound() {
+	while(isPlaying){
+		setTimeout(function(){if(!isPlaying){return;}}, 100);
+	}
+}
 
 function playSound(sound) {
 	isPlaying = true;
 	sound.play();
+	waitForSound();
 }
 
 function ColorObject (color) {
 	this.color = color;
-	this.sound = new Audio("sounds/" + color + ".mp3");
-	this.sound.onended = function(){sayCircle.play();};
+	this.sound = makeSound(color);
+}
+
+function playColorPrompt(){
+	playSound(touchTheSound);
+	playSound(thisColor.sound);
+	playSound(circleSound);
 }
 
 function success(){
-	sayGreatJob.play();
+	playSound(greatJobSound);
+	reset();
+	playColorPrompt();
 }
 
 function failure(){
-	sayTryAgain.play();
-	sayTryAgain.addEventListener('ended',function(){sayTouchThe.play();});
+	playSound(tryAgainSound);
+	playColorPrompt();
 }
 
 function drawCircle(color, x, y, onClick){
- var circle = new createjs.Shape();
- circle.graphics.setStrokeStyle(1).beginFill(color).drawCircle(x, y, RADIUS);
- circle.addEventListener("click", onClick);
- stage.addChild(circle);
- stage.update();
+	var circle = new createjs.Shape();
+	circle.graphics.setStrokeStyle(1).beginFill(color).drawCircle(x, y, RADIUS);
+	circle.addEventListener("click", onClick);
+	stage.addChild(circle);
+	stage.update();
 }
 
 function randomIntFromInterval(min,max)
@@ -72,18 +90,12 @@ function reset() {
 		var onClick = (thisColor == theColor) ? success : failure;
 		drawCircle(thisColor.color, x, y, onClick);			
 	}
-	
-	sayTouchThe.play();
 }
 
-function sayTheColor() {
-	theColor.sound.play();
-}
-
-function main() {
-	var welcome = new Audio("sounds/welcome.mp3");
-	welcome.onended = reset;
-	welcome.play();
+function main() {	
+	playSound(welcomeSound);
+	reset();
+	playColorPrompt();
 }
 
 colors.push(new ColorObject("red")); 
