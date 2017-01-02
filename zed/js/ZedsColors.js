@@ -71,6 +71,8 @@ function reset() {
 }
 
 function main() {	
+	var element = document.getElementById("main-button");
+	element.parentNode.removeChild(element);
 	welcomeSound.play();
 	reset();
 	theColor.sound.play();
