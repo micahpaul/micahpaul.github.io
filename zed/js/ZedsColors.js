@@ -20,10 +20,15 @@ function makeSound(baseName) {
 	return thisSound;
 }
 
+function sleep(ms) {
+	var start = new Date().getTime(), expire = start + ms;
+	while (new Date().getTime() < expire) { }
+	return;
+}
+
 function waitForSound() {
-	while(isPlaying){
-		setTimeout(function(){if(!isPlaying){return;}}, 100);
-	}
+	while(isPlaying){sleep(100)};
+	return;
 }
 
 function playSound(sound) {
