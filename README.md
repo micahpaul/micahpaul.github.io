@@ -1,5 +1,5 @@
 ## Micah's GitHub Page
 
 I've made these:
-* [Zed's Game](zed)
-* [Equip English Site](equip)
+* [Zed's Game](zed/index.html)
+* [Equip English Site](equip/index.md)
