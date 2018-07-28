@@ -2,4 +2,4 @@
 
 I've made these:
 * [Zed's Game](zed/index.html)
-* [Equip English Site](equip/index.md)
+* [Equip English Site](equip/README.md)
