@@ -1,3 +1,5 @@
+# Weekly Reading Assignments / Writing Prompts
+
 ## Fall Semester
 
 | Date | Reading Assignments / Writing Prompts |
