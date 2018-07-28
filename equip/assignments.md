@@ -19,3 +19,6 @@
 | 11/23/2018 | Semester Paper Due via e-mail by noon |
 
 ## Spring Semester
+
+| Date | Reading Assignments / Writing Prompts |
+| ---  | ---                                   |
