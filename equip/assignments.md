@@ -5,7 +5,11 @@
 | Date | Reading Assignments / Writing Prompts |
 | ---  | ---                                   |
 | 8/17/2018 | "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. |
-| 8/24/2018 | "[The Landlord's Tale. Paul Revere's Ride](https://www.poetryfoundation.org/poems/44637/the-landlords-tale-paul-reveres-ride)," Henry Wadsworth Longfellow; "[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)," Matthew Arnold. <br>• Question 1<br>• Question 2 |
+| 8/24/2018 | "[The Landlord's Tale. Paul Revere's Ride](https://www.poetryfoundation.org/poems/44637/the-landlords-tale-paul-reveres-ride)," Henry Wadsworth Longfellow; "[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)," Matthew Arnold. <!-- {% raw %} -->
+```html
+<ul><li>Question 1<li> Question 2</ul>
+```
+<!-- {% endraw %}) --> |
 | 8/31/2018 | "[The Raven](https://www.poetryfoundation.org/poems/48860/the-raven)," Edgar Allen Poe. <br>• Question 1<br>• Question 2 |
 | 9/7/2018 | Poems TBD (Available online) <br>• Question 1<br>• Question 2 |
 | 9/14/2018 | "[God's Grandeur](https://www.poetryfoundation.org/poems/44395/gods-grandeur)," G. Manley Hopkins; "[I heard a Fly buzz - when I died - (591)](https://www.poetryfoundation.org/poems/45703/i-heard-a-fly-buzz-when-i-died-591)," Emily Dickinson; "[The Love Song of J. Alfred Prufrock](https://www.bartleby.com/198/1.html)," T. S. Eliot. <br>• Question 1<br>• Question 2 |
