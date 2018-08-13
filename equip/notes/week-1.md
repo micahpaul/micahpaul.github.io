@@ -26,4 +26,4 @@ I could blather on about the wonders of outlining and how it helped to save me f
 
 Outlining a Poem
 ---
-Let's start with a fairly straightforward example: Robert Frost's "Stopping By Woods on a Snowy Evening." 
+We'll begin with a fairly traditional, straightforward example: Robert Frost's "Stopping By Woods on a Snowy Evening."
