@@ -4,7 +4,7 @@
 
 | Date | Reading Assignments / Writing Prompts | Notes |
 | ---  | ---                                   | ---   |
-| 8/17/2018 | "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. |
+| 8/17/2018 | "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. | [Week 1 Notes](notes/week-1.md)
 | 8/24/2018 | "[The Landlord's Tale. Paul Revere's Ride](https://www.poetryfoundation.org/poems/44637/the-landlords-tale-paul-reveres-ride)," Henry Wadsworth Longfellow; "[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)," Matthew Arnold. <br>• Question 1<br>• Question 2 |
 | 8/31/2018 | "[The Raven](https://www.poetryfoundation.org/poems/48860/the-raven)," Edgar Allen Poe. <br>• Question 1<br>• Question 2 |
 | 9/7/2018 | "[Kubla Khan](https://www.poetryfoundation.org/poems/43991/kubla-khan)," Samuel Taylor Coleridge. <br>• Question 1<br>• Question 2 |
