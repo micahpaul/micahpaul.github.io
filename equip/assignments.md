@@ -2,8 +2,8 @@
 
 ## Fall Semester
 
-| Date | Reading Assignments / Writing Prompts |
-| ---  | ---                                   |
+| Date | Reading Assignments / Writing Prompts | Notes |
+| ---  | ---                                   | ---   |
 | 8/17/2018 | "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. |
 | 8/24/2018 | "[The Landlord's Tale. Paul Revere's Ride](https://www.poetryfoundation.org/poems/44637/the-landlords-tale-paul-reveres-ride)," Henry Wadsworth Longfellow; "[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)," Matthew Arnold. <br>• Question 1<br>• Question 2 |
 | 8/31/2018 | "[The Raven](https://www.poetryfoundation.org/poems/48860/the-raven)," Edgar Allen Poe. <br>• Question 1<br>• Question 2 |
@@ -22,8 +22,8 @@
 
 ## Spring Semester
 
-| Date | Reading Assignments / Writing Prompts |
-| ---  | ---                                   |
+| Date | Reading Assignments / Writing Prompts | Notes |
+| ---  | ---                                   | ---   |
 | 1/4/2019 | [*The Tempest*](http://www.gutenberg.org/ebooks/47518), William Shakespeare. Act I - Act II <br>• Question 1<br>• Question 2 |
 | 1/11/2019 | [*The Tempest*](http://www.gutenberg.org/ebooks/47518), William Shakespeare. Act III - Epilogue (end) <br>• Question 1<br>• Question 2 |
 | 1/18/2019 | [*Emma*](http://www.gutenberg.org/ebooks/158), Jane Austen. [Vol. 1 Ch. 1](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0001) - [Vol. 2 Ch. 10](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0028) <br>• Question 1<br>• Question 2 |
