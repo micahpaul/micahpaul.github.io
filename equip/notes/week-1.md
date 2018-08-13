@@ -50,7 +50,7 @@ That's better, I guess, but these are still pretty big questions. Let's break th
 * Form (How is the poem put together? How does it look? How does it sound?)
   - Rhyme (Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?)
   - Rhythm (Which syllables are stressed in each line? Is there a pattern that repeats?)
-  -Layout (How is the poem laid out on the page? Is anything about it surprising?)
+  - Layout (How is the poem laid out on the page? Is anything about it surprising?)
   - Structure (How many stanzas \[verses] are there? How are they arranged?)
 * Content (What is being discussed? Is it telling a story? What are the themes?)
   - Plot (Is there a story? What's the beginning? Middle? End?)
