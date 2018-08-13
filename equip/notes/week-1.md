@@ -2,7 +2,7 @@ Outlining: A Brief Appreciation
 ---
 Here's one of the most earth-shaking lessons I ever learned about reading and writing. Are you ready? Really ready? Bursting at the seams for me to share my wisdom? Well, here it is:
 
-> **Outlining is like a power tool for readers and writers.**
+### Outlining is like a power tool for readers and writers.
 
 It took me a very, very long time to learn this, and I wish I had learned it sooner.
 
@@ -20,7 +20,7 @@ It took me years to get back to a place where I felt confident as a reader and w
 
 Here's the root of just about any problem-solving strategy:
 
-> **When a problem feels too big or complex, cut it into smaller pieces.**
+### **When a problem feels too big or complex, cut it into smaller pieces.**
 
 If those smaller pieces are still overwhelming, cut each of them into smaller pieces. Keep doing this all the way down until every piece is one you can hold, comprehend, and understand.
 
@@ -36,18 +36,18 @@ You can think of a poem as an artful arrangement of words. Poems are normally in
 
 The "problem" we need to break down here is the poem itself. Let's start by thinking about the different elements of a poem. Another way to think of this is "What choices did the poet make in writing this poem? Assuming she could have written it any way she wanted, why did she choose this one?"
 
-> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+> **Poem: What does the author intend to communicate? How does s/he try to accomplish that?**
 
 Well, that's a bit overwhelming. Probably need to break it down more than that. 
 
-> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+> **Poem: What does the author intend to communicate? How does s/he try to accomplish that?**
 > * Form: How is the poem put together? How does it look? How does it sound?
 > * Content: What is being discussed? Is it telling a story? What are the themes?
 > * Voice: Who's talking? How do they talk? Is their language simple? Fancy? Somewhere in between?
 
 That's better, I guess, but these are still pretty big questions. Let's break them down some more:
 
-> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+> **Poem: What does the author intend to communicate? How does s/he try to accomplish that?**
 > * Form: How is the poem put together? How does it look? How does it sound?
 >   - Rhyme: Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?
 >   - Rhythm: Which syllables are stressed in each line? Is there a pattern that repeats? How does the rhythm drive or inform the poem's meaning?
