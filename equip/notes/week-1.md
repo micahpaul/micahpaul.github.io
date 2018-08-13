@@ -36,7 +36,11 @@ You can think of a poem as an artful arrangement of words. Poems are normally in
 
 The "problem" we need to break down here is the poem itself. Let's start by thinking about the different elements of a poem. Another way to think of this is "What choices did the poet make in writing this poem? Assuming she could have written it any way she wanted, why did she choose this one?"
 
+---
+
 **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+
+---
 
 Well, that's a bit overwhelming. Probably need to break it down more than that. 
 
