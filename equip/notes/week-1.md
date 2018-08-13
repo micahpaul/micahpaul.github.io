@@ -41,24 +41,25 @@ The "problem" we need to break down here is the poem itself. Let's start by thin
 Well, that's a bit overwhelming. Probably need to break it down more than that. 
 
 **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
-* Form (How is the poem put together? How does it look? How does it sound?)
-* Content (What is being discussed? Is it telling a story? What are the themes?)
-* Voice (Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?)
+* Form: How is the poem put together? How does it look? How does it sound?
+* Content: What is being discussed? Is it telling a story? What are the themes?
+* Voice: Who's talking? How do they talk? Is their language simple? Fancy? Somewhere in between?
 
 That's better, I guess, but these are still pretty big questions. Let's break them down some more:
 **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
-* Form (How is the poem put together? How does it look? How does it sound?)
-  - Rhyme (Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?)
-  - Rhythm (Which syllables are stressed in each line? Is there a pattern that repeats?)
-  - Layout (How is the poem laid out on the page? Is anything about it surprising?)
-  - Structure (How many stanzas \[verses] are there? How are they arranged?)
-* Content (What is being discussed? Is it telling a story? What are the themes?)
-  - Plot (Is there a story? What's the beginning? Middle? End?)
-  - Conflict (Is there any sort of conflict in the poem? Is it man vs. man, man vs. nature, man vs. himself, man vs. God? Something else?)
-  - Theme (What are the big-picture things discussed in the poem? How do they relate to the story and other elements?)
-* Voice (Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?)
-  - Perspective (Is the point of view limited? Or does the speaker seem to know everything? Do her limitations affect what we, as readers, know?)
-  - Diction (What words are chosen by the narrator? By other characters in the poem? What do they tell us about who these people are and how they see the world?)
-  - Tone (Is this a serious poem? Humorous? Tragic? Ironic? How does the author intend for it to be read?)
+* Form: How is the poem put together? How does it look? How does it sound?
+  - Rhyme: Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?
+  - Rhythm: Which syllables are stressed in each line? Is there a pattern that repeats? How does the rhythm drive or inform the poem's meaning?
+  - Layout: How is the poem laid out on the page? Is anything about it surprising?
+  - Structure: How many stanzas (verses) are there? How are they arranged? How does the structure contribute to the overall feeling of the poem?
+* Content: What is being discussed? Is it telling a story? What are the themes?
+  - Plot: Is there a story? What's the beginning? Middle? End? What makes the reader care about it?
+  - Conflict: Is there any sort of conflict in the poem? Is it man vs. man, man vs. nature, man vs. himself, man vs. God? Something else? What does this conflict suggest about the poet and about the reader?
+  - Theme: What are the big-picture things discussed in the poem? How do they relate to the story and other elements?
+* Voice: Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?
+  - Perspective: Is the point of view limited? Or does the speaker seem to know everything? Do her limitations affect what we, as readers, know? Why does the poet choose this perspective?
+  - Diction: What words are chosen by the narrator? By other characters in the poem? What do they tell us about who these people are and how they see the world? What do they suggest about the poet's intent?
+  - Tone: Is this a serious poem? Humorous? Tragic? Ironic? Silly? Why might the poet have chosen this tone?
   
 OK, now we're getting into smaller, more manageable questions. Let's give this a shot.
+
