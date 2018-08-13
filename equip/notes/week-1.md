@@ -34,7 +34,7 @@ We'll begin with a fairly straightforward, short example: Robert Frost's "[Stopp
 
 You can think of a poem as an artful arrangement of words. Poems are normally intended to be beautiful to the ear and so are meant to be read aloud. Poets also often pay attention to how the words are arranged on the page, so poems will be lovely to look at as well as to hear. Poems often tell stories or relates some information about how the narrator (i.e., the speaker) sees the world. This might align with how the poet herself sees the world, or the voice might be a more imaginary ("fictional") one.
 
-The "problem" we need to break down here is the poem itself:
+The "problem" we need to solve here is the poem itself:
 
 > **Poem: What does the author intend to communicate?**
 
