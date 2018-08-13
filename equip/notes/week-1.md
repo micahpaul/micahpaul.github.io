@@ -22,7 +22,7 @@ Here's the root of just about any problem-solving strategy: **When a problem fee
 
 I call outlining a "power tool" because it is the best, cleanest, most efficient way I know to break language-related problems down into smaller, more manageable pieces.
 
-I could blather on about the wonders of outlining and how it helped to save me from an academic slough of despond, but you're probably getting bored. So let's stop talking about it and start to  actually do it!
+I could blather on about the wonders of outlining and how it helped to save me from an academic slough of despond, but you're probably getting bored. So let's stop talking about it and start actually doing it!
 
 Outlining a Poem
 ---
