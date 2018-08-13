@@ -2,11 +2,7 @@ Outlining: A Brief Appreciation
 ---
 Here's one of the most earth-shaking lessons I ever learned about reading and writing. Are you ready? Really ready? Bursting at the seams for me to share my wisdom? Well, here it is:
 
----
-
-**Outlining is like a power tool for readers and writers.**
-
----
+> **Outlining is like a power tool for readers and writers.**
 
 It took me a very, very long time to learn this, and I wish I had learned it sooner.
 
@@ -24,19 +20,13 @@ It took me years to get back to a place where I felt confident as a reader and w
 
 Here's the root of just about any problem-solving strategy:
 
----
-
-**When a problem feels too big or complex, cut it into smaller pieces.**
-
----
+> **When a problem feels too big or complex, cut it into smaller pieces.**
 
 If those smaller pieces are still overwhelming, cut each of them into smaller pieces. Keep doing this all the way down until every piece is one you can hold, comprehend, and understand.
 
 I call outlining a "power tool" because it is the best, cleanest, most efficient way I know to break language-related problems down into smaller, more manageable pieces.
 
 I could blather on about the wonders of outlining and how it helped to save me from an academic slough of despond, but you're probably getting bored. So let's stop talking about it and start actually doing it!
-
----
 
 Outlining a Poem
 ---
@@ -46,44 +36,31 @@ You can think of a poem as an artful arrangement of words. Poems are normally in
 
 The "problem" we need to break down here is the poem itself. Let's start by thinking about the different elements of a poem. Another way to think of this is "What choices did the poet make in writing this poem? Assuming she could have written it any way she wanted, why did she choose this one?"
 
----
-
-**Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
-
----
+> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
 
 Well, that's a bit overwhelming. Probably need to break it down more than that. 
 
----
-
-**Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
-* Form: How is the poem put together? How does it look? How does it sound?
-* Content: What is being discussed? Is it telling a story? What are the themes?
-* Voice: Who's talking? How do they talk? Is their language simple? Fancy? Somewhere in between?
-
----
+> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+> * Form: How is the poem put together? How does it look? How does it sound?
+> * Content: What is being discussed? Is it telling a story? What are the themes?
+> * Voice: Who's talking? How do they talk? Is their language simple? Fancy? Somewhere in between?
 
 That's better, I guess, but these are still pretty big questions. Let's break them down some more:
 
----
+> **Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
+> * Form: How is the poem put together? How does it look? How does it sound?
+>   - Rhyme: Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?
+>   - Rhythm: Which syllables are stressed in each line? Is there a pattern that repeats? How does the rhythm drive or inform the poem's meaning?
+>   - Layout: How is the poem laid out on the page? Is anything about it surprising?
+>   - Structure: How many stanzas (verses) are there? How are they arranged? How does the structure contribute to the overall feeling of the poem?
+> * Content: What is being discussed? Is it telling a story? What are the themes?
+>   - Plot: Is there a story? What's the beginning? Middle? End? What makes the reader care about it?
+>   - Conflict: Is there any sort of conflict in the poem? Is it man vs. man, man vs. nature, man vs. himself, man vs. God? Something else? What does this conflict suggest about the poet and about the reader?
+>   - Theme: What are the big-picture things discussed in the poem? How do they relate to the story and other elements?
+> * Voice: Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?
+>   - Perspective: Is the point of view limited? Or does the speaker seem to know everything? Do her limitations affect what we, as readers, know? Why does the poet choose this perspective?
+>   - Diction: What words are chosen by the narrator? By other characters in the poem? What do they tell us about who these people are and how they see the world? What do they suggest about the poet's intent?
+>   - Tone: Is this a serious poem? Humorous? Tragic? Ironic? Silly? Why might the poet have chosen this tone?
 
-**Poem: What did the author intend it to mean? How does s/he try to accomplish that?**
-* Form: How is the poem put together? How does it look? How does it sound?
-  - Rhyme: Does the poem rhyme? Which lines rhyme with others? How does the rhyme contribute to the feeling or meaning that the poem conveys?
-  - Rhythm: Which syllables are stressed in each line? Is there a pattern that repeats? How does the rhythm drive or inform the poem's meaning?
-  - Layout: How is the poem laid out on the page? Is anything about it surprising?
-  - Structure: How many stanzas (verses) are there? How are they arranged? How does the structure contribute to the overall feeling of the poem?
-* Content: What is being discussed? Is it telling a story? What are the themes?
-  - Plot: Is there a story? What's the beginning? Middle? End? What makes the reader care about it?
-  - Conflict: Is there any sort of conflict in the poem? Is it man vs. man, man vs. nature, man vs. himself, man vs. God? Something else? What does this conflict suggest about the poet and about the reader?
-  - Theme: What are the big-picture things discussed in the poem? How do they relate to the story and other elements?
-* Voice: Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?
-  - Perspective: Is the point of view limited? Or does the speaker seem to know everything? Do her limitations affect what we, as readers, know? Why does the poet choose this perspective?
-  - Diction: What words are chosen by the narrator? By other characters in the poem? What do they tell us about who these people are and how they see the world? What do they suggest about the poet's intent?
-  - Tone: Is this a serious poem? Humorous? Tragic? Ironic? Silly? Why might the poet have chosen this tone?
+OK, now we're getting into smaller, more manageable questions. Let's take a crack at answering some of these.
 
----
-
-OK, now we're getting into smaller, more manageable questions. Let's give this a shot.
-
----
