@@ -20,7 +20,7 @@ It took me years to get back to a place where I felt confident as a reader and w
 
 Here's the root of just about any problem-solving strategy: **When a problem feels too big or complex, cut it into smaller pieces.** If those smaller pieces are still overwhelming, cut each of them into smaller pieces. Keep doing this until every piece is one you can hold, comprehend, and understand. 
 
-I call outlining a "power tool" because it is the best way I know to break language-related problems down into smaller, more manageable pieces.
+I call outlining a "power tool" because it is the best, cleanest, most efficient way I know to break language-related problems down into smaller, more manageable pieces.
 
 I could blather on about the wonders of outlining and how it helped to save me from an academic slough of despond, but you're probably getting bored. So let's stop talking about it and start to  actually do it!
 
