@@ -77,7 +77,7 @@ OK, now we're getting into smaller, more manageable questions. Let's take a crac
 > * Voice: Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?
 >   - Perspective: The narrator is the main character: A person driving through the woods in wintertime. His perspective seems neitehr very narrow nor very omniscient. He knows what he knows. He is not very plagued by doubt.
 >   - Diction: The word choice is simple and straightforward, without being colloquial or ignorant. It is conversational, though it tends toward poetic in the fourth stanza. 
->   - Tone: I'd characterize this as fairly serious, though the rhyme scheme and the narrator's consideration of stopping in snowy woods also hints at a certain playfulness.
+>   - Tone: I'd characterize this as fairly serious, though the rhyme scheme and the narrator's consideration of stopping in snowy woods also hint at a certain playfulness.
 
 Now our summary of the poem has  meat on its bones. We're even moving toward some interesting anlysis! This outline isn't anywhere close to comprehensive or complete yet, but it gives us a lot to begin working with. 
 
