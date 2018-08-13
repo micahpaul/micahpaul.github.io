@@ -64,3 +64,21 @@ That's better, I guess, but these are still pretty big questions. Let's break th
 
 OK, now we're getting into smaller, more manageable questions. Let's take a crack at answering some of these.
 
+> **Poem ("Stopping by Woods on a Snowy Evening"): What does the author intend to communicate? How does he try to accomplish that?**
+> * Form: How is the poem put together? How does it look? How does it sound?
+>   - Rhyme: The rhyme scheme is AABA, BBCB, CCDC, DDDD. Each of the first three stanzas foreshadows the main rhyme of the following stanza, which pushes the poem along and provides continuity. The pattern change in stanza four underscores the significance of the repeated phrase "And miles to go before I sleep."
+>   - Rhythm: The rhythm is iambic tetrameter (u' u' u' u'). This is a natural rhythm for English speech and could also mimic the sound of a horse's hooves plodding over snow.
+>   - Layout: The visual layout is very standard. The only thing that struck me visually is that in stanza four, each line ends with a comma.
+>   - Structure: There are four stanzas of four equal lines each. This adds to the traditional, straightforward feeling of the poem. The 4 x 4 structure lends a feeling of well-roundedness and symmetry, perhaps. The repetition of the final line is significant.
+> * Content: What is being discussed? Is it telling a story? What are the themes?
+>   - Plot: Beginning: A man and his horse are going through snowy woods. The man ponders stopping. No one will notice if he does, but he has things to do and so resolves to continue on his busy way.
+>   - Conflict: The conflict here is man against himself, or possibly man against society? He briefly considers stopping in the quiet, peaceful woods, thereby forsaking his obligations elsewhere.
+>   - Theme: Work vs. rest is the obvious theme that arises here. There's also the opposition of nature vs. human activity, along with the question of which is ultimately better. The lovely, dark, deep, snowy woods can also be read as a metaphor for death, which would lend a much more sinister tone to the entire poem.
+> * Voice: Who's talking? How do they talk? Is their language simple, fancy, somewhere in between?
+>   - Perspective: The narrator is the main character: A person driving through the woods in wintertime. His perspective seems neitehr very narrow nor very omniscient. He knows what he knows. He is not very plagued by doubt.
+>   - Diction: The word choice is simple and straightforward, without being colloquial or ignorant. It is conversational, though it tends toward poetic in the fourth stanza. 
+>   - Tone: I'd characterize this as fairly serious, though the rhyme scheme and the narrator's consideration of stopping in snowy woods also hints at a certain playfulness.
+
+Now our summary of the poem has  meat on its bones. We're even moving toward some interesting anlysis! This outline isn't anywhere close to comprehensive or complete yet, but it gives us a lot to begin working with. 
+
+I hope this introduction to the power tool of outlining will prove useful as you begin working in earnest on the literary crafts of reading and writing.
