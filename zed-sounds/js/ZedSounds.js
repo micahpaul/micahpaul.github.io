@@ -80,7 +80,9 @@ var testSound = new Howl({
 
 
 function playSound(whichSound) {	
-	testSound.play(whichSound);
+	if ( ! testSound.playing() ) {
+		testSound.play(whichSound);
+	}
 }
 
 // colors.push(new ColorObject("red")); 
