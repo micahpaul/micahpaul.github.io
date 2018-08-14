@@ -79,10 +79,8 @@ var testSound = new Howl({
 // }
 
 
-function main() {	
-	testSound.play('three');
-	testSound.play('two');
-	testSound.play('one');
+function playSound(whichSound) {	
+	testSound.play(whichSound);
 }
 
 // colors.push(new ColorObject("red")); 
