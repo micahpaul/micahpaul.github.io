@@ -10,9 +10,9 @@ createjs.Touch.enable(stage);
 var testSound = new Howl({
   src: ['sounds/test.mp3'],
   sprite: {
-    one: [0, 800],
-    two: [2000, 700],
-    three: [4000, 900]
+    one: [0, 1100],
+    two: [2000, 800],
+    three: [3000, 700]
   }
 });
 
