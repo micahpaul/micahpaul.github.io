@@ -2,9 +2,9 @@
 
 ## Fall Semester
 
-| Date | Reading Assignments / Writing Prompts | Notes |
-| ---  | ---                                   | ---   |
-| 8/17/2018 | "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. | [Week 1 Notes](notes/week-1.md)
+| Date | Reading Assignments / Writing Prompts / Notes |
+| ---  | ---                                   |
+| 8/17/2018 |  **Reading Assignment:** "[Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening)", Robert Frost. <br><br> **[Week 1 Notes](notes/week-1.md)**
 | 8/24/2018 | **Reading Assignment:** "[The Landlord's Tale. Paul Revere's Ride](https://www.poetryfoundation.org/poems/44637/the-landlords-tale-paul-reveres-ride)," Henry Wadsworth Longfellow; "[Dover Beach](https://www.poetryfoundation.org/poems/43588/dover-beach)," Matthew Arnold. <br><br>**Writing Prompts:** (It may help to refer to the [Week 1 Notes](notes/week-1.md) before writing) <br><br>• How would you characterize the tone of each poem? Are they serious? Funny? Sad? Something else? Give at least two specific examples from each poem to support your observations.<br><br>• In "Dover Beach," the narrator speaks of "The Sea of Faith" and compares it to the withdrawing tide. What do you think he means? Find at least two other lines we could use to help us understand "The Sea of Faith" and explain how they help. <br><br>• List at least three differences between these two poems. They could be differences in rhythm, rhyme scheme, tone, plot, format / structure, or any other poetic elements. Be as specific as possible and give examples from each poem to explain what you mean. Then, think about why these differences are significant. What do they tell us about each poet's purpose? |
 | 8/31/2018 | "[The Raven](https://www.poetryfoundation.org/poems/48860/the-raven)," Edgar Allen Poe. <br>• Question 1<br>• Question 2 |
 | 9/7/2018 | "[Kubla Khan](https://www.poetryfoundation.org/poems/43991/kubla-khan)," Samuel Taylor Coleridge. <br>• Question 1<br>• Question 2 |
@@ -22,8 +22,8 @@
 
 ## Spring Semester
 
-| Date | Reading Assignments / Writing Prompts | Notes |
-| ---  | ---                                   | ---   |
+| Date | Reading Assignments / Writing Prompts / Notes |
+| ---  | ---                                   |
 | 1/4/2019 | [*The Tempest*](http://www.gutenberg.org/ebooks/47518), William Shakespeare. Act I - Act II <br>• Question 1<br>• Question 2 |
 | 1/11/2019 | [*The Tempest*](http://www.gutenberg.org/ebooks/47518), William Shakespeare. Act III - Epilogue (end) <br>• Question 1<br>• Question 2 |
 | 1/18/2019 | [*Emma*](http://www.gutenberg.org/ebooks/158), Jane Austen. [Vol. 1 Ch. 1](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0001) - [Vol. 2 Ch. 10](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0028) <br>• Question 1<br>• Question 2 |
