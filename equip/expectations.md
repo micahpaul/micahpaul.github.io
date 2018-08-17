@@ -17,7 +17,7 @@ This is a class in writing and English literature. As such, I place a lot of emp
   - I give a 5-minute, 5-point reading quiz at the start of each class for accountability and to refresh my students' memories about what we read.
   - Students are encouraged to submit quiz questions. If they do, they will receive one point of extra credit for the week's quiz. 
 - **Writing**:
-  - Each weeek, I ask my students to submit a short (between 450 and 550 words) paper about the weekly readings.
+  - Each week, I ask my students to submit a short (between 450 and 550 words) paper about the weekly readings.
   - I provide weekly writing prompts that students may choose from in writing their papers. 
   - The papers should be submitted before the beginning of class if possible. 
   - I prefer that the papers be submitted by e-mail, since this makes it easier for me to read, comment on, and return them in a timely manner. I prefer for them to share these as Google Docs documents, but e-mailed Word Documents (.docx format) can also work well.
