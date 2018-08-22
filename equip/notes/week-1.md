@@ -20,7 +20,7 @@ It took me years to get back to a place where I felt confident as a reader and w
 
 Here's the root of just about any problem-solving strategy:
 
-### **When a problem feels too big or complex, cut it into smaller pieces.**
+### When a problem feels too big or complex, cut it into smaller pieces.
 
 If those smaller pieces are still overwhelming, cut each of them into smaller pieces. Keep doing this all the way down until every piece is one you can hold, comprehend, and understand.
 
