@@ -16,6 +16,14 @@ One group is about how the poem sounds (rhyme and rhythm). Another is about the 
 
 ### Step 3: Labeling Each Pile
 
+Let's put names on the different groupings we've made. This will help us think about the poem in a more organized, structured way. If we find that our groupings are inadequate or incorrect, we can always change them later. The important part is to put something down on paper, and then we can improve it later. I've labeled these with "SST" for "Smaller Supporting Things." These are not the one big point of the paper, but they are sub-points that support it.
+
 ![Raven Outline Step 3](raven-outline-3.png "Raven Outline Step 3")
 
+### Step 4:Bringing it All Together
+
+Now that we've finished sorting and labeling our pile of confetti, let's think about how to fit all of our biggest pieces into one overarching topic. I'll call this "OBT" for "One Big Thing." Our smaller things involve the poem's preoccupation with darkness, the narrator's mental state, and the feeling that the rhythm and rhyme impart to the poem. So I pull them all together and come up with something like this:
+
 ![Raven Outline Step 4](raven-outline-4.png "Raven Outline Step 4")
+
+It's not finished yet, and you could certainly disagree with some of my interpretations. (I'm not sure that **I** even agree with them at this point.) But it's a start! My notes are  no longer a scattered pile of disconnected facts. I even have a general outline that I can follow when I start actually writing the paper! Little by little, we are shaping the chaos into something orderly and interesting.
