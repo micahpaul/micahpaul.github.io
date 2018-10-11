@@ -26,3 +26,12 @@ Fall 2018 Semester Paper
 - *Content: 30%*
   - One clear, well-reasoned Big Idea 
   - Appropriately supported by smaller ideas and concrete examples throughout the paper
+  
+**Paper Topic Options**:
+1. Several of the poems we've read this semester deal with death, including "The Landlord's Tale. Paul Revere's Ride," "Stopping by Woods on a Snowy Evening," "The Raven," "I heard a Fly buzz - when I died - (591)," and "Because I could not stop for Death (479)." Examining **at least three separate poems**, discuss how each poet portrays death. What is its significance for the poem? How do they ask their reader to engage with the concept of death? **Optional:** You might also discuss how each poet's view of death compares to and contrasts with Christianity's teachings about it. Be sure to use **specific quotes and examples** to support your claims!
+
+2. The lineage of the Robin Hood legend is a long one, dating from at least the mid- to late 1400s. You've read two of the more modern contributions to it: *The Merry Adventures of Robin Hood* and *The Outlaws of Sherwood*. We've even watched part of the Disney cartoon *Robin Hood*, where all the characters are animals. We've also discussed in class some of the early forerunners to the Robin Hood legend, including "The Gest of Robyn Hode" and other tales from *The Child Ballads*, such as "Robin Hood's Progress to Nottingham" and "Robin Hode and the Monk." Pick **one specific tale, feature, or idea** from the legends and trace it from the early versions all the way through to a present-day version of the tale. How does it change over time? What different purposes do the authors have at various places along the way? Use **specific quotes and examples from at least three different versions** of the story to support your ideas.
+
+3. *David Copperfield* is a long and complicated novel, with characters weaving in and out of the narrative at unexpected moments. Dickens lends some structure to the novel by using foreshadowing to hint at changes or events that will come later. Give **at least three examples of foreshadowing** from the novel and rank them in order of effectiveness. Are any of them too obvious? Not obvious enough? What is Dickens hoping to accomplish with this foreshadowing? Do you think he succeeds in his goal? Why or why not?
+
+4. If you would like to write about something else, please contact me with your idea so I can help ensure that it's appropriate for this assignment. Imagination and initiative are admirable, and I want to encourage them!
