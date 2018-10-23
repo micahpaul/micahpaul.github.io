@@ -50,8 +50,8 @@
 		var tmpY = event.pageY - canvas.offsetTop;
 		var imgData=context.getImageData(tmpX,tmpY,1,1);
 		
-		if(imgData[0] < 200 &&
-		   imgData[1] < 200 &&
+		if(imgData[0] < 200 ||
+		   imgData[1] < 200 ||
 		   imgData[2] < 200) {
 			fillMap(BLUISH, [tmpX, tmpY]); 
 			}
