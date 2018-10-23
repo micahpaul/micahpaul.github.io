@@ -23,9 +23,8 @@
 	mapImage.height = 624;
 
 	mapImage.onload = function() {
-		clearMap();		// redraw blank map
-		fillMap(BLUISH,		// Use blue, semi-transparent
-			STARTING_SPOT);	// at 50x, 75y, tolerance of 30
+		clearMap();
+		fillMap(REDDISH, STARTING_SPOT);
 	}
 	
 	mapImage.src = "riskmap.jpg";
@@ -42,12 +41,12 @@
 				     rgba[2] + "," +
 				     rgba[3] + ")";
 				     
-		context.fillFlood(xyt[0], xyt[1], CLICK_TOLERANCE);	
+		context.fillFlood(xy[0], xy[1], CLICK_TOLERANCE);	
 	}
 	
 	// Add event listener for `click` events.
 	canvas.addEventListener('click', function(event) {
-		fillMap(REDDISH, [event.pageX - canvas.offsetLeft, event.pageY - canvas.offsetTop]); 
+		fillMap(BLUISH, [event.pageX - canvas.offsetLeft, event.pageY - canvas.offsetTop]); 
 		});
         -->
     </script>
