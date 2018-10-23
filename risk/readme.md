@@ -13,7 +13,7 @@
 	HPADDING 	= 76;
 	BLUISH	 	= [0,0,255,0.5];
 	REDDISH		= [255,0,0,0.5];
-	CLICK_TOLERANCE	= 30;
+	CLICK_TOLERANCE	= 50;
 	STARTING_SPOT 	= [50,75];
         canvas = document.getElementById("fl_canvas");
 	context = canvas.getContext("2d");
