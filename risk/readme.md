@@ -21,7 +21,7 @@
 	mapImage.onload = function() {
 		clearMap();		// redraw blank map
 		fillMap([255,0,0,1.0],	// Use red, non-transparent
-			[50,75,1]);	// at 50x, 75y, tolerance of 1
+			[50,75,30]);	// at 50x, 75y, tolerance of 1
 	}
 	
 	mapImage.src = "riskmap.jpg";
@@ -41,6 +41,14 @@
 		context.fillFlood(xyt[0], xyt[1], xyt[2]);	
 	}
 	
+	function getMousePos(canvas, evt) {
+	    var rect = canvas.getBoundingClientRect();
+	    return {
+	      x: evt.clientX - rect.left,
+	      y: evt.clientY - rect.top
+	      };
+	}
+
         -->
     </script>
     
