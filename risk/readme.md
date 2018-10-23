@@ -20,8 +20,8 @@
 
 	mapImage.onload = function() {
 		clearMap();		// redraw blank map
-		fillMap([255,0,0,1.0],	// Use red, non-transparent
-			[50,75,128]);	// at 50x, 75y, tolerance of 1
+		fillMap([255,0,0,0.5],	// Use red, semi-transparent
+			[50,75,30]);	// at 50x, 75y, tolerance of 30
 	}
 	
 	mapImage.src = "riskmap.jpg";
