@@ -48,7 +48,7 @@
 	// Add event listener for `click` events.
 	canvas.addEventListener('click', function(event) {
 		fillMap(REDDISH, [event.pageX - canvas.offsetLeft, event.pageY - canvas.offsetTop]); 
-		}
+		});
         -->
     </script>
     
