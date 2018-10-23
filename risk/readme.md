@@ -6,9 +6,12 @@
     <canvas id="fl_canvas" width="1100" height="700"></canvas>
     <script type="text/javascript" src="floodfill.min.js"></script>
 	<script type="text/javascript">
-        <!--
+        
+	<!--
+	WPADDING = 80;
+	HPADDING = 76;
         canvas = document.getElementById("fl_canvas");
-		context = canvas.getContext("2d");
+	context = canvas.getContext("2d");
 
         image = new Image();
 		image.width = 1020;
@@ -19,9 +22,9 @@
 			context.fillStyle = "rgba(255,0,0,1.0)";
 			context.fillFlood(50, 75, 1);
 		}
+		
         image.src = "riskmap.jpg";
-        
-        
+	
         -->
     </script>
     
