@@ -13,7 +13,7 @@
 	HPADDING 	= 76;
 	BLUISH	 	= [0,0,255,0.5];
 	REDDISH		= [255,0,0,0.5];
-	CLICK_TOLERANCE	= 50;
+	CLICK_TOLERANCE	= 60;
 	STARTING_SPOT 	= [50,75];
         canvas = document.getElementById("fl_canvas");
 	context = canvas.getContext("2d");
@@ -46,7 +46,15 @@
 	
 	// Add event listener for `click` events.
 	canvas.addEventListener('click', function(event) {
-		fillMap(BLUISH, [event.pageX - canvas.offsetLeft, event.pageY - canvas.offsetTop]); 
+		var tmpX = event.pageX - canvas.offsetLeft;
+		var tmpY = event.pageY - canvas.offsetTop;
+		var imgData=context.getImageData(tmpX,tmpY,1,1);
+		
+		if(imgData[0] < 200 &&
+		   imgData[1] < 200 &&
+		   imgData[2] < 200) {
+			fillMap(BLUISH, [tmpX, tmpY]); 
+			}
 		});
         -->
     </script>
