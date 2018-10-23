@@ -24,7 +24,7 @@
 			[50,75,1]);	// at 50x, 75y, tolerance of 1
 	}
 	
-	image.src = "riskmap.jpg";
+	mapImage.src = "riskmap.jpg";
 	
 	function clearMap() {
 		context.clearRect(0, 0, canvas.width, canvas.height);
