@@ -14,6 +14,7 @@
 	BLUISH	 	= [0,0,255,0.5];
 	REDDISH		= [255,0,0,0.5];
 	CLICK_TOLERANCE	= 60;
+	LINE_TOLERANCE	= 60;	// just coincidentally the same as CLICK_TOLERANCE
 	STARTING_SPOT 	= [50,75];
         canvas = document.getElementById("fl_canvas");
 	context = canvas.getContext("2d");
@@ -50,7 +51,9 @@
 		var tmpY = event.pageY - canvas.offsetTop;
 		var imgData=context.getImageData(tmpX,tmpY,1,1);
 		
-		if ( imgData.data[0] > 10 || imgData.data[1] > 10 || imgData.data[2] > 10 ) {
+		if ( imgData.data[0] > LINE_TOLERANCE || 
+		     imgData.data[1] > LINE_TOLERANCE || 
+		     imgData.data[2] > LINE_TOLERANCE ) {
 			fillMap( BLUISH, [tmpX, tmpY] );
 			}
 		});
