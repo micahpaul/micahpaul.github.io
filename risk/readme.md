@@ -19,7 +19,7 @@
 		image.onload = function() {
 			context.drawImage(image, 0, 0);
 			context.fillStyle = "rgba(255,0,0,1.0)";
-			context.fillFlood(50, 75, 32);
+			context.fillFlood(50, 75, 1);
 		}
         image.src = "riskmap.jpg";
         
