@@ -8,22 +8,38 @@
 	<script type="text/javascript">
         
 	<!--
+	
 	WPADDING = 80;
 	HPADDING = 76;
         canvas = document.getElementById("fl_canvas");
 	context = canvas.getContext("2d");
 
-        image = new Image();
-		image.width = 1020;
-		image.height = 624;
+        mapImage = new Image();
+	mapImage.width = 1020;
+	mapImage.height = 624;
 
-		image.onload = function() {
-			context.drawImage(image, 0, 0);
-			context.fillStyle = "rgba(255,0,0,1.0)";
-			context.fillFlood(50, 75, 1);
-		}
-		
-        image.src = "riskmap.jpg";
+	mapImage.onload = function() {
+		clearMap();		// redraw blank map
+		fillMap([255,0,0,1.0],	// Use red, non-transparent
+			[50,75,1]);	// at 50x, 75y, tolerance of 1
+	}
+	
+	image.src = "riskmap.jpg";
+	
+	function clearMap() {
+		context.clearRect(0, 0, canvas.width, canvas.height);
+		context.drawImage(mapImage, 0, 0);
+	}
+	
+	function fillMap(rgba, xyt) {
+		context.fillStyle = "rgba(" + 
+				     rgba[0] + "," + 
+				     rgba[1] + "," +
+				     rgba[2] + "," +
+				     rgba[3] + ")";
+				     
+		context.fillFlood(xyt[0], xyt[1], xyt[2]);	
+	}
 	
         -->
     </script>
