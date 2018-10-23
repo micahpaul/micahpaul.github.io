@@ -1,11 +1,9 @@
-<!DOCTYPE HTML>
 <html lang="en">
 <head>
-    <meta charset=utf-8>
-    <title>floodfill</title>
+    <title>Risk Game</title>
 </head>
 <body>
-    <canvas id="fl_canvas" width="1020" height="624"></canvas>
+    <canvas id="fl_canvas" width="1100" height="700"></canvas>
     <script type="text/javascript" src="floodfill.min.js"></script>
 	<script type="text/javascript">
         <!--
@@ -13,8 +11,8 @@
 		context = canvas.getContext("2d");
 
         image = new Image();
-		image.width = canvas.width;
-		image.height = canvas.height;
+		image.width = 1020;
+		image.height = 624;
 
 		image.onload = function() {
 			context.drawImage(image, 0, 0);
