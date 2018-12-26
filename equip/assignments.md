@@ -4,8 +4,8 @@
 
 | Date | Reading Assignments / Writing Prompts / Notes |
 | ---  | ---                                   |
-| 1/4/2019 | [*The Tempest*](https://www.gutenberg.org/ebooks/23042), William Shakespeare. Act I - Act II <br>• Question 1<br>• Question 2 |
-| 1/11/2019 | [*The Tempest*](https://www.gutenberg.org/ebooks/23042), William Shakespeare. Act III - Epilogue (end) <br>• Question 1<br>• Question 2 |
+| 1/4/2019 | [*The Tempest*](https://www.gutenberg.org/ebooks/23042), William Shakespeare. [Act I, Scene 1](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm#sceneI_1) - [Act II, Scene 2](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm#sceneII_2) <br>• Question 1<br>• Question 2 |
+| 1/11/2019 | [*The Tempest*](https://www.gutenberg.org/ebooks/23042), William Shakespeare. [Act III, Scene 1](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm#sceneIII_1) - [Act 5, Scene 1 and Epilogue](https://www.gutenberg.org/files/23042/23042-h/23042-h.htm#sceneV_1) (end) <br>• Question 1<br>• Question 2 |
 | 1/18/2019 | [*Emma*](http://www.gutenberg.org/ebooks/158), Jane Austen. [Vol. 1 Ch. 1](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2H_4_0001) - [Vol. 2 Ch. 10](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0028) <br>• Question 1<br>• Question 2 |
 | 1/25/2019 |  [*Emma*](http://www.gutenberg.org/ebooks/158), Jane Austen. [Vol. 2 Ch. 11](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0029) - [Vol. 3 Ch. 19 (end)](http://www.gutenberg.org/files/158/158-h/158-h.htm#link2HCH0055) <br>• Question 1<br>• Question 2 |
 | 2/1/2019 | Poems TBD (Available online) |
