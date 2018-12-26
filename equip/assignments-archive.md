@@ -1,3 +1,5 @@
+# [Current Assignments](assignments.md)
+
 # Weekly Reading Assignments / Writing Prompts - Archive
 
 ## Fall Semester
