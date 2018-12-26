@@ -17,7 +17,7 @@
 | 3/15/2019 | TBD - Related to *Beowulf* <br>• Question 1<br>• Question 2 |
 | 3/22/2019 | No Class |
 | 3/29/2019 | TBD - Related to *Beowulf* <br>• Question 1<br>• Question 2 |
-| 4/5/2019 | TBD - Related to *Beowulf* <br>• Question 1<br>• Question 2 |
-| 4/12/2019 | Semester Paper Due via e-mail by noon |
+| 4/5/2019 | TBD - Related to *Beowulf*; No writing assignment due. |
+| 4/19/2019 | Semester Paper Due via e-mail by noon |
 
 [Archive: Fall 2018 Assignments](assignments-archive.md)
