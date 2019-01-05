@@ -14,9 +14,9 @@
 | 2/22/2019 |  *Beowulf*, Seamus Heaney trans., lines 1-1599 <br>• Question 1<br>• Question 2 |
 | 3/1/2019 | No Class |
 | 3/8/2019 | *Beowulf*, Seamus Heaney trans., lines 1600-3182 (end) <br>• Question 1<br>• Question 2 |
-| 3/15/2019 | TBD - Related to *Beowulf* <br>• Question 1<br>• Question 2 |
+| 3/15/2019 | *Beowulf* (Graphic Novel), Gareth Hinds. (ISBN: 978-0-7636-3023-2) <br>• Question 1<br>• Question 2 |
 | 3/22/2019 | No Class |
-| 3/29/2019 | TBD - Related to *Beowulf* <br>• Question 1<br>• Question 2 |
+| 3/29/2019 | *Beowulf: A Tale of Blood, Heat, and Ashes*, retold by Nicky Raven, Illustrated by John Howe. (ISBN: 978-0-7636-3647-0) <br>• Question 1<br>• Question 2 |
 | 4/5/2019 | TBD - Related to *Beowulf*; No writing assignment due. |
 | 4/19/2019 | Semester Paper Due via e-mail by noon |
 
