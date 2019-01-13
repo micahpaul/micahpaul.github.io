@@ -58,6 +58,7 @@ function drawTheMeme(imgUrl, topText, bottomText) {
     ctx.drawImage(img, 0, 0);
     drawText(ctx, img, topText, true);
     drawText(ctx, img, bottomText, false);
+    // to do, maybe: resize down to 800 wide? But that's harder than it should be...
   }
   img.src = imgUrl;
 }
@@ -74,7 +75,7 @@ body.appendChild(document.createTextNode('URL: '));
 var urlTextBox = document.createElement("input");
 urlTextBox.type = "text";
 urlTextBox.size = 80;
-urlTextBox.value = "https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg"
+urlTextBox.value = "https://pbs.twimg.com/media/DYLuNt2UQAEqaOs.jpg"
 body.appendChild(urlTextBox);
 
 // Create Upper Meme Text Input
