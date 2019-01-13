@@ -1,0 +1,117 @@
+<html>
+<header>
+<title>Memify This!</title>
+<script type="text/javascript">
+
+
+    window.onload=function(){
+      
+// Padding variable
+var padding = 20;
+
+// Define body variable - for appending
+var body = document.getElementsByTagName("body")[0];
+
+// Create Canvas
+var canvas = document.createElement("canvas");
+body.appendChild(canvas);
+
+// Set the font size -- Impact is quite memey
+function setFontSize(ctx, fontsize) {
+  ctx.font = "bolder " + fontsize + "px Impact";
+}
+
+// Here's some funny logics about how to draw the text
+function drawText(ctx, img, memetext, top) {
+  memetext = memetext.toUpperCase();
+  var fontsize = img.width / 6;
+  var textwidth = img.width;
+  setFontSize(ctx, fontsize);
+
+  while (textwidth + padding > img.width) {
+    fontsize *= .9;
+    setFontSize(ctx, fontsize);
+    textwidth = ctx.measureText(memetext).width;
+  }
+
+  var xpos = (img.width - textwidth) / 2;
+  var ypos = img.height - (padding / 2);
+  
+  if( top ) {
+  	ypos = fontsize;
+  }
+  
+  ctx.lineWidth = fontsize / 30;
+  ctx.fillText(memetext, xpos, ypos);
+  ctx.strokeText(memetext, xpos, ypos);
+}
+
+// Here's a function to draw the image and meme text...
+function drawTheMeme(imgUrl, topText, bottomText) {
+  var img = new Image();
+  img.onload = function() {
+    canvas.width = img.width;
+    canvas.height = img.height;
+    var ctx = canvas.getContext('2d');
+    ctx.strokeStyle = "black";
+    ctx.fillStyle = "white";
+    ctx.drawImage(img, 0, 0);
+    drawText(ctx, img, topText, true);
+    drawText(ctx, img, bottomText, false);
+  }
+  img.src = imgUrl;
+}
+
+//drawTheMeme("https://www.stuff.co.nz/content/dam/images/1/0/1/q/o/q/image.related.StuffLandscapeSixteenByNine.620x349.1dtwac.png/1472518622754.jpg", "You think you're tired of politics now?", "Just wait till the inauguration");
+
+//drawTheMeme("https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg", "Grumpy cat", "Does not approve");
+
+// https://imgflip.com/s/meme/Success-Kid.jpg
+
+// Create URL Text Input
+body.appendChild(document.createElement("p"));
+body.appendChild(document.createTextNode('URL: '));
+var urlTextBox = document.createElement("input");
+urlTextBox.type = "text";
+urlTextBox.size = 80;
+urlTextBox.value = "https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg"
+body.appendChild(urlTextBox);
+
+// Create Upper Meme Text Input
+body.appendChild(document.createElement("p"));
+body.appendChild(document.createTextNode('Top Text:'));
+var upperMemeTextBox = document.createElement("input");
+upperMemeTextBox.type = "text";
+upperMemeTextBox.size = 50;
+upperMemeTextBox.value = "Grumpy cat";
+body.appendChild(upperMemeTextBox);
+
+// Create Lower Meme Text Input
+body.appendChild(document.createElement("p"));
+body.appendChild(document.createTextNode('Bottom Text:'));
+var lowerMemeTextBox = document.createElement("input");
+lowerMemeTextBox.type = "text";
+lowerMemeTextBox.size = 50;
+lowerMemeTextBox.value = "does not approve"
+body.appendChild(lowerMemeTextBox);
+
+// Create button
+body.appendChild(document.createElement("p"));
+var button = document.createElement("button");
+button.innerHTML = "Memify!";
+button.addEventListener ("click", doAction);
+body.appendChild(button);
+
+function doAction() {
+  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value);
+}
+
+doAction();
+
+    }
+
+</script>
+</header>
+<body>
+</body>
+</html>
