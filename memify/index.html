@@ -50,15 +50,17 @@ function drawText(ctx, img, memetext, top) {
 function drawTheMeme(imgUrl, topText, bottomText) {
   var img = new Image();
   img.onload = function() {
-    canvas.width = img.width;
-    canvas.height = img.height;
+    var imgadj = 800 / img.width;
+    var wadj  = img.width * imgadj;
+    var hadj  = img.height * imgadj;
+    canvas.width = wadj;
+    canvas.height = hadj;
     var ctx = canvas.getContext('2d');
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
-    ctx.drawImage(img, 0, 0);
+    ctx.drawImage(img, 0, 0, wadj, hadj );
     drawText(ctx, img, topText, true);
     drawText(ctx, img, bottomText, false);
-    // to do, maybe: resize down to 800 wide? But that's harder than it should be...
   }
   img.src = imgUrl;
 }
