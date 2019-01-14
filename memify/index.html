@@ -22,20 +22,20 @@ function setFontSize(ctx, fontsize) {
 }
 
 // Here's some funny logics about how to draw the text
-function drawText(ctx, img, memetext, top) {
+function drawText(ctx, img, memetext, top, imgadj) {
   memetext = memetext.toUpperCase();
-  var fontsize = img.width / 6;
-  var textwidth = img.width;
+  var fontsize = ( img.width / 6 ) * imgadj;
+  var textwidth = img.width * imgadj;
   setFontSize(ctx, fontsize);
 
-  while (textwidth + padding > img.width) {
+  while (textwidth + padding > ( img.width * imgadj ) ) {
     fontsize *= .9;
     setFontSize(ctx, fontsize);
     textwidth = ctx.measureText(memetext).width;
   }
 
-  var xpos = (img.width - textwidth) / 2;
-  var ypos = img.height - (padding / 2);
+  var xpos = ( ( img.width * imgadj ) - textwidth) / 2;
+  var ypos = ( img.height * imgadj ) - (padding / 2);
   
   if( top ) {
   	ypos = fontsize;
