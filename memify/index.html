@@ -59,8 +59,8 @@ function drawTheMeme(imgUrl, topText, bottomText) {
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
     ctx.drawImage(img, 0, 0, wadj, hadj );
-    drawText(ctx, img, topText, true);
-    drawText(ctx, img, bottomText, false);
+    drawText(ctx, img, topText, true, imgadj);
+    drawText(ctx, img, bottomText, false, imgadj);
   }
   img.src = imgUrl;
 }
