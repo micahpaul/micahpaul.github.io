@@ -47,10 +47,10 @@ function drawText(ctx, img, memetext, top, imgadj) {
 }
 
 // Here's a function to draw the image and meme text...
-function drawTheMeme(imgUrl, topText, bottomText) {
+function drawTheMeme(imgUrl, topText, bottomText, resultWidth) {
   var img = new Image();
   img.onload = function() {
-    var imgadj = 800 / img.width;
+    var imgadj = resultWidth / img.width;
     var wadj  = img.width * imgadj;
     var hadj  = img.height * imgadj;
     canvas.width = wadj;
@@ -92,14 +92,14 @@ lowerMemeTextBox.size = 50;
 lowerMemeTextBox.value = "you shut up"
 body.appendChild(lowerMemeTextBox);
         
-// Create Lower Meme Text Input
+// Create Image Width Input
 body.appendChild(document.createElement("p"));
-body.appendChild(document.createTextNode('Width:'));
-var lowerMemeTextBox = document.createElement("input");
-lowerMemeTextBox.type = "number";
-lowerMemeTextBox.size = 50;
-lowerMemeTextBox.value = 800;
-body.appendChild(lowerMemeTextBox);
+body.appendChild(document.createTextNode('Result Width:'));
+var widthNumberBox = document.createElement("input");
+widthNumberBox.type = "number";
+widthNumberBox.size = 50;
+widthNumberBox.value = 800;
+body.appendChild(widthNumberBox);
 
 // Create button
 body.appendChild(document.createElement("p"));
@@ -109,7 +109,7 @@ button.addEventListener ("click", doAction);
 body.appendChild(button);
 
 function doAction() {
-  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value);
+  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value);
 }
 
 doAction();
