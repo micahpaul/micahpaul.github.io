@@ -17,7 +17,7 @@
 | 3/15/2019 | *Beowulf* (Graphic Novel), Gareth Hinds. (ISBN: 978-0-7636-3023-2) <br>• Question 1<br>• Question 2 |
 | 3/22/2019 | No Class |
 | 3/29/2019 | *Beowulf: A Tale of Blood, Heat, and Ashes*, retold by Nicky Raven, Illustrated by John Howe. (ISBN: 978-0-7636-3647-0) <br>• Question 1<br>• Question 2 |
-| 4/5/2019 | TBD - Related to *Beowulf*; No writing assignment due. |
+| 4/5/2019 | ["The Life You Save May Be Your Own,"](http://faculty.smu.edu/nschwart/2312/lifeyousave.htm) ["Good Country People,"](https://repositorio.ufsc.br/bitstream/handle/123456789/163600/Good%20Country%20People%20-%20Flannery%20O%27Connor.pdf?sequence=1&isAllowed=y) ["A Good Man is Hard to Find,"](http://xroads.virginia.edu/~drbr/goodman.html) and ["Revelation,"](http://producer.csi.edu/cdraney/archive-courses/summer06/engl278/e-texts/oconner_revelation.pdf) all by Flannery O'Connor. No paper due today. |
 | 4/19/2019 | Semester Paper Due via e-mail by noon |
 
 [Archive: Fall 2018 Assignments](assignments-archive.md)
