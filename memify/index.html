@@ -4,8 +4,8 @@
     
 <style>
 td {
-        font-family: Impact,HelveticaNeue-CondensedBlack,sans-serif;
-        font-size: 12px;
+        font-family: Helvetica,sans-serif;
+        font-size: 14px;
     }
 </style>
     
@@ -24,23 +24,24 @@ var body = document.getElementsByTagName("body")[0];
 var canvas = document.createElement("canvas");
 body.appendChild(canvas);
 
-// Set the font size -- Impact is quite memey
-function setFontSize(ctx, fontsize) {
-  ctx.font = "bolder " + fontsize + "px Impact,HelveticaNeue-CondensedBlack,sans-serif";
+// Set ctx font elements -- Impact is quite memey
+function setCtxFont(ctx, fontsize, overrideFont) {
+  var tmpOverrideFont = ( overrideFont.length > 0 ) ? overrideFont + "," : "";
+  ctx.font = "bolder " + fontsize + "px "+ tmpOverrideFont +"Impact,HelveticaNeue-CondensedBlack,sans-serif";
 }
 
 // Here's some funny logics about how to draw the text
-function drawText(ctx, img, memetext, top, imgadj, upperCase) {
+function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont) {
   if ( upperCase ) {
       memetext = memetext.toUpperCase();
   }
   var fontsize = ( img.width / 6 ) * imgadj;
   var textwidth = img.width * imgadj;
-  setFontSize(ctx, fontsize);
+  setCtxFont(ctx, fontsize, overrideFont);
 
   while (textwidth + padding > ( img.width * imgadj ) ) {
     fontsize *= .9;
-    setFontSize(ctx, fontsize);
+    setCtxFont(ctx, fontsize, overrideFont);
     textwidth = ctx.measureText(memetext).width;
   }
 
@@ -57,7 +58,7 @@ function drawText(ctx, img, memetext, top, imgadj, upperCase) {
 }
 
 // Here's a function to draw the image and meme text...
-function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase) {
+function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overrideFont) {
   var img = new Image();
   img.onload = function() {
     var imgadj = resultWidth / img.width;
@@ -69,8 +70,8 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase) {
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
     ctx.drawImage(img, 0, 0, wadj, hadj );
-    drawText(ctx, img, topText, true, imgadj, upperCase);
-    drawText(ctx, img, bottomText, false, imgadj, upperCase);
+    drawText(ctx, img, topText, true, imgadj, upperCase, overrideFont);
+    drawText(ctx, img, bottomText, false, imgadj, upperCase, overrideFont);
   }
   img.src = imgUrl;
 }
@@ -88,7 +89,7 @@ function addRow(table, title, element) {
 var urlTextBox = document.createElement("input");
 urlTextBox.type = "text";
 urlTextBox.size = 80;
-urlTextBox.value = "http://www.jesuschristsavior.net/Savior.jpeg"
+urlTextBox.value = "http://www.jesuschristsavior.net/Savior.jpeg";
         
 // Create Upper Meme Text Input
 var upperMemeTextBox = document.createElement("input");
@@ -100,25 +101,32 @@ upperMemeTextBox.value = "bro";
 var lowerMemeTextBox = document.createElement("input");
 lowerMemeTextBox.type = "text";
 lowerMemeTextBox.size = 80;
-lowerMemeTextBox.value = "believe me"
+lowerMemeTextBox.value = "believe me";
 
 // Create Image Width Input
 var widthNumberBox = document.createElement("input");
 widthNumberBox.type = "number";
 widthNumberBox.size = 80;
 widthNumberBox.value = 450;
-        
-// Create Image Width Input
+
+// Create Font Override Input
+var fontTextBox = document.createElement("input");
+fontTextBox.type = "text";
+fontTextBox.size = 80;
+fontTextBox.value = "Impact";
+
+// Create UpperCase checkbox
 var upperCaseCheckBox = document.createElement("input");
 upperCaseCheckBox.type = "checkbox";
 upperCaseCheckBox.checked = true;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
-addRow( inputTable, "Upper Text",   upperMemeTextBox    );
-addRow( inputTable, "Lower Text",   lowerMemeTextBox    );
-addRow( inputTable, "Result Width", widthNumberBox      );
-addRow( inputTable, "UPPERCASE",    upperCaseCheckBox   );
+addRow( inputTable, "Upper Text",    upperMemeTextBox       );
+addRow( inputTable, "Lower Text",    lowerMemeTextBox       );
+addRow( inputTable, "Result Width",  widthNumberBox         );
+addRow( inputTable, "UPPERCASE",     upperCaseCheckBox      );
+addRow( inputTable, "Override Font", fontTextBox            );
 
 // Create button
 body.appendChild(document.createElement("p"));
@@ -128,7 +136,8 @@ button.addEventListener ("click", doAction);
 body.appendChild(button);
 
 function doAction() {
-  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, upperCaseCheckBox.checked);
+  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
+              upperCaseCheckBox.checked, fontTextBox.value);
 }
 
 doAction();
