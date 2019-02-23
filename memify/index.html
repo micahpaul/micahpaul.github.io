@@ -66,10 +66,17 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth) {
 }
         
 var inputTable = body.appendChild(document.createElement("table"));
-inputTable.appendChild(document.createElement("tr"))
-          .appendChild(document.createElement("td"))
-          .appendChild(document.createTextNode("Hi Mom"));
+var momRow = inputTable.appendChild(document.createElement("tr"));
 
+momRow.appendChild(document.createElement("td"))
+      .appendChild(document.createTextNode("Hi Mom"));        
+momRow.appendChild(document.createElement("td"))
+      .appendChild(document.createTextNode("Hi Again!"));
+momRow.appendChild(document.createElement("td"))
+      .appendChild(document.createTextNode("asdfdfdfddfdfddfddfdfdfdfdfdfdfdddfd"));
+
+        
+        
 // Create URL Text Input
 body.appendChild(document.createElement("p"));
 body.appendChild(document.createTextNode('URL: '));
