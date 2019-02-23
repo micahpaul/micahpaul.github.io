@@ -31,7 +31,7 @@ function setCtxFont(ctx, fontsize, overrideFont) {
 }
 
 // Here's some funny logics about how to draw the text
-function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont) {
+function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,drawOutline) {
   if ( upperCase ) {
       memetext = memetext.toUpperCase();
   }
@@ -52,13 +52,16 @@ function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont) {
   	ypos = fontsize;
   }
   
-  ctx.lineWidth = fontsize / 30;
   ctx.fillText(memetext, xpos, ypos);
-  ctx.strokeText(memetext, xpos, ypos);
+  
+  if ( drawOutline ) {
+      ctx.lineWidth = fontsize / 30;
+      ctx.strokeText(memetext, xpos, ypos);
+  }
 }
 
 // Here's a function to draw the image and meme text...
-function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overrideFont) {
+function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overrideFont, drawOutline) {
   var img = new Image();
   img.onload = function() {
     var imgadj = resultWidth / img.width;
@@ -70,8 +73,8 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overri
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
     ctx.drawImage(img, 0, 0, wadj, hadj );
-    drawText(ctx, img, topText, true, imgadj, upperCase, overrideFont);
-    drawText(ctx, img, bottomText, false, imgadj, upperCase, overrideFont);
+    drawText(ctx, img, topText, true, imgadj, upperCase, overrideFont,drawOutline);
+    drawText(ctx, img, bottomText, false, imgadj, upperCase, overrideFont,drawOutline);
   }
   img.src = imgUrl;
 }
@@ -119,6 +122,11 @@ fontTextBox.value = "Impact";
 var upperCaseCheckBox = document.createElement("input");
 upperCaseCheckBox.type = "checkbox";
 upperCaseCheckBox.checked = true;
+        
+// Create Outline Checkbox
+var outlineCheckBox = document.createElement("input");
+outlineCheckBox.type = "checkbox";
+outlineCheckBox.checked = true;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
@@ -137,7 +145,7 @@ body.appendChild(button);
 
 function doAction() {
   drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
-              upperCaseCheckBox.checked, fontTextBox.value);
+              upperCaseCheckBox.checked, fontTextBox.value, outlineCheckBox.checked);
 }
 
 doAction();
