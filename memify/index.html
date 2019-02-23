@@ -70,53 +70,45 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth) {
   img.src = imgUrl;
 }
         
-var inputTable = body.appendChild(document.createElement("table"));
-var momRow = inputTable.appendChild(document.createElement("tr"));
+//Add a new row with a title and an element
+function addRow(table, title, element) {
+    var tmpRow = table.appendChild(document.createElement("tr"));
+    tmpRow.appendChild(document.createElement("td"))
+          .appendChild(document.createTextNode(title + ":"));
+    tmpRow.appendChild(document.createElement("td"))
+          .appendChild(element);  
+}
 
-momRow.appendChild(document.createElement("td"))
-      .appendChild(document.createTextNode("Hi Mom"));        
-momRow.appendChild(document.createElement("td"))
-      .appendChild(document.createTextNode("Hi Again!"));
-momRow.appendChild(document.createElement("td"))
-      .appendChild(document.createTextNode("asdfdfdfddfdfddfddfdfdfdfdfdfdfdddfd"));
-
-        
-        
 // Create URL Text Input
-body.appendChild(document.createElement("p"));
-body.appendChild(document.createTextNode('URL: '));
 var urlTextBox = document.createElement("input");
 urlTextBox.type = "text";
 urlTextBox.size = 80;
 urlTextBox.value = "https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2011/11/elmo_a.jpg"
-body.appendChild(urlTextBox);
-
+        
 // Create Upper Meme Text Input
-body.appendChild(document.createElement("p"));
-body.appendChild(document.createTextNode('Top Text:'));
 var upperMemeTextBox = document.createElement("input");
 upperMemeTextBox.type = "text";
 upperMemeTextBox.size = 50;
 upperMemeTextBox.value = "";
-body.appendChild(upperMemeTextBox);
 
 // Create Lower Meme Text Input
-body.appendChild(document.createElement("p"));
-body.appendChild(document.createTextNode('Bottom Text:'));
 var lowerMemeTextBox = document.createElement("input");
 lowerMemeTextBox.type = "text";
 lowerMemeTextBox.size = 50;
 lowerMemeTextBox.value = "you fill elmo with sadness"
-body.appendChild(lowerMemeTextBox);
-        
+
 // Create Image Width Input
-body.appendChild(document.createElement("p"));
-body.appendChild(document.createTextNode('Result Width:'));
 var widthNumberBox = document.createElement("input");
 widthNumberBox.type = "number";
 widthNumberBox.size = 50;
 widthNumberBox.value = 600;
-body.appendChild(widthNumberBox);
+
+var inputTable = body.appendChild(document.createElement("table"));
+
+addRow( inputTable, "URL", urlTextBox );
+addRow( inputTable, "Upper Text", upperMemeTextBox );
+addRow( inputTable, "Lower Text", lowerMemeTextBox );
+addRow( inputTable, "Result Width", widthNumberBox );
 
 // Create button
 body.appendChild(document.createElement("p"));
