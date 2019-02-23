@@ -30,8 +30,10 @@ function setFontSize(ctx, fontsize) {
 }
 
 // Here's some funny logics about how to draw the text
-function drawText(ctx, img, memetext, top, imgadj) {
-  memetext = memetext.toUpperCase();
+function drawText(ctx, img, memetext, top, imgadj, upperCase) {
+  if ( upperCase ) {
+      memetext = memetext.toUpperCase();
+  }
   var fontsize = ( img.width / 6 ) * imgadj;
   var textwidth = img.width * imgadj;
   setFontSize(ctx, fontsize);
@@ -55,7 +57,7 @@ function drawText(ctx, img, memetext, top, imgadj) {
 }
 
 // Here's a function to draw the image and meme text...
-function drawTheMeme(imgUrl, topText, bottomText, resultWidth) {
+function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase) {
   var img = new Image();
   img.onload = function() {
     var imgadj = resultWidth / img.width;
@@ -67,8 +69,8 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth) {
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
     ctx.drawImage(img, 0, 0, wadj, hadj );
-    drawText(ctx, img, topText, true, imgadj);
-    drawText(ctx, img, bottomText, false, imgadj);
+    drawText(ctx, img, topText, true, imgadj, upperCase);
+    drawText(ctx, img, bottomText, false, imgadj, upperCase);
   }
   img.src = imgUrl;
 }
@@ -105,12 +107,18 @@ var widthNumberBox = document.createElement("input");
 widthNumberBox.type = "number";
 widthNumberBox.size = 50;
 widthNumberBox.value = 450;
+        
+// Create Image Width Input
+var upperCaseCheckBox = document.createElement("input");
+upperCaseCheckBox.type = "checkbox";
+upperCaseCheckBox.checked = true;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
-addRow( inputTable, "Upper Text", upperMemeTextBox );
-addRow( inputTable, "Lower Text", lowerMemeTextBox );
-addRow( inputTable, "Result Width", widthNumberBox );
+addRow( inputTable, "Upper Text",   upperMemeTextBox    );
+addRow( inputTable, "Lower Text",   lowerMemeTextBox    );
+addRow( inputTable, "Result Width", widthNumberBox      );
+addRow( inputTable, "UPPERCASE",    upperCaseCheckBox   );
 
 // Create button
 body.appendChild(document.createElement("p"));
@@ -120,7 +128,7 @@ button.addEventListener ("click", doAction);
 body.appendChild(button);
 
 function doAction() {
-  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value);
+  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, upperCaseCheckBox.checked);
 }
 
 doAction();
