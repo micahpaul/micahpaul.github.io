@@ -31,7 +31,7 @@ function setCtxFont(ctx, fontsize, overrideFont) {
 }
 
 // Here's some funny logics about how to draw the text
-function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,drawOutline) {
+function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,outlineWidth) {
   if ( upperCase ) {
       memetext = memetext.toUpperCase();
   }
@@ -53,15 +53,12 @@ function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,drawO
   }
   
   ctx.fillText(memetext, xpos, ypos);
-  
-  if ( drawOutline ) {
-      ctx.lineWidth = fontsize / 25;
-      ctx.strokeText(memetext, xpos, ypos);
-  }
+  ctx.lineWidth = fontsize * outlineWidth;
+  ctx.strokeText(memetext, xpos, ypos);
 }
 
 // Here's a function to draw the image and meme text...
-function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overrideFont, drawOutline) {
+function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overrideFont, outlineWidth) {
   var img = new Image();
   img.onload = function() {
     var imgadj = resultWidth / img.width;
@@ -73,8 +70,8 @@ function drawTheMeme(imgUrl, topText, bottomText, resultWidth, upperCase, overri
     ctx.strokeStyle = "black";
     ctx.fillStyle = "white";
     ctx.drawImage(img, 0, 0, wadj, hadj );
-    drawText(ctx, img, topText, true, imgadj, upperCase, overrideFont,drawOutline);
-    drawText(ctx, img, bottomText, false, imgadj, upperCase, overrideFont,drawOutline);
+    drawText(ctx, img, topText, true, imgadj, upperCase, overrideFont,outlineWidth);
+    drawText(ctx, img, bottomText, false, imgadj, upperCase, overrideFont,outlineWidth);
   }
   img.src = imgUrl;
 }
@@ -123,10 +120,12 @@ var upperCaseCheckBox = document.createElement("input");
 upperCaseCheckBox.type = "checkbox";
 upperCaseCheckBox.checked = true;
         
-// Create Outline Checkbox
-var outlineCheckBox = document.createElement("input");
-outlineCheckBox.type = "checkbox";
-outlineCheckBox.checked = true;
+// Create Outline Width Range
+var outlineWidthRange   = document.createElement("input");
+outlineWidthRange.type  = "range";
+outlineWidthRange.min   = 0.0;
+outlineWidthRange.max   = 0.1;
+outlineWidthRange.value = 0.033;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
@@ -135,7 +134,7 @@ addRow( inputTable, "Lower Text",       lowerMemeTextBox    );
 addRow( inputTable, "Override Font",    fontTextBox         );
 addRow( inputTable, "Result Width",     widthNumberBox      );
 addRow( inputTable, "UPPERCASE",        upperCaseCheckBox   );
-addRow( inputTable, "Draw Outline",     outlineCheckBox     );
+addRow( inputTable, "Outline Width",    outlineWidthRange   );
 
 // Create button
 body.appendChild(document.createElement("p"));
@@ -146,7 +145,7 @@ body.appendChild(button);
 
 function doAction() {
   drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
-              upperCaseCheckBox.checked, fontTextBox.value, outlineCheckBox.checked);
+              upperCaseCheckBox.checked, fontTextBox.value, outlineWidthRange.value);
 }
 
 doAction();
