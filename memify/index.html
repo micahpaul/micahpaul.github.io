@@ -144,7 +144,7 @@ button.addEventListener ("click", doAction);
 body.appendChild(button);
 
 function doAction() {
-  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
+  drawTheMeme(urlTextBox.value, upperMemeTextBox.value + outlineWidthRange.value, lowerMemeTextBox.value, widthNumberBox.value, 
               upperCaseCheckBox.checked, fontTextBox.value, outlineWidthRange.value);
 }
 
