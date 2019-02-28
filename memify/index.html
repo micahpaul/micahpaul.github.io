@@ -126,21 +126,31 @@ var upperCaseCheckBox = document.createElement("input");
 upperCaseCheckBox.type = "checkbox";
 upperCaseCheckBox.checked = true;
         
+// Create outline status paragraph
+var outlineWidthStatus  = document.createElement("p");
+
 // Create Outline Width Range
 var outlineWidthRange   = document.createElement("input");
 outlineWidthRange.type  = "range";
 outlineWidthRange.min   = lowestOutline;
 outlineWidthRange.max   = -10;
 outlineWidthRange.value = -33;
+        
+function showWidthStatus() {
+    outlineWidthStatus.innerHTML = outlineWidthRange.value;
+}
 
+outlineWidthRange.onChange = showWidthStatus;
+        
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
-addRow( inputTable, "Upper Text",       upperMemeTextBox    );
-addRow( inputTable, "Lower Text",       lowerMemeTextBox    );
-addRow( inputTable, "Override Font",    fontTextBox         );
-addRow( inputTable, "Result Width",     widthNumberBox      );
-addRow( inputTable, "UPPERCASE",        upperCaseCheckBox   );
-addRow( inputTable, "Outline Width",    outlineWidthRange   );
+addRow( inputTable, "Upper Text",               upperMemeTextBox    );
+addRow( inputTable, "Lower Text",               lowerMemeTextBox    );
+addRow( inputTable, "Override Font",            fontTextBox         );
+addRow( inputTable, "Result Width",             widthNumberBox      );
+addRow( inputTable, "UPPERCASE",                upperCaseCheckBox   );
+addRow( inputTable, "Outline Factor",           outlineWidthRange   );
+addRow( inputTable, "Current Outline Factor",   outlineWidthStatus  );
 
 // Create button
 body.appendChild(document.createElement("p"));
@@ -154,6 +164,7 @@ function doAction() {
               upperCaseCheckBox.checked, fontTextBox.value, outlineWidthRange.value);
 }
 
+showWidthStatus();
 doAction();
 
     }
