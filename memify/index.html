@@ -15,7 +15,10 @@ body {
     window.onload=function(){
       
 // Padding variable
-var padding = 20;
+var padding         = 20;
+        
+// min in outline width range
+var lowestOutline   = -75;
 
 // Define body variable - for appending
 var body = document.getElementsByTagName("body")[0];
@@ -53,8 +56,11 @@ function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,outli
   }
   
   ctx.fillText(memetext, xpos, ypos);
-  ctx.lineWidth = fontsize / outlineWidth;
-  ctx.strokeText(memetext, xpos, ypos);
+    
+  if ( outlineWidth != lowestOutline ) {
+      ctx.lineWidth = -1 * fontsize / outlineWidth;
+      ctx.strokeText(memetext, xpos, ypos);
+  }
 }
 
 // Here's a function to draw the image and meme text...
@@ -123,9 +129,9 @@ upperCaseCheckBox.checked = true;
 // Create Outline Width Range
 var outlineWidthRange   = document.createElement("input");
 outlineWidthRange.type  = "range";
-outlineWidthRange.min   = 0;
-outlineWidthRange.max   = 100;
-outlineWidthRange.value = 33;
+outlineWidthRange.min   = lowestOutline;
+outlineWidthRange.max   = -10;
+outlineWidthRange.value = -33;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
