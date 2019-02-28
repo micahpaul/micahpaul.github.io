@@ -136,12 +136,6 @@ outlineWidthRange.min   = lowestOutline;
 outlineWidthRange.max   = -10;
 outlineWidthRange.value = -33;
         
-function showWidthStatus() {
-    outlineWidthStatus.innerHTML = outlineWidthRange.value;
-}
-
-outlineWidthRange.onChange = showWidthStatus;
-        
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
 addRow( inputTable, "Upper Text",               upperMemeTextBox    );
@@ -160,7 +154,8 @@ button.addEventListener ("click", doAction);
 body.appendChild(button);
 
 function doAction() {
-  drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
+    outlineWidthStatus.innerHTML = outlineWidthRange.value;
+    drawTheMeme(urlTextBox.value, upperMemeTextBox.value, lowerMemeTextBox.value, widthNumberBox.value, 
               upperCaseCheckBox.checked, fontTextBox.value, outlineWidthRange.value);
 }
 
