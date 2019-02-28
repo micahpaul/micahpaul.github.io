@@ -53,7 +53,7 @@ function drawText(ctx, img, memetext, top, imgadj, upperCase, overrideFont,outli
   }
   
   ctx.fillText(memetext, xpos, ypos);
-  ctx.lineWidth = fontsize * outlineWidth;
+  ctx.lineWidth = fontsize / outlineWidth;
   ctx.strokeText(memetext, xpos, ypos);
 }
 
@@ -123,9 +123,9 @@ upperCaseCheckBox.checked = true;
 // Create Outline Width Range
 var outlineWidthRange   = document.createElement("input");
 outlineWidthRange.type  = "range";
-outlineWidthRange.min   = 0.0;
-outlineWidthRange.max   = 0.1;
-outlineWidthRange.value = 0.033;
+outlineWidthRange.min   = 0;
+outlineWidthRange.max   = 100;
+outlineWidthRange.value = 33;
 
 var inputTable = body.appendChild(document.createElement("table"));
 addRow( inputTable, "URL", urlTextBox );
