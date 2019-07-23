@@ -1,5 +1,5 @@
 ## What is this class?
-This is a high school-level class in creative writing and English literature. My goals for the class is twofold:
+This is a high school-level class in creative writing and English literature. My goals for the class are twofold:
 - Prepare students to excel in a college English classroom
 - Help students to become better at writing
 
@@ -9,7 +9,7 @@ I hope the class will leave students:
 - **More inquisitive.** Asking the right questions can open new layers in a work of literature. It’s one of the things that separates a mediocre reader from an excellent one.
 - **More thoughtful.** I want to help students improve their critical thinking skills, make connections between texts, and question assumptions and motivations (those of the author, their own, and even mine). With that said, I also recognize that dissecting a poem can be a lot like dissecting a frog: The results aren’t much to look at, and on top of that, you killed your frog. So we’ll try to walk the fine line between thorough analysis and overanalysis.
 - **More delighted.** My love for reading and writing led me to pursue two English degrees. I want to share that love with my students and help fan their spark of interest into a flame that will serve, delight, and edify them for the rest of their lives.
-- **More creative.** The human urge to create is one of the ways we're created in God's image. The more practice we have creating beautiful and interesting things, the better we get at it.
+- **More creative.** The human urge to create is one of the ways we're created in God's image. As we practice creating beautiful and interesting things, we become better at living out the *imago dei* stamped within us.
 
 ## How is the class structured?
 This is a class in writing and English literature. As such, I place a lot of emphasis on both reading and writing:
