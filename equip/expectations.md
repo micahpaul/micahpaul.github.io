@@ -28,6 +28,14 @@ This is a class in writing and English literature. As such, I place a lot of emp
   - I typically give 5 points for weekly papers that are turned in and 0 points for papers that are not turned in. (If something has been turned in but does not meet minimal standards, it may receive fewer points.)
   - At the end of the semester, I will give a longer, 100-point writing assignment of between 5 and 7 pages. I will allow students to choose either a more "English essay" option or a creative writing option.
 
+## A Word About Grades
+I don't really like grades, so I try not to focus very much on them. With that said, I will provide semester grades comprised of three elements:
+- Weekly writing assignments (typically 5 points each, pass/fail)
+- Reading quizzes (typically 5 points each, short-answer)
+- Longer assignments (typically 100 points per semester)
+
+A student's lowest three assignment grades (normally a low quiz score or a missing writing assignment) will be excluded from grade calculations.
+
 ## What can students expect from you?
 My students can expect that I will:
 - Care about their academic, personal, and spiritual growth
