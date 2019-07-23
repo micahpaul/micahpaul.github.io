@@ -1,3 +1,7 @@
+**Essay** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond to one or both writing prompts, or any other aspect of the text that captured your attention.
+
+For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
+
 | Date | Topic | Reading Assignments / Writing Prompts / Notes |
 | ---  | ---   | ---                                           |
 |8/16/2019|Introduction|Kathleen Norris, ["Poor, Dear Margaret Kirby"](https://americanliterature.com/author/kathleen-norris/short-story/poor-dear-margaret-kirby)<br> **Essay:**<br>• Why is the title significant?<br>• What transformation(s) take(s) place in the story?|
