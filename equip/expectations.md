@@ -4,7 +4,7 @@ This is a high school-level class in creative writing and English literature. My
 - Help students to become better at writing
 
 ## How can this class help students?
-I hope the class will leave students:
+I hope the class will make students:
 - **More engaged.** A bored or detached reader will be a listless, unenthusiastic one. The more interested and involved we are, the better we become as readers. Immersing ourselves in the act of writing also helps us to read better.
 - **More inquisitive.** Asking the right questions can open new layers in a work of literature. It’s one of the things that separates a mediocre reader from an excellent one.
 - **More thoughtful.** I want to help students improve their critical thinking skills, make connections between texts, and question assumptions and motivations (those of the author, their own, and even mine). With that said, I also recognize that dissecting a poem can be a lot like dissecting a frog: The results aren’t much to look at, and on top of that, you killed your frog. So we’ll try to walk the fine line between thorough analysis and overanalysis.
