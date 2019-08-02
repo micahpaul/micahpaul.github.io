@@ -2,6 +2,8 @@
 
 For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
 
+All readings can be accessed online using the links below, or you can get them in a [single PDF file here](EQUIP%20English%20-%20Fall%202019.pdf).
+
 | Date | Topic | Reading Assignments / Writing Prompts / Notes |
 | ---  | ---   | ---                                           |
 |8/16/2019|Introduction|Kathleen Norris, ["Poor, Dear Margaret Kirby"](https://americanliterature.com/author/kathleen-norris/short-story/poor-dear-margaret-kirby)<br> **Essay:**<br>• Why is the title significant?<br>• What transformation(s) take(s) place in the story?|
