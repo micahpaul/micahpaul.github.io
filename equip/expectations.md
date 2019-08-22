@@ -1,3 +1,6 @@
+[Micah Hawkinson's Equip English Class, 2019-2020](readme.md)
+---
+
 ## What is this class?
 This is a high school-level class in creative writing and English literature. My goals for the class are twofold:
 - Prepare students to excel in a college English classroom

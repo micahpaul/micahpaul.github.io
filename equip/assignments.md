@@ -1,11 +1,14 @@
+[Micah Hawkinson's Equip English Class, 2019-2020](readme.md)
+---
+
 **Essay** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond to one or both writing prompts, or any other aspect of the text that captured your attention.
 
 For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
 
 All readings can be accessed online using the links below, or you can get them in a [single PDF file here](equip_fall_2019.pdf).
 
-| Date | Topic | Reading Assignments / Writing Prompts / Notes |
-| ---  | ---   | ---                                           |
+| Date | Topic | Reading Assignments / Writing Prompts |
+| ---  | ---   | ---                                   |
 |8/16/2019|Introduction|Kathleen Norris, ["Poor, Dear Margaret Kirby"](https://americanliterature.com/author/kathleen-norris/short-story/poor-dear-margaret-kirby)<br> **Essay:**<br>• Why is the title significant?<br>• What transformation(s) take(s) place in the story?|
 |8/23/2019|Structure|Jack London, ["To Build a Fire"](https://americanenglish.state.gov/files/ae/resource_files/to-build-a-fire.pdf)<br> **Essay:**<br>• At what points does the action escalate? Does it ever de-escalate? What techniques does London use to build suspense?<br>• Do you care about the protagonist? Why or why not?|
 |8/30/2019|Characters & Dialogue|Dorothy Parker, ["Arrangement in Black and White"](https://biblioklept.org/2015/08/20/read-arrangement-in-black-and-white-a-short-story-by-dorothy-parker/)<br> **Essay:**<br>• How does Parker show us the speaker's personality, rather than merely telling us about it?<br>• What elements of the story are surprising or shocking to you? How does Parker build those feelings throughout?|
