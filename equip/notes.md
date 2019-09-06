@@ -3,3 +3,4 @@
 ### Weekly Notes from Class (if available):
 - [8/16/2019](notes/20190816.md)
 - [8/23/2019](notes/20190823.md)
+- [9/6/2019](notes/20190906.md)
