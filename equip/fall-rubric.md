@@ -1,5 +1,4 @@
-EQUIP English, Micah Hawkinson<br>
-Grading Rubric: Fall 2019 Final Paper
+EQUIP English, Micah Hawkinson<br>Grading Rubric: Fall 2019 Final Paper
 ---
 
 Option 1 (Creative)
