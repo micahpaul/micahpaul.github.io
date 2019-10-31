@@ -1,12 +1,12 @@
 EQUIP English, Micah Hawkinson<br>Grading Rubric: Fall 2019 Final Paper
 ---
 
-Option 1 (Creative)
----
+**Option 1 (Creative)**
+
 To Be Determined
 
-Option 2 (Analytical)
----
+**Option 2 (Analytical)**
+
 | Element |	Weight |	Description |
 | --- | --- | --- |
 | Main Idea |	30%	| Does the paper have one clear, well-defined, central main idea?<br>Is it well-considered? <br>Does it make sense? <br> Is it interesting without being utterly wild? <br> Do all parts of the paper serve this one main idea? |
