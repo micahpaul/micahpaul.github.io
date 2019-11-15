@@ -1,6 +1,7 @@
 EQUIP English, Micah Hawkinson<br>Grading Rubric: Fall 2019 Final Paper
 ---
 ---
+
 Option 1 (Creative)
 ---
 
@@ -13,6 +14,7 @@ Option 1 (Creative)
 | Mechanics | 10% | Is the project free of spelling errors and non-standard grammar (unless done on purpose to help paint a character)? <br> Are the sentences clear, well-written, and no more complex than they need to be? <br> Is the paper formatted in MLA style? <br> Is the length within the window defined in the assignment? |
 
 ---
+
 Option 2 (Analytical)
 ---
 
