@@ -1,4 +1,4 @@
-[Micah Hawkinson's Equip English Class, 2019-2020](/readme.md)
+[Micah Hawkinson's Equip English Class, 2019-2020](/equip/readme.md)
 ---
 
 **Essay** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond to one or both writing prompts, or any other aspect of the text that captured your attention.
