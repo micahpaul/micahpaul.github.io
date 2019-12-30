@@ -2,5 +2,5 @@
 ---
 ### Pages:
 * [Fall 2019 Paper Assignment](fall-paper.md)
-* [Weekly Reading / Writing Assignments](fall-assignments.md)
-* [Notes](fall-notes.md)
+* [Fall 2019 Weekly Reading / Writing Assignments](fall-assignments.md)
+* [Fall 2019 Notes](fall-notes.md)
