@@ -9,7 +9,7 @@ All readings can be accessed online using the links below, or you can get them i
 
 | Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
-| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"](https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"](https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br>Analytical:<br> * Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>* Yancey discusses leprosy in physical and spiritual terms. How do the physical facts of leprosy inform his spiritual reflections? |
+| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"] (https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"] (https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"] (https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br>**Analytical Essay:**<br> * Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>* Yancey discusses leprosy in physical and spiritual terms. How do the physical facts of leprosy inform his spiritual reflections? |
 | 01/17/2020 | Soul |  |
 | 01/24/2020 | Spirit |  |
 | 01/31/2020 | Memoir |  |
