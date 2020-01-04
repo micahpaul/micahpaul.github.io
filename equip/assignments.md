@@ -7,7 +7,7 @@ For **Creative** Assignments, please take **at least** 30 minutes of **focused**
 
 All readings can be accessed online using the links below, or you can get them in a [single PDF file here](equip_spring_2020.pdf).
 
-| Date | Topic | Reading Assignments / Writing Prompts |
+| Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
 | 01/10/2020 |  |  |
 | 01/17/2020 |  |  |
