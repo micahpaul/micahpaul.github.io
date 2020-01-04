@@ -9,20 +9,20 @@ All readings can be accessed online using the links below, or you can get them i
 
 | Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
-| 01/10/2020 |  |  |
-| 01/17/2020 |  |  |
-| 01/24/2020 |  |  |
-| 01/31/2020 |  |  |
-| 02/07/2020 |  |  |
-| 02/14/2020 |  |  |
+| 01/10/2020 | Body |  |
+| 01/17/2020 | Soul |  |
+| 01/24/2020 | Spirit |  |
+| 01/31/2020 | Memoir |  |
+| 02/07/2020 | Humor |  |
+| 02/14/2020 | Misunderstandings |  |
 | 02/21/2020 | No Class |  |
-| 02/28/2020 |  |  |
+| 02/28/2020 | Change and Stability |  |
 | 03/06/2020 | No Class |  |
 | 03/13/2020 | No Class |  |
-| 03/20/2020 |  |  |
-| 03/27/2020 |  |  |
-| 04/03/2020 |  |  |
+| 03/20/2020 | Body, Revisited |  |
+| 03/27/2020 | Books and Machines |  |
+| 04/03/2020 | History and Place |  |
 | 04/10/2020 | No Class |  |
-| 04/17/2020 |  |  |
-| 04/24/2020 |  |  |
-| 05/01/2020 |  |  |
+| 04/17/2020 | Nature |  |
+| 04/24/2020 | Writing and Reflecting |  |
+| 05/01/2020 | Nature, Revisited |  |
