@@ -1,25 +1,28 @@
 [Micah Hawkinson's Equip English Class, 2019-2020](readme.md)
 ---
 
-**Essay** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond to one or both writing prompts, or any other aspect of the text that captured your attention.
+**Analytical** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond one of the writing prompts or any other aspect of the week's readings that captured your attention.
 
 For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
 
-All readings can be accessed online using the links below, or you can get them in a [single PDF file here](equip_fall_2019.pdf).
+All readings can be accessed online using the links below, or you can get them in a [single PDF file here](equip_spring_2020.pdf).
 
 | Date | Topic | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
-|8/16/2019|Introduction|Kathleen Norris, ["Poor, Dear Margaret Kirby"](https://americanliterature.com/author/kathleen-norris/short-story/poor-dear-margaret-kirby)<br> **Essay:**<br>• Why is the title significant?<br>• What transformation(s) take(s) place in the story?|
-|8/23/2019|Structure|Jack London, ["To Build a Fire"](https://americanenglish.state.gov/files/ae/resource_files/to-build-a-fire.pdf)<br> **Essay:**<br>• At what points does the action escalate? Does it ever de-escalate? What techniques does London use to build suspense?<br>• Do you care about the protagonist? Why or why not?|
-|8/30/2019|Characters & Dialogue|Dorothy Parker, ["Arrangement in Black and White"](https://biblioklept.org/2015/08/20/read-arrangement-in-black-and-white-a-short-story-by-dorothy-parker/)<br> **Essay:**<br>• How does Parker show us the speaker's personality, rather than merely telling us about it?<br>• What elements of the story are surprising or shocking to you? How does Parker build those feelings throughout?|
-|9/6/2019|Setting|Ernest Hemingway, ["Big Two-Hearted River"](https://eng270b.files.wordpress.com/2014/01/hemingway_river.pdf)<br> **Essay:**<br>• What role do nature and the land play in this story? <br>• What techniques does Hemingway use to make the setting more and more real to readers throughout the story?|
-|9/13/2019|Hooks & Conclusions|Guy de Maupassant, ["The Necklace"](http://www.eastoftheweb.com/short-stories/UBooks/Neck.shtml)<br> **Essay:**<br>• How does the opening line prepare us for the story ahead? What does it tell us about the protagonist?<br>• What story elements have prepared us for the "punch line" at the end?|
-|9/20/2019|Emotional Response|Edgar Allen Poe, ["The Cask of Amontillado"](https://www.poemuseum.org/the-cask-of-amontillado)<br> **Essay:**<br>• What feelings do you have at the beginning of the story? How have those changed by the end?<br>• How does Poe work to build feelings, such as sympathy, horror, revulsion, throughout the story?|
-|9/27/2019|Revision|Ring Lardner, ["The Haircut"](https://www.classicshorts.com/stories/haircut.html)<br> **Essay:**<br>• The point of view makes this story memorable. How would it be different if told from the viewpoint of any other main character?<br>• Do you come away with the impression that the barber understands the whole story? Why or why not?|
-|10/4/2019|Practice: Get Writing!|O. Henry, ["The Ransom of Red Chief"](https://en.wikisource.org/wiki/The_Ransom_of_Red_Chief)<br> **Creative:**<br>• In a quiet room, set a timer for 30 minutes and start writing a story -- any story. The goal is to get words on paper for 30 solid minutes. No music, no distractions, no phone, no internet. Write with pen and paper if your computer is too distracting. |
-|10/11/2019|Fall Break|No class. Why not go someplace quiet and write for a while? It'll help you relax. :-)|
-|10/18/2019|Practice: Plotting|Leo Tolstoy, ["How Much Land Does a Man Need?"](https://ebooks.adelaide.edu.au/t/tolstoy/leo/t65wm/chapter4.html)<br> **Creative:**<br>• Think of a story or scenario where someone is in trouble. Think about the changes in their situation. For example, how could their trouble get worse, then slightly better, then much worse, then finally resolve somehow? At a high level (i.e., no full sentences needed), sketch a picture or write an outline of this plot. |
-|10/25/2019|Practice: Characters|Herman Melville, ["Bartleby, the Scrivener"](https://americanliterature.com/author/herman-melville/short-story/bartleby-the-scrivener)<br> **Creative:**<br>• Spend 30 minutes describing a character from either your own circle of acquaintances or your imagination. Give as many concrete details as possible to help your reader really "know" the person. |
-|11/1/2019|Practice: Places|Flannery O'Connor, ["The Enduring Chill"](https://d2wldr9tsuuj1b.cloudfront.net/2741/documents/2017/1/The-Complete-Stories-Flannery-OConnor.pdf)<br> **Creative:**<br>• Spend 30 minutes describing a place you know well. What are its features? If it's outdoors, what plants are there? What animals? If indoors, how would you describe its architectures, fixtures, and decor? Be as concrete and specific as possible. |
-|11/8/2019|Practice: Building Tension|W. W. Jacobs, ["The Monkey's Paw"](https://americanliterature.com/author/w-w-jacobs/short-story/the-monkeys-paw)<br>[Sound File](media/monkey.m4a)<br> **Creative:**<br>• Using the plot outline you created previously, zoom in on some particular part of the story. Spend 30 minutes writing sentences that can help the reader move toward the feelings you want them to have. Focus on concrete details of the scene and characters, NOT abstract feelings. In other words, show, don't tell. |
-|11/15/2019|Practice: Revision|Kate Chopin, ["The Story of an Hour"](https://americanliterature.com/author/kate-chopin/short-story/the-story-of-an-hour)<br>[Sound File](media/hour.m4a)<br> **Creative:**<br>• Choose a piece of your creative writing and spend 30 minutes re-imagining how it could be written. Could you change the point of view? Could you cut scenes that have little value for the story? Could you cut characters? Are there too many adjectives or adjectives? How could you make verbs and nouns do more of the heavy lifting? |
+| 01/10/2020 |  |  |
+| 01/17/2020 |  |  |
+| 01/24/2020 |  |  |
+| 01/31/2020 |  |  |
+| 02/07/2020 |  |  |
+| 02/14/2020 |  |  |
+| 02/21/2020 | No Class |  |
+| 02/28/2020 |  |  |
+| 03/06/2020 | No Class |  |
+| 03/13/2020 | No Class |  |
+| 03/20/2020 |  |  |
+| 03/27/2020 |  |  |
+| 04/03/2020 |  |  |
+| 04/10/2020 | No Class |  |
+| 04/17/2020 |  |  |
+| 04/24/2020 |  |  |
+| 05/01/2020 |  |  |
