@@ -9,7 +9,7 @@ All readings can be accessed online using the links below, or you can get them i
 
 | Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
-| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"](https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"](https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br><br>**Analytical Essay:**<br> • Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>• Discuss the ideas of body, disability, and disease in these three essays. How do the authors use external, physical facts to drive at deeper truths about God or humanity? |
+| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"](https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"](https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br><br>**Analytical Essay:**<br> • Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>• Discuss the ideas of body, disability, and disease in these three essays. How do the authors use external, physical facts to drive at deeper truths about God or humanity? Use specific quotes in your discussion. |
 | 01/17/2020 | Soul | <br>**Analytical Essay:**<br>  |
 | 01/24/2020 | Spirit | <br>**Analytical Essay:**<br>  |
 | 01/31/2020 | Memoir | <br>**Analytical Essay:**<br>  |
