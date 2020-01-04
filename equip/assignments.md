@@ -9,20 +9,20 @@ All readings can be accessed online using the links below, or you can get them i
 
 | Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
-| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"](https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"](https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br>**Analytical Essay:**<br><br> • Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>• Yancey discusses leprosy in physical and spiritual terms. How do the physical facts of leprosy inform his spiritual reflections? |
-| 01/17/2020 | Soul | **Analytical Essay:**<br><br>  |
-| 01/24/2020 | Spirit | **Analytical Essay:**<br><br>  |
-| 01/31/2020 | Memoir | **Analytical Essay:**<br><br>  |
-| 02/07/2020 | Humor | **Analytical Essay:**<br><br>  |
-| 02/14/2020 | Misunderstandings | **Analytical Essay:**<br><br>  |
-| 02/21/2020 | No Class | **Analytical Essay:**<br><br>  |
-| 02/28/2020 | Change and Stability | **Creative Essay:**<br><br>  |
-| 03/06/2020 | No Class | **Creative Essay:**<br><br>  |
-| 03/13/2020 | No Class | **Creative Essay:**<br><br>  |
-| 03/20/2020 | Body, Revisited | **Creative Essay:**<br><br>  |
-| 03/27/2020 | Books and Machines | **Creative Essay:**<br><br>  |
-| 04/03/2020 | History and Place | **Creative Essay:**<br><br>  |
-| 04/10/2020 | No Class | **Creative Essay:**<br><br>  |
-| 04/17/2020 | Nature | **Creative Essay:**<br><br>  |
-| 04/24/2020 | Writing and Reflecting | **Creative Essay:**<br><br>  |
-| 05/01/2020 | Nature, Revisited | **Creative Essay:**<br><br>  |
+| 01/10/2020 | Body | Philip Yancey, ["The Holy Disease"](https://philipyancey.com/the-holy-disease) <br>Annie Dillard, ["Seeing"](https://aimeeknight.files.wordpress.com/2016/01/seeing.pdf) <br>Jorge Luis Borges, ["Blindness"](https://www.gwern.net/docs/borges/1977-borges-blindness.pdf) <br><br>**Analytical Essay:**<br> • Compare / contrast Dillard's and Borges's notions of sight. What similarities and differences are most interesting? Why? Use quotes to discuss.<br>• Yancey discusses leprosy in physical and spiritual terms. How do the physical facts of leprosy inform his spiritual reflections? |
+| 01/17/2020 | Soul | <br>**Analytical Essay:**<br>  |
+| 01/24/2020 | Spirit | <br>**Analytical Essay:**<br>  |
+| 01/31/2020 | Memoir | <br>**Analytical Essay:**<br>  |
+| 02/07/2020 | Humor | <br>**Analytical Essay:**<br>  |
+| 02/14/2020 | Misunderstandings | <br>**Analytical Essay:**<br>  |
+| 02/21/2020 | No Class | <br>**Analytical Essay:**<br>  |
+| 02/28/2020 | Change and Stability | <br>**Analytical Essay:**<br>  |
+| 03/06/2020 | No Class | <br>**Analytical Essay:**<br>  |
+| 03/13/2020 | No Class | <br>**Analytical Essay:**<br>  |
+| 03/20/2020 | Body, Revisited | <br>**Analytical Essay:**<br>  |
+| 03/27/2020 | Books and Machines | <br>**Analytical Essay:**<br>  |
+| 04/03/2020 | History and Place | <br>**Analytical Essay:**<br>  |
+| 04/10/2020 | No Class | <br>**Analytical Essay:**<br>  |
+| 04/17/2020 | Nature | <br>**Analytical Essay:**<br>  |
+| 04/24/2020 | Writing and Reflecting | <br>**Analytical Essay:**<br>  |
+| 05/01/2020 | Nature, Revisited | <br>**Analytical Essay:**<br>  |
