@@ -5,7 +5,7 @@
 
 For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
 
-All readings can be accessed online using the links below, or you can get them in a single PDF file here (Coming soon!).
+All readings can be accessed online using the links below, or you can get them in a [single PDF file here](2019-2020/equip_spring_2020.pdf).
 
 | Date | Topic / Theme | Reading Assignments / Writing Prompts |
 | ---  | ---   | ---                                   |
