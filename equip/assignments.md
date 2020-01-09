@@ -1,7 +1,7 @@
 [Micah Hawkinson's Equip English Class, 2019-2020](readme.md)
 ---
 
-**Analytical** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond one of the writing prompts or any other aspect of the week's readings that captured your attention.
+**Analytical** Assignments should be about a page and a half long, typed and double-spaced. (Around 300-400 words.) You may respond to **one** of the writing prompts **or** any other aspect of the week's readings that captured your attention.
 
 For **Creative** Assignments, please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
 
