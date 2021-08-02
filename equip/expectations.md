@@ -1,10 +1,12 @@
-[Micah Hawkinson's Equip English Class, 2019-2020](readme.md)
+[Micah Hawkinson's Equip English Class, 2021-2022](readme.md)
 ---
 
 ## What is this class?
-This is a high school-level class in creative writing and English literature. My goals for the class are twofold:
-- Prepare students to excel in a college English classroom
-- Help students to become better at writing
+This is a high school-level class in creative writing. In this class, we will:
+- Work on reading poetry and fiction more closely
+- Develop creative writing techniques
+- Discipline ourselves to write regularly (show up to meet the Muse)
+- Work on additional types of writing as needed to help you feel prepared to meet your goals
 
 ## How can this class help students?
 I hope the class will make students:
@@ -15,21 +17,18 @@ I hope the class will make students:
 - **More creative.** The human urge to create is one of the ways we're created in God's image. As we practice creating beautiful and interesting things, we become better at living out the *imago Dei* stamped within us.
 
 ## How is the class structured?
-This is a class in writing and English literature. As such, I place a lot of emphasis on both reading and writing:
+This is a class in writing poetry and fiction. As such, I place a lot of emphasis on both reading and writing:
 - **Reading**: 
-  - I'm asking students to read at least one short story or essay per week. Some stories may be longer than others, but I don't think I've assigned anything longer than about 40 pages. 
-  - I give a 5-minute, 5-point reading quiz at the start of each class for accountability and to refresh my students' memories about what we read.
-  - Students are encouraged to submit quiz questions. Any who do so may earn 1 extra credit point for the week.
+  - Each week, we will read poetry, fiction, and/or writing instruction with an aim of improving our writing
+  - Immersing yourself in good writing is **essential** if you want to become a good writer yourself
+  - Imitation may or may not be the sincerest form of flattery, but it is certainly a good way to begin your writing adventure... and in order to imitate, you have to read!
 - **Writing**:
-  - Each week, I ask my students to submit **either** a short essay about the weekly readings **or** a short piece of creative writing.
-  - I provide weekly writing prompts that students may choose from in writing their papers. The first half of the semester will be primarily "English essay" assignments, and the latter half will be primarily creative.
-  - The papers should be submitted before the beginning of class if possible.
-  - I prefer that the papers be submitted by e-mail, since this makes it easier for me to read, comment on, and return them in a timely manner. I prefer for them to share these as Google Docs documents, but e-mailed Word Documents (.docx format) can also work well.
+  - Each week, I will ask you to sit down for 30 minutes and get as much writing done as possible, guided by weekly prompts
+  - Please submit your creative writing by e-mail, since this makes it easier for me to read, comment on, and return them in a timely manner. I prefer for you to share them as Google Docs documents, but e-mailed Word Documents (.docx format) can also work well
   - I will comment in passing on mechanical issues such as spelling or punctuation, but my real focus is to find:
     - One thing the student does really well in the piece, and
     - One thing the student could work on or consider more deeply
   - I typically give 5 points for weekly papers that are turned in and 0 points for papers that are not turned in. (If something has been turned in but does not meet minimal standards, it may receive fewer points.)
-  - At the end of the semester, I will give a longer, 100-point writing assignment of between 5 and 7 pages. I will allow students to choose either a more "English essay" option or a creative writing option.
 
 ## A Word About Grades
 I don't really like grades, so I try not to focus very much on them. With that said, I will provide semester grades comprised of three elements:
