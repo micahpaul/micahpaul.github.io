@@ -9,7 +9,7 @@ This is a high school-level class in creative writing. In this class, we will:
 - Work on additional types of writing as needed to help you feel prepared to meet your goals
 
 ## How can this class help students?
-I hope the class will make students:
+I hope the class will make you:
 - **More engaged.** A bored or detached reader will be a listless, unenthusiastic one. The more interested and involved we are, the better we become as readers. Immersing ourselves in the act of writing also helps us to read better.
 - **More inquisitive.** Asking the right questions can open new layers in a work of literature. It’s one of the things that separates a mediocre reader from an excellent one.
 - **More thoughtful.** I want to help students improve their critical thinking skills, make connections between texts, and question assumptions and motivations (those of the author, their own, and even mine). With that said, I also recognize that dissecting a poem can be a lot like dissecting a frog: The results aren’t much to look at, and on top of that, you killed your frog. So we’ll try to walk the fine line between thorough analysis and overanalysis.
@@ -24,39 +24,36 @@ This is a class in writing poetry and fiction. As such, I place a lot of emphasi
   - Imitation may or may not be the sincerest form of flattery, but it is certainly a good way to begin your writing adventure... and in order to imitate, you have to read!
 - **Writing**:
   - Each week, I will ask you to sit down for 30 minutes and get as much writing done as possible, guided by weekly prompts
-  - Please submit your creative writing by e-mail, since this makes it easier for me to read, comment on, and return them in a timely manner. I prefer for you to share them as Google Docs documents, but e-mailed Word Documents (.docx format) can also work well
-  - I will comment in passing on mechanical issues such as spelling or punctuation, but my real focus is to find:
-    - One thing the student does really well in the piece, and
-    - One thing the student could work on or consider more deeply
+  - Please submit your creative writing assignments by e-mail, since this makes it easier for me to read, comment on, and return them in a timely manner. I prefer for you to share them as Google Docs documents, but e-mailed Word Documents (.docx format) can also work well
+  - I might comment on mechanical issues such as spelling or punctuation, but my real focus is to find:
+    - One thing you do really well in the piece, and
+    - One thing you could work on or consider more deeply
   - I typically give 5 points for weekly papers that are turned in and 0 points for papers that are not turned in. (If something has been turned in but does not meet minimal standards, it may receive fewer points.)
 
 ## A Word About Grades
-I don't really like grades, so I try not to focus very much on them. With that said, I will provide semester grades comprised of three elements:
+I don't really like grades, so I try not to focus very much on them. With that said, I will provide semester grades comprised of two elements:
 - Weekly writing assignments (typically 5 points each, pass/fail)
-- Reading quizzes (typically 5 points each, short-answer)
 - Longer assignments (typically 100 points per semester)
 
-A student's lowest three assignment grades (normally a low quiz score or a missing writing assignment) will be excluded from grade calculations.
-
 ## What can students expect from you?
-My students can expect that I will:
-- Care about their academic, personal, and spiritual growth
-- Teach them as much as I can to help them be successful
-- Encourage them and push their boundaries
-- Return their graded work and provide feedback as quickly as I am able
-- Give my very best to them
+You can expect that I will:
+- Care about your academic, personal, and spiritual growth
+- Teach you as much as I can to help you be successful
+- Encourage you and push your boundaries
+- Return your graded work and provide feedback as quickly as I am able
+- Give my very best to you
 - Basically, I aim to be an English coach: On your team, helping you however I can.
 
 ## What do you expect from students?
-I expect students to:
+I expect you to:
 - Attend class regularly
 - Do the assignments
 - Ask good questions and hold me accountable:
-  - Particularly when they don't understand something, or
+  - Particularly when you don't understand something, or
   - I haven't been clear or consistent in instructions, or
-  - They're wondering about assignments that haven't been graded or returned yet
+  - You're wondering about assignments that haven't been graded or returned yet
 - Be engaged in what we're doing
-- Give their very best to their classwork
+- Give your very best to your classwork; you will get out of this class as much as you put into it
 - **Avoid plagiarism at all costs** (see below)
 
 ## What is plagiarism?
