@@ -1,7 +1,7 @@
 Fall 2021 Semester Project
 -----
 
-**Due by:** Noon on Wednesday, 17 November 2019. 
+**Due by:** Noon on Wednesday, 17 November 2021. 
 
 **Final Grades:** I will plan to have this project reviewed and your final grades sent out by Wednesday, 24 November.
 
