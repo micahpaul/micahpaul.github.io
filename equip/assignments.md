@@ -16,7 +16,7 @@ Sep 29|*MOS* 106-151|Exercise 1 or 2, *MOS* 127-130|Selecting and Sharpening Det
 Oct 6|*MOS* 152-202|Exercise 1 or 2, *MOS* 165-166|Plot, Action, Decisions
 Oct 13|None|None|Fall Break
 Oct 20|None|None|Fall Break
-Oct 27|TBD|TBD|TBD
-Nov 3|TBD|TBD|TBD
-Nov 10|TBD|TBD|TBD
-Nov 17|TBD|TBD|TBD
+Oct 27|*MOS* 204-257|Begin Work on Semester Project|Discuss Semester Project; Showing & Telling
+Nov 3|*MOS* 258-317|Continue Semester Project|Point of View
+Nov 10|*MOS* 319-340|Continue Semester Project|Unreliable Narrators
+Nov 17|*MOS* 341-74|Finish / Turn in Semester Project|Dialogue, Semester Review / Celebration
