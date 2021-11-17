@@ -1,9 +1,9 @@
 Fall 2021 Semester Project
 -----
 
-**Due by:** Noon on Wednesday, 17 November 2021. 
+**Due by:** Noon on Wednesday, 8 December 2021. 
 
-**Final Grades:** I will plan to have this project reviewed and your final grades sent out by Wednesday, 24 November.
+**Final Grades:** I will plan to have this project reviewed and your final grades sent out by Wednesday, 15 December.
 
 **Required Length:** 
 * Fiction or Creative Non-Fiction: 1800-2500 words (approximately 5-7 pages, double-spaced).

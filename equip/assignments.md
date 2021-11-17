@@ -18,5 +18,6 @@ Oct 13|None|None|Fall Break
 Oct 20|None|None|Fall Break
 Oct 27|*MOS* 204-257|Begin Work on Semester Project|Discuss Semester Project; Showing & Telling
 Nov 3|*MOS* 258-317|Continue Semester Project|Point of View
-Nov 10|*MOS* 319-340|Continue Semester Project|Unreliable Narrators
-Nov 17|*MOS* 341-74|Finish / Turn in Semester Project|Dialogue, Semester Review / Celebration
+Nov 10|N/A|Continue Semester Project|Discuss Semester Project
+Nov 17|N/A|Continue Semester Project|Discuss Semester Project
+Dec 8|N/A|Turn in Semester Project
