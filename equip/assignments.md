@@ -6,7 +6,7 @@
 | Date | Read | Write | Discussion Topic |
 | ---  | ---   | ---  | ---              |
 5 Jan 2022|No Reading|No Assignment|Review Fall Semester, Discussion
-12 Jan 2022|*MOS* 319-340|Need assignment|Unreliable Narrators
+12 Jan 2022|*MOS* 319-340|Exercise 1 or 2 on 328-329, OR the questions on 340|Unreliable Narrators
 19 Jan 2022|*MOS* 341-74|Need assignment|Dialogue
 26 Jan 2022|Reading|Need assignment|Topic
 2 Feb 2022|Reading|Need assignment|Topic
