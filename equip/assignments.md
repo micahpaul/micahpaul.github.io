@@ -6,17 +6,17 @@
 | Date | Read | Write | Discussion Topic |
 | ---  | ---   | ---  | ---              |
 5 Jan 2022|No Reading|No Assignment|Review Fall Semester, Discussion
-12 Jan 2022|*MOS* 319-340|Exercise 1 or 2 on 328-329, OR the questions on 340|Unreliable Narrators
+12 Jan 2022|*The Making of a Story* 319-340|Exercise 1 or 2 on 328-329, OR the questions on 340|Unreliable Narrators
 19 Jan 2022|*MOS* 341-74|Need assignment|Dialogue
-26 Jan 2022|Reading|Need assignment|Topic
-2 Feb 2022|Reading|Need assignment|Topic
-9 Feb 2022|Reading|Need assignment|Topic
-16 Feb 2022|Reading|Need assignment|Topic
-23 Feb 2022|Reading|Need assignment|Topic
-2 Mar 2022|Reading|Need assignment|Topic
-9 Mar 2022|Reading|Need assignment|Topic
-16 Mar 2022|Reading|Need assignment|Topic
-23 Mar 2022|No Reading|Work on Final Project|Readings / Workshop
-30 Mar 2022|No Reading|Work on Final Project|Readings / Workshop
-6 Apr 2022|No Reading|Work on Final Project|Readings / Workshop
+26 Jan 2022|Reading from *MOS*|Need assignment|Topic
+2 Feb 2022|Reading from *MOS*|Need assignment|Topic
+9 Feb 2022|Reading from *The Making of a Poem*|Need assignment|Topic
+16 Feb 2022|Reading from *MOP*|Need assignment|Topic
+23 Feb 2022|Reading from *MOP*|Need assignment|Topic
+2 Mar 2022|Reading from *MOP*|Need assignment|Topic
+9 Mar 2022|No Reading|Work on Final Project|Workshop
+16 Mar 2022||No Class|
+23 Mar 2022|No Reading|Work on Final Project|Workshop
+30 Mar 2022|No Reading|Work on Final Project|Workshop
+6 Apr 2022|No Reading|Work on Final Project|Workshop
 20 Apr 2022||Final Project Due|
