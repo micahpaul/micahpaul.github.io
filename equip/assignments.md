@@ -7,9 +7,9 @@
 | ---  | ---   | ---  | ---              |
 5 Jan 2022|No Reading|No Assignment|Review Fall Semester, Discussion
 12 Jan 2022|*The Making of a Story* 319-340|Exercise 1 or 2 on 328-329, OR the questions on 340|Unreliable Narrators
-19 Jan 2022|*MOS* 341-74|Need assignment|Dialogue
-26 Jan 2022|Reading from *MOS*|Need assignment|Topic
-2 Feb 2022|Reading from *MOS*|Need assignment|Topic
+19 Jan 2022|*MOS* 341-74|Exercise 1 or 2 on 355, OR the questions on 374|Dialogue
+26 Jan 2022|*MOS* 375-417|Exercise 1 or 2 on 388-389, OR the questions on 417|Plot
+2 Feb 2022|*MOS* 418-464|Exercise 1 or 2 on 435-437, OR the questions on 464|Topic
 9 Feb 2022|Reading from *The Making of a Poem*|Need assignment|Topic
 16 Feb 2022|Reading from *MOP*|Need assignment|Topic
 23 Feb 2022|Reading from *MOP*|Need assignment|Topic
