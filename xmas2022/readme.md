@@ -13,7 +13,7 @@ Dearly beloved,
 
 It's July again, so we are sending out a Christmas card that is either very early or very late (we will never reveal which). 
 
-But you know what's never early or late? God's provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We're grateful that God, like Gandalf, always arrives precisely when He means to.
+But you know what's never early or late? God's provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We're grateful that God, like Gandalf, always arrives precisely when He means to. In fact, Romans 5:6 says, "while we were still helpless, at the right time Christ died for the ungodly."
 
 Here's what we're grateful for right now:
 * **MICAH (40)**: Lots of progress in my creative writing
@@ -23,15 +23,11 @@ Here's what we're grateful for right now:
 * **MELCHIZEDEK (8)**: Writing in cursive
 * **MADELYNNE (7)**: Starting 1st Grade
 
-For more pictures and updates about our lives, point a web browser to linktr.ee/mhawks
+For more pictures and updates about our lives, point a web browser to [linktr.ee/mhawks](linktr.ee/mhawks).
 
-We love you all and are grateful for how you've touched our lives. 
-
-Until next time, we remain your affectionate correspondents,
+We love you all and are grateful for how you've touched our lives. Until next time, we remain your affectionate correspondents,
 
 The M. Hawkinsons
-
-Romans 5:6  - For while we were still helpless, at the right time Christ died for the ungodly.
 
 ---
 
