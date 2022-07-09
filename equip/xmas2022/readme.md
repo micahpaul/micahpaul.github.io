@@ -5,12 +5,12 @@ It's July again, so we are sending out a Christmas card that is either very earl
 But you know what's never early or late? God's provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We're grateful that God, like Gandalf, always arrives precisely when He means to.
 
 Here's what we're grateful for right now:
-MICAH (40): Lots of progress in my creative writing
-MAGEN (37): 
-MYRICK (12): Reading quite a bit of science fiction
-MATTHEW (10): Learning to play the piano better
-MELCHIZEDEK (8): Writing in cursive
-MADELYNNE (7): Starting 1st Grade
+* MICAH (40): Lots of progress in my creative writing
+* MAGEN (37): 
+* MYRICK (12): Reading quite a bit of science fiction
+* MATTHEW (10): Learning to play the piano better
+* MELCHIZEDEK (8): Writing in cursive
+* MADELYNNE (7): Starting 1st Grade
 
 For more pictures and updates about our lives, point a web browser to linktr.ee/mhawks
 
