@@ -1,11 +1,13 @@
 Christmas in July 2022 Letter: Extended Edition!
 ---
 
-We had more we wanted to say, but that postcard just didn't have enough space on it. So here, as Paul Harvey used to say, is the *rest* of the story...
+We had more we wanted to say, but the postcard just didn't have enough space on it. So here, as Paul Harvey used to say, is the *rest* of the story...
 
 ---
 
 **Original Letter:**
+
+![mhawkfam](https://user-images.githubusercontent.com/6474798/178114543-24f25d89-a09a-440f-85d1-86b53f5789ce.jpg)
 
 Dearly beloved,
 
