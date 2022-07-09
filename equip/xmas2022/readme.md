@@ -33,6 +33,8 @@ Romans 5:6  - For while we were still helpless, at the right time Christ died fo
 
 ---
 
+**More Updates:**
+
 Micah (39) still loves his job making pharmacy software. He’s looking forward to having a couple of short stories about Sir Galahad published in an upcoming anthology.
 
 Magen (30ish???) continues teaching our kids at home and running Illuminate Topeka, a non-profit that works with local schools to provide food for low-income students. 
