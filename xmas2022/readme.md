@@ -35,7 +35,7 @@ Here are some other things we’re grateful for:
 * **MELCHIZEDEK (“Zed,” 8)**: Writing in cursive
 * **MADELYNNE (7)**: Starting 1st Grade
 
-For more updates and photos, point a web browser to [linktr.ee/mhawks](linktr.ee/mhawks).
+For more updates and photos, point a web browser to [linktr.ee/mhawks](http://linktr.ee/mhawks).
 
 We love you all and are thankful for how you’ve touched our lives. 
 
