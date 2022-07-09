@@ -17,7 +17,7 @@ But you know what's never early or late? God's provision for us! Over and over, 
 
 Here are some other things we're grateful for right now:
 * **MICAH (40)**: Lots of progress in my creative writing
-* **MAGEN (???)**: 
+* **MAGEN (maybe about 30?)**: 
 * **MYRICK (12)**: Reading quite a bit of science fiction
 * **MATTHEW (10)**: Learning to play the piano better
 * **MELCHIZEDEK (8)**: Writing in cursive
@@ -33,25 +33,10 @@ The M. Hawkinsons
 
 **More Updates:**
 
-Micah (39) still loves his job making pharmacy software. He’s looking forward to having a couple of short stories about Sir Galahad published in an upcoming anthology.
-
-Magen (30ish???) continues teaching our kids at home and running Illuminate Topeka, a non-profit that works with local schools to provide food for low-income students. 
-
-Myrick (11) enjoys singing, running, drawing, and reading. He is a Minecraft enthusiast.
-
-Matt (9) is a master tree climber and has been working on his handstand walks. He also reads a lot and is teaching himself to play the piano.
-
-Zed (7) had fun studying chemistry and physics with his brothers this past year. His other interests include Nerf weapons and eating (especially carrots).
-
-Madelynne (6) takes good care of her babies, most of whom are named Isabelle. She also likes to paint, make crafts, and spend time with her friends.
-
-We’ve been slowly continuing our project to visit every Kansas town. You can follow our progress at kstoddles.blogspot.com.
-
-
-We’d love to hear from you, so please drop us a line if you want to!
-
-
-Until next time, we remain your affectionate correspondents,
-
-
-The M. Hawkinsons
+* **Micah** still loves his job as a Lead Software Engineer at [Fusion](https://fusionehr.com/). Over the past year, he's seen two of his stories published in _[The Lost Tales of Sir Galahad]_(https://store.rabbitroom.com/products/the-lost-tales-of-sir-galahad-ships-spring-2022), run a half marathon (v e r y slowly), and been to several conferences. He's halfway through the first draft of a novel set in the world of _Beowulf_, and he plans to teach a class on Ephesians at [Topeka Bible Church](discovertbc.com) this fall.
+* **Magen** continues to teach our kids at home, as well as being involved in community service organizations that help lower-income families in Topeka. She is a ninja at grabbing manager's specials, and she enjoys reading and soaking up sun at the pool during the summertime.
+* **Myrick** ran track and cross country this past school year. He also ran a 24:00 5K on the 4th of July this summer. He's always got new ideas bouncing around in his head, and he reads and builds Legos in his spare time. In October, he enjoyed going on a man trip with Micah to Chicago.
+* **Matthew** is a fitness buff and is working to get better at elementary CrossFit exercises. He also plays the piano a **lot**, with the theme from "Moonlight Sonata" being his latest obsession. When he's not playing the piano or working out, you'll generally find him tucked away in a corner with his nose in a book. He took a man trip with Micah in May; they visited Nashville and explored a cave in Missouri.
+* **Melchizedek ("Zed")** is growing up a lot! He's getting better and better at school, and he also loves reading and Legos. He also likes making art, telling stories, and playing with his stuffed animals.
+* **Madelynne** is an amazing helper around the house. She always wants to be in the middle of an activity, and she loves learning new ways to help. Maddie also sings, plays often with our neighbor, Piper, and reads. She especially enjoys comic books and graphic novels, and she makes some pretty amazing art of her own, too.
+* As a family, we've been enjoying our project of [visiting every Kansas town](kstoddles.blogspot.com), as well as singing through the hymnal in evenings before bedtime. We also read together a lot; our latest book has been _The Lost Tales of Sir Galahad_. The kids liked Micah's stories OK, but they really enjoyed some of the other ones in the book!
