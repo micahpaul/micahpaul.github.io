@@ -17,26 +17,30 @@ We had more we wanted to say, but the postcard just didn't have enough space on 
 
 ---
 
-**Original Letter:**
+**Original Postcard:**
 
 ![mhawkfam](https://user-images.githubusercontent.com/6474798/178114543-24f25d89-a09a-440f-85d1-86b53f5789ce.jpg)
 
 Dearly beloved,
 
-It's July again, so we are sending out a Christmas card that is either very early or very late (we will never reveal which). 
+It’s July again, so we are sending out a Christmas card that is either very early or very late (we will never reveal which).
 
-But you know what's never early or late? God's provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We're grateful that God, like Gandalf, always arrives precisely when He means to. In fact, Romans 5:6 says, "while we were still helpless, at the right time Christ died for the ungodly."
+But you know what’s never early _or_ late? God’s provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We’re grateful that God, like Gandalf, always arrives precisely when He means to. In fact, Romans 5:6 says, “while we were still helpless, **at the right time** Christ died for the ungodly.” Now that’s good news!
 
-Here are some other things we're grateful for right now:
+Here are some other things we’re grateful for:
 * **MICAH (40)**: Lots of progress in my creative writing
-* **MAGEN (maybe about 30?)**: Really loving the ages of the kids right now
+* **MAGEN (maybe 30ish?)**: Really love kids’ ages right now
 * **MYRICK (12)**: Reading quite a bit of science fiction
 * **MATTHEW (10)**: Learning to play the piano better
-* **MELCHIZEDEK (8)**: Writing in cursive
+* **MELCHIZEDEK (“Zed,” 8)**: Writing in cursive
 * **MADELYNNE (7)**: Starting 1st Grade
 
-For more about what's going on with us, point a web browser to [linktr.ee/mhawks](https://linktr.ee/mhawks).
+For more updates and photos, point a web browser to [linktr.ee/mhawks](linktr.ee/mhawks).
 
-We love you all and are grateful for how you've touched our lives. Until next time, we remain your affectionate correspondents,
+We love you all and are thankful for how you’ve touched our lives. 
+
+Until next time, we remain your affectionate correspondents,
 
 The M. Hawkinsons
+<br>3810 SW Mission Ave.
+<br>Topeka, KS 66610
