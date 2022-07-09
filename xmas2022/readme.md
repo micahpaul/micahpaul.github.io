@@ -15,7 +15,7 @@ It's July again, so we are sending out a Christmas card that is either very earl
 
 But you know what's never early or late? God's provision for us! Over and over, we have seen Him give us exactly what we need, exactly when we needed it. We're grateful that God, like Gandalf, always arrives precisely when He means to. In fact, Romans 5:6 says, "while we were still helpless, at the right time Christ died for the ungodly."
 
-Here's what we're grateful for right now:
+Here are some other things we're grateful for right now:
 * **MICAH (40)**: Lots of progress in my creative writing
 * **MAGEN (???)**: 
 * **MYRICK (12)**: Reading quite a bit of science fiction
