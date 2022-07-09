@@ -17,7 +17,7 @@ But you know what's never early or late? God's provision for us! Over and over, 
 
 Here's what we're grateful for right now:
 * **MICAH (40)**: Lots of progress in my creative writing
-* **MAGEN (37)**: 
+* **MAGEN (???)**: 
 * **MYRICK (12)**: Reading quite a bit of science fiction
 * **MATTHEW (10)**: Learning to play the piano better
 * **MELCHIZEDEK (8)**: Writing in cursive
