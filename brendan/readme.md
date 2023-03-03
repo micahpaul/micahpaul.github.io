@@ -11,6 +11,8 @@ Edited and formatted for easier copypasta by `micahpaul`, based on text retrieve
 
 ## Chapter I
 
+### *Introduction to Brendan; his conversation with Father Barinthus; tale of the Land of Promise of the Saints*
+
 St Brendan, son of Finnlug Ua Alta, of the race of Eoghan, was born in the marshy district of Munster. He was famed for his great abstinence and his many virtues, and was the patriarch of nearly three thousand monks. 
 
 While he was in his spiritual warfare at a place called Ardfert-Brendan, there came to him one evening, a certain father, named Barinthus, of the race of King Niall. When questioned by St Brendan, in frequent converse, Barinthus could only weep, and cast himself prostrate, and continue the longer in prayer.
@@ -62,6 +64,8 @@ When these discourses were ended, St Brendan said: "Let us now proceed to the re
 The night having passed, St Barinthus, receiving the blessing of the brethren, returned to his own cell.
 
 ## Chapter II
+
+### *Fourteen monks agree to join Brendan in a quest for the Land of Promise of the Saints*
 
 St Brendan soon after selected from his whole community fourteen monks. Taking these apart, the venerable father Brendan retired with them into an oratory where he thus addressed them: 'Dearly beloved fellow-soldiers of mine, I request your advice and assistance, for my heart and mind are firmly set upon one desire; if it be only God's holy will, I have in my heart resolved to go forth in quest of the Land of Promise of the Saints, about which Father Barinthus discoursed to us. What do you think? What is your advice?' But they, well knowing the purpose of their holy father, replied, as with one voice: 'Father-abbot, your will is our will also. Have we not forsaken our parents? Have we not slighted our family prospects? Have we not committed into your hands even our very bodies? We are, therefore, ready to go with you, whether unto life or unto death, provided only we find such to be the will of God.'
 
