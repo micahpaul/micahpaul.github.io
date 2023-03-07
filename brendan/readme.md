@@ -12,9 +12,7 @@ Edited and formatted for easier copypasta by `micahpaul`, based on text retrieve
 
 ---
 
-## Chapter I
-
-### *Brendan's introduction; his conversation with Father Barinthus; tale of the Land of Promise of the Saints*
+## I: *Brendan's introduction; his conversation with Father Barinthus; tale of the Land of Promise of the Saints*
 
 St Brendan, son of Finnlug Ua Alta, of the race of Eoghan, was born in the marshy district of Munster. He was famed for his great abstinence and his many virtues, and was the patriarch of nearly three thousand monks. 
 
@@ -66,39 +64,29 @@ When these discourses were ended, St Brendan said: "Let us now proceed to the re
 
 The night having passed, St Barinthus, receiving the blessing of the brethren, returned to his own cell.
 
-## Chapter II
-
-### *Brendan selects fourteen monks to join his quest for the Land of Promise of the Saints*
+## II: *Brendan selects fourteen monks to join his quest for the Land of Promise of the Saints*
 
 St Brendan soon after selected from his whole community fourteen monks. Taking these apart, the venerable father Brendan retired with them into an oratory where he thus addressed them: "Dearly beloved fellow-soldiers of mine, I request your advice and assistance, for my heart and mind are firmly set upon one desire; if it be only God's holy will, I have in my heart resolved to go forth in quest of the Land of Promise of the Saints, about which Father Barinthus discoursed to us. What do you think? What is your advice?" 
 
 But they, well knowing the purpose of their holy father, replied, as with one voice: "Father-abbot, your will is our will also. Have we not forsaken our parents? Have we not slighted our family prospects? Have we not committed into your hands even our very bodies? We are, therefore, ready to go with you, whether unto life or unto death, provided only we find such to be the will of God."
 
-## III
-
-### *Brendan and the fourteen fast and depart*
+## III: *Brendan and the fourteen fast and depart*
 
 St Brendan and the chosen brethren then decided to make a fast of forty days, at three days' intervals, and afterwards to take their departure. Those forty days having elapsed, St Brendan, affectionately taking leave of his monks, and commending them to the special care of the Prior of his monastery, who was afterwards his successor there, sailed forth towards the west, with fourteen brethren, to the island wherein dwelt St Enda, and remained there three days and three nights.
 
-## IV
-
-### *Brendan and his companions build a boat*
+## IV: *Brendan and his companions build a boat*
 
 Having received the blessing of this holy father and all his monks, he proceeded to the remotest part of his own country, where his parents abode. However, he willed not to visit them, but went up to the summit of the mountain there, which extends far into the ocean, on which is "St Brendan's Seat," and there he fitted up a tent, near a narrow creek, where a boat could enter. 
 
 Then St Brendan and his companions, using iron implements, prepared a light vessel, with wicker sides and ribs, such as is usually made in that country, and covered it with cow-hide, tanned in oak-bark, tarring the joints thereof, and put on board provisions for forty days, with butter enough to dress hides for covering the boat and all utensils needed for the use of the crew. He then ordered the monks to embark, in the name of the Father, and of the Son, and of the Holy Ghost.
 
-## V
-
-### *Three more monks join Brendan's company*
+## V: *Three more monks join Brendan's company*
 
 But while he stood on the shore and blessed the little creek, behold three more monks from his monastery came up, and cast themselves at his feet, saying: "O dearest father, suffer us, for the love of Christ, to accompany you on your voyage, otherwise we will die hereof hunger and thirst, for we are resolved to travel with thee all the days of our lives." 
 
 When the man of God saw their great urgency, he ordered them to embark, saying: "Have your will, my children," but adding: "I know well why you have come hither. One of you has acted well, for God had provided for him an excellent place; but for two others, He has appointed harm and judgment."
 
-## VI
-
-### *Brendan and the seventeen set sail; God is their pilot; they reach an island of miraculous provision and meet a friendly dog; one of the monks is tempted*
+## VI: *Brendan and the seventeen set sail; God is their pilot; they reach an island of miraculous provision and meet a friendly dog; one of the monks is tempted*
 
 St Brendan then embarked, and they set sail towards the summer solstice. They had a fair wind, and therefore no labour, only to keep the sails properly set; but after twelve days the wind fell to a dead calm, and they had to labour at the oars until their strength was nearly exhausted. 
 
@@ -132,9 +120,7 @@ When the brethren had gone to sleep, St Brendan saw the demon, in the guise of a
 
 When morning came the brethren hastened to perform the divine offices, and wishing to take to their boat again, they found the table laid for their meal. as on the previous day; and so for three days and nights did God provide their repasts for His servants.
 
-## VII
-
-### *A monk's greed and theft condemn him to death, but his soul is saved by repentance*
+## VII: *A monk's greed and theft condemn him to death; his soul is saved by repentance*
 
 Afterwards St Brendan set out on his journey with the brethren, first cautioning them not to take away any property from the island. 
 
@@ -152,9 +138,7 @@ And turning to the penitent brother, he told him to prepare without delay to rec
 
 Soon after the soul of the brother who received the Holy Viaticum departed this life, and was taken up to heaven by angels of light in the sight of his brethren, who gave him Christian burial in that place.
 
-## VIII
-
-### *Brendan and his company meet their provisioner and set sail again*
+## VIII: *Brendan and his company meet their provisioner and set sail again*
 
 St Brendan and the brethren came to the shore where the boat lay, and embarked at once;
 
@@ -162,7 +146,7 @@ Whereupon a young man presented himself to them, bearing a basket full of loaves
 
 Under this blessing they sailed forth upon the ocean, partaking of food only every second day, while the boat was borne along in divers directions.
 
-## IX
+## IX: 
 
 One day they came within view of an island, not far off, towards which they sailed with a favourable wind. When the boat touched a landing-place, the man of God ordered all to disembark, he being the last to leave the boat. In making a circuit of the island, they saw great streams of water flowing from many fountains, full of all kinds of fish. St Brendan 'said to the brethren: 'Let us here perform the divine office, and sacrifice unto God the Lamb without spot, for this day is the festival of the Lord's Supper;' and they remained there until Easter Saturday.
 
