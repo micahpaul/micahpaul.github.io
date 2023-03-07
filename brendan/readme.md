@@ -7,6 +7,8 @@ Published: D. O'Donoghue, Brendaniana<br>
 Date of Translation: 1893<br>
 Edited and formatted for easier copypasta by `micahpaul`, based on text retrieved from https://markjberry.blogs.com/StBrendan.pdf and presumed to be in the public domain.
 
+**Table of Contents:**
+
 * TOC
 {:toc}
 
