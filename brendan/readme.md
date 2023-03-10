@@ -1,11 +1,8 @@
 # *Nauigatio sancti Brendani abbatis*
 
 (The Voyage of St Brendan the Abbot)<br>
-Source: Edition by Archbishop P. F. Moran<br>
-Translator: Denis O'Donoghue<br>
-Published: D. O'Donoghue, Brendaniana<br>
-Date of Translation: 1893<br>
-Edited and formatted for easier copypasta by `micahpaul`, based on text retrieved from https://markjberry.blogs.com/StBrendan.pdf and presumed to be in the public domain.
+Source: *Brendaniana: St. Brendan the Voyager in Story and Legend*, by Denis O'Donoghue, published 1893<br>
+Edited and formatted for easier copypasta by `micahpaul`, based on text retrieved from https://archive.org/details/gb0U49kFVbJcsC.
 
 ---
 
@@ -16,7 +13,7 @@ Edited and formatted for easier copypasta by `micahpaul`, based on text retrieve
 
 ---
 
-## I: *Brendan's introduction; his conversation with Father Barinthus; tale of the Land of Promise of the Saints*
+## CHAPTER I. St. Brendan is stimulated by the example of St. Barinthus to seek the Land of Promise.
 
 St Brendan, son of Finnlug Ua Alta, of the race of Eoghan, was born in the marshy district of Munster. He was famed for his great abstinence and his many virtues, and was the patriarch of nearly three thousand monks. 
 
@@ -68,35 +65,29 @@ When these discourses were ended, St Brendan said: "Let us now proceed to the re
 
 The night having passed, St Barinthus, receiving the blessing of the brethren, returned to his own cell.
 
-## II: *Brendan selects fourteen monks to join his quest for the Land of Promise of the Saints*
+## CHAPTER II. St. Brendan and his Companions set sail.
 
 St Brendan soon after selected from his whole community fourteen monks. Taking these apart, the venerable father Brendan retired with them into an oratory where he thus addressed them: "Dearly beloved fellow-soldiers of mine, I request your advice and assistance, for my heart and mind are firmly set upon one desire; if it be only God's holy will, I have in my heart resolved to go forth in quest of the Land of Promise of the Saints, about which Father Barinthus discoursed to us. What do you think? What is your advice?" 
 
 But they, well knowing the purpose of their holy father, replied, as with one voice: "Father-abbot, your will is our will also. Have we not forsaken our parents? Have we not slighted our family prospects? Have we not committed into your hands even our very bodies? We are, therefore, ready to go with you, whether unto life or unto death, provided only we find such to be the will of God."
 
-## III: *Brendan and the fourteen fast and depart*
-
 St Brendan and the chosen brethren then decided to make a fast of forty days, at three days' intervals, and afterwards to take their departure. Those forty days having elapsed, St Brendan, affectionately taking leave of his monks, and commending them to the special care of the Prior of his monastery, who was afterwards his successor there, sailed forth towards the west, with fourteen brethren, to the island wherein dwelt St Enda, and remained there three days and three nights.
-
-## IV: *Brendan and his companions build a boat*
 
 Having received the blessing of this holy father and all his monks, he proceeded to the remotest part of his own country, where his parents abode. However, he willed not to visit them, but went up to the summit of the mountain there, which extends far into the ocean, on which is "St Brendan's Seat," and there he fitted up a tent, near a narrow creek, where a boat could enter. 
 
 Then St Brendan and his companions, using iron implements, prepared a light vessel, with wicker sides and ribs, such as is usually made in that country, and covered it with cow-hide, tanned in oak-bark, tarring the joints thereof, and put on board provisions for forty days, with butter enough to dress hides for covering the boat and all utensils needed for the use of the crew. He then ordered the monks to embark, in the name of the Father, and of the Son, and of the Holy Ghost.
 
-## V: *Three more monks join Brendan's company*
-
 But while he stood on the shore and blessed the little creek, behold three more monks from his monastery came up, and cast themselves at his feet, saying: "O dearest father, suffer us, for the love of Christ, to accompany you on your voyage, otherwise we will die hereof hunger and thirst, for we are resolved to travel with thee all the days of our lives." 
 
 When the man of God saw their great urgency, he ordered them to embark, saying: "Have your will, my children," but adding: "I know well why you have come hither. One of you has acted well, for God had provided for him an excellent place; but for two others, He has appointed harm and judgment."
-
-## VI: *Brendan and the seventeen set sail; God is their pilot; they reach an island of miraculous provision and meet a friendly dog; one of the monks is tempted*
 
 St Brendan then embarked, and they set sail towards the summer solstice. They had a fair wind, and therefore no labour, only to keep the sails properly set; but after twelve days the wind fell to a dead calm, and they had to labour at the oars until their strength was nearly exhausted. 
 
 Then St Brendan would encourage and exhort them: "Fear not, brothers, for our God will be unto us a helper, a mariner, and a pilot; take in the oars and helm, keep the sails set, and may God do unto us, His servants and His little vessel, as He willeth." 
 
 They took refreshment always in the evening, and sometimes a wind sprung up; but they knew not from what point it blew, nor in what direction they were sailing.
+
+## CHAPTER III. Their First Discovery of Land.
 
 At the end of forty days, when all their provisions were spent, there appeared towards the north, an island very rocky and steep. When they drew near it, they saw its cliffs upright like a wall, and many streams of water rushing down into the sea from the summit of the island; but they could not discover a landing-place for the boat. 
 
@@ -124,8 +115,6 @@ When the brethren had gone to sleep, St Brendan saw the demon, in the guise of a
 
 When morning came the brethren hastened to perform the divine offices, and wishing to take to their boat again, they found the table laid for their meal. as on the previous day; and so for three days and nights did God provide their repasts for His servants.
 
-## VII: *A monk's greed and theft condemn him to death; his soul is saved by repentance*
-
 Afterwards St Brendan set out on his journey with the brethren, first cautioning them not to take away any property from the island. 
 
 "God forbid," said they, "that any of us should dishonour our journey by theft"; 
@@ -142,15 +131,13 @@ And turning to the penitent brother, he told him to prepare without delay to rec
 
 Soon after the soul of the brother who received the Holy Viaticum departed this life, and was taken up to heaven by angels of light in the sight of his brethren, who gave him Christian burial in that place.
 
-## VIII: *Brendan and his company meet their provisioner and set sail again*
-
 St Brendan and the brethren came to the shore where the boat lay, and embarked at once;
 
 Whereupon a young man presented himself to them, bearing a basket full of loaves of bread and a large bottle of water, and said: "Accept this blessing from your servant, for a long way lies before you ere you obtain the comfort yon seek; but this bread and water will not fail you from this day until Pentecost."
 
 Under this blessing they sailed forth upon the ocean, partaking of food only every second day, while the boat was borne along in divers directions.
 
-## IX: *They celebrate the feast of the Lord's Supper on the Island of Sheep*
+## CHAPTER IV. They visit Sheep-Island, and celebrate the Easter Festival.
 
 One day they came within view of an island, not far off, towards which they sailed with a favourable wind. When the boat touched a landing-place, the man of God ordered all to disembark, he being the last to leave the boat. In making a circuit of the island, they saw great streams of water flowing from many fountains, full of all kinds of fish. 
 
@@ -174,8 +161,6 @@ St Brendan asked him also why the sheep were so very large on that island, large
 
 They then went on board their vessel, and having given and received parting blessings, they proceeded on their voyage.
 
-## X: *They spend the Easter vigil on a mysterious island; Brendan's companions are surprised by its nature; they meet Iasconius*
-
 When they drew nigh to the nearest island, the boat stopped ere they reached a landing-place. And the saint ordered the brethren to get out into the sea, and make the vessel fast, stem and stern, until they came to some harbour. There was no grass on the island, very little wood, and no sand on the shore. 
 
 While the brethren spent the night in prayer outside the vessel, the saint remained in it, for he knew well what manner of island was this; but he wished not to tell the brethren, lest they might be too much afraid. 
@@ -190,9 +175,11 @@ Afterwards they could see the fire they had kindled still burning more than two 
 
 "Fear not, my children," said the saint, "for God has last night revealed to me the mystery of all this. It was not an island you were upon, but a fish, the largest of all that swim in the ocean, which is ever trying to make its head and tail meet, but cannot succeed, because of its great length. Its name is Iasconius."
 
-## XI: *They reach the Paradise of Birds; they learn of the birds' origins; they sing praises with the birds; they are warned of a sleep-inducing fountain; their yearly pattern is established*
+When they had sailed beside the island, where they had already been, for three days, and reached the end thereof, they saw towards the west another island, not far off, across a narrow sound, which was very grassy, well-wooded, and full of flowers; and they bore away towards its landing-place. 
 
-When they had sailed beside the island, where they had already been, for three days, and reached the end thereof, they saw towards the west another island, not far off, across a narrow sound, which was very grassy, well-wooded, and full of flowers; and they bore away towards its landing-place. When they had sailed to the southern side of this island, they found a rivulet flowing into the sea, and there they brought the boat to land, the saint ordered them to leave the boat, and tow it up against the stream, which was only wide enough for its passage; and thus they towed it for a mile up to the source of the rivulet, the saint sitting on board the while.
+## CHAPTER V. The Paradise of Birds. 
+
+When they had sailed to the southern side of this island, they found a rivulet flowing into the sea, and there they brought the boat to land, the saint ordered them to leave the boat, and tow it up against the stream, which was only wide enough for its passage; and thus they towed it for a mile up to the source of the rivulet, the saint sitting on board the while.
 
 After some consideration, St, Brendan said to them: "Behold, my brothers, God has provided for us a suitable place wherein to abide during the Paschal time. And if we had no other provisions, this fountain would, I believe, serve for food as well as drink." 
 
@@ -242,19 +229,47 @@ Then the bird, in human voice, addressed him: "With us you have celebrated the P
 
 Having spoken thus, the bird returned to its place on the tree. 
 
+## CHAPTER VI. The Island of St. Ailbe.
+
 The brethren got the boat ready, and set sail forth into the ocean, while all the birds sung in concert: "Hear us, O God Our Saviour, the hope of all the ends of the earth, and in the sea afar off."
 
-## XII: *They come to an island of monks*
+After this St Brendan and his brethren were tossed about to and fro on the billows of the ocean for the space of three months, during which they could see nothing but sea and sky, and they took refreshment only every second day. 
 
-After this St Brendan and his brethren were tossed about to and fro on the billows of the ocean for the space of three months, during which they could. see nothing hut sea and sky, and they took refreshment only every second day. One day, however, an island came into view, not far off; but when they drew near the shore the wind drove them aside, and thus for forty days they sailed round about the island without finding a landingplace. The brethren meanwhile besought the Lord with tears that He would vouchsafe to help them, for their strength was almost exhausted because of their great fatigue; and when they had thus persevered in frequent prayer for three days, and in fasting also, at length they found a narrow creek fit to receive one boat, and beside it two fountains, one foul and the other limpid. Then the brethren hastened to take some of the water, the man of God said to them: 'My chil–dren, do nothing that may be unlawful. Take nothing here without the leave of the venerable fathers who are on this island, and they will freely give what you would take by stealth,'
+One day, however, an island came into view, not far off; but when they drew near the shore the wind drove them aside, and thus for forty days they sailed round about the island without finding a landing place. The brethren meanwhile besought the Lord with tears that He would vouchsafe to help them, for their strength was almost exhausted because of their great fatigue. 
 
-When all had landed and were considering in what direction they should go, there came to them an old man, wasted from extreme old age, whose hair was white as snow and, his face pellucid like glass. He prostrated him–self. thrice, before he went to embrace the man of God, who, raising him up from the ground, embraced him, as did all the brethren, in like manner. Then this aged man, taking the holy father by the hand, led him to the monas–tery, about a furlong distant, when St Brendan stood at the entrance, and asked his guide whose monastery this was, and who was its superior. He put to him various questions in this way, but could get no reply, only manual signs, indicating silence with much gentleness. As soon as the holy father recognised that silence was the rule of the place, he cautioned his brethren: 'Restrain your tongues from much talking, lest the monks here may be scandalized by your foolish speeches.'
+And when they had thus persevered in frequent prayer for three days, and in fasting also, at length they found a narrow creek fit to receive one boat, and beside it two fountains, one foul and the other limpid. Then the brethren hastened to take some of the water.
 
-After this, there came forth to meet them eleven monks, in their habits and crosses, chanting the versicle: 'Arise, you holy ones from your dwellings, and come forth to meet us; sanctify this place; bless this people, and vouchsafe to guard us, thy servants, in peace.' The versicle being ended, the abbot embraced St Brendan and his companions in due order, and in like manner his monks embraced the brethren of the holy man. When the kiss of peace was thus mutually given and received, they conducted them into the monastery, according to the custom in western countries; and the abbot and his monks proceeded to wash the feet of their guests, and to chant the 'New Commandment.'
+The man of God said to them: "My children, do nothing that may be unlawful. Take nothing here without the leave of the venerable fathers who are on this island, and they will freely give what you would take by stealth."
 
-Then he led them all into the refectory, in strict silence; and when they had washed their hands he gave them a signal to take their seats, when one of the monks, on a given signal, rose up and supplied the table with loaves of bread of marvellous whiteness and roots of delicious flavour. The monks had taken places at table alternately with their guests, in due order, and between each pair a whole loaf was served, when the ministering brother set before them also some drink. Father abbot, in much cheerfulness, pressed his guests: 'Brothers, from the fountain, out of which to-day you wished to drink stealthily, make now a loving cup in gladness and in the fear of the Lord. From the other fountain of foul water, which you saw, are the feet of the brethren washed, for it is always tepid. Those loaves of bread which you now see before you, we know not where. they are prepared, or who brings them to our cellar; but we know well that, by the free gift of God, they are supplied to us, as an alms, by some obedient creature of His; and thus is fulfilled in our regard the words of divine truth; 'Those who fear God want for nothing.' Here we are twenty-four brothers, having each day twelve loaves for our support, one loaf for two brothers; but on Sundays and great festivals the Lord allows us a full loaf for each brother, so that of what remains we may have a supper; and now, on your advent, we have a double supply; thus it is that from the days of St Patrick and St Ailbe, our patriarchs, for eighty years until now, Christ provides us with sustenance. Moreover, neither old age nor bodily infirmities increase upon us here, neither do we need cooked food, nor are we oppressed with heat or distressed with cold; but we live here, as it were, in the paradise of God. When the hours for the divine office and for Mass arrive, the lamps in our church, which, under God's guidance, we brought with us from our own country, are set alight, and burn always without growing less.'
+When all had landed and were considering in what direction they should go, there came to them an old man, wasted from extreme old age, whose hair was white as snow, and his face pellucid like glass. He prostrated himself thrice before he went to embrace the man of God, who, raising him up from the ground, embraced him, as did all the brethren, in like manner. Then this aged man, taking the holy father by the hand, led him to the monastery, about a furlong distant. 
 
-When the repast was over, and they had thrice taken some drink, the abbot gave the usual signal, and all the brethren, in great silence, rose from table, giving thanks to God, and preceded the fathers to the church, at the door of which they met twelve other monks, who readily bent the knee, as they passed. Then St Brendan said: 'Father abbot, why have not those monks dined with us?'. For your sakes,' said the abbot, 'as our table could not seat us all together. They will now take their meal. for through God's holy will they shall want for' nothing. We will now enter– the church and sing vespers, so that the brethren who are now dining, may sing'-the office afterwards in proper time,' When vespers had concluded, St Brendan took heed of the structure of the church: it was a perfect square of equal length and breadth, and in it were seven lamps, so arranged that three of them hung before the central altar, and two before each of the side altars. All the altars were of crystal, and the chalices, paten as, cruets, and the other vessels required for the Divine Sacrifice were also of crystal. Around the church were ranged twenty-four benches, with the abbot's seat between the two choirs of monks in rows on either side. No monk from either choir was allowed to intone the chant of the office, but the abbot; and throughout the monastery no voice was heard, nor any sound whatever; but if a brother needed anything, he went to the abbot, and on his knees made signs that he wanted aught; and then the father wrote on a tablet what God had intimated to him to be needful for the brother.
+St Brendan stood at the entrance and asked his guide whose monastery this was, and who was its superior. He put to him various questions in this way, but could get no reply, only manual signs, indicating silence with much gentleness. As soon as the holy father recognised that silence was the rule of the place, he cautioned his brethren: "Restrain your tongues from much talking, lest the monks here may be scandalized by your foolish speeches."
+
+After this, there came forth to meet them eleven monks, in their habits and crosses, chanting the versicle: 
+
+"Arise, you holy ones from your dwellings, and come forth to meet us; sanctify this place; bless this people, and vouchsafe to guard us, thy servants, in peace."
+
+The versicle being ended, the abbot embraced St Brendan and his companions in due order, and in like manner his monks embraced the brethren of the holy man. When the kiss of peace was thus mutually given and received, they conducted them into the monastery, according to the custom in western countries; and the abbot and his monks proceeded to wash the feet of their guests, and to chant the "New Commandment."
+
+Then he led them all into the refectory, in strict silence. And when they had washed their hands, he gave them a signal to take their seats. One of the monks, on a given signal, rose up and supplied the table with loaves of bread of marvellous whiteness and roots of delicious flavour. The monks had taken places at table alternately with their guests, in due order, and between each pair a whole loaf was served, when the ministering brother set before them also some drink.
+
+Father abbot, in much cheerfulness, pressed his guests: "Brothers, from the fountain, out of which today you wished to drink stealthily, make now a loving cup in gladness and in the fear of the Lord. From the other fountain of foul water, which you saw, are the feet of the brethren washed, for it is always tepid.
+
+"Those loaves of bread which you now see before you, we know not where they are prepared, or who brings them to our cellar. But we know well that, by the free gift of God, they are supplied to us, as an alms, by some obedient creature of His. And thus is fulfilled in our regard the words of divine truth; 'Those who fear God want for nothing.' 
+
+"Here we are twenty-four brothers, having each day twelve loaves for our support, one loaf for two brothers. But on Sundays and great festivals the Lord allows us a full loaf for each brother, so that of what remains we may have a supper. And now, on your advent, we have a double supply; thus it is that from the days of St Patrick and St Ailbe, our patriarchs, for eighty years until now, Christ provides us with sustenance. 
+
+"Moreover, neither old age nor bodily infirmities increase upon us here, neither do we need cooked food, nor are we oppressed with heat or distressed with cold. But we live here, as it were, in the paradise of God. When the hours for the divine office and for Mass arrive, the lamps in our church, which, under God's guidance, we brought with us from our own country, are set alight, and burn always without growing less."
+
+When the repast was over, and they had thrice taken some drink, the abbot gave the usual signal. And all the brethren, in great silence, rose from table, giving thanks to God, and preceded the fathers to the church, at the door of which they met twelve other monks, who readily bent the knee, as they passed. 
+
+Then St Brendan said: "Father abbot, why have not those monks dined with us?"
+
+"For your sakes," said the abbot, "as our table could not seat us all together. They will now take their meal. For through God's holy will they shall want for nothing. We will now enter the church and sing vespers, so that the brethren who are now dining may sing the office afterwards in proper time." 
+
+*editing here*
+
+When vespers had concluded, St Brendan took heed of the structure of the church. It was a perfect square of equal length and breadth, and in it were seven lamps, so arranged that three of them hung before the central altar, and two before each of the side altars. All the altars were of crystal, and the chalices, paten as, cruets, and the other vessels required for the Divine Sacrifice were also of crystal. Around the church were ranged twenty-four benches, with the abbot's seat between the two choirs of monks in rows on either side. No monk from either choir was allowed to intone the chant of the office, but the abbot; and throughout the monastery no voice was heard, nor any sound whatever; but if a brother needed anything, he went to the abbot, and on his knees made signs that he wanted aught; and then the father wrote on a tablet what God had intimated to him to be needful for the brother.
 
 While St Brendan was pondering all these things, the abbot said to him: 'Father, it is now time to return to the refectory, that all may be done with day-light, as it is written: 'He who walketh in the light, stumbleth not.' So it was done, and when all things were com–pleted in due order of the daily routine, all hastened with alacrity to compline. Then the abbot intoned the versicle: 'Incline us to my aid, O Lord,' invoking at the same time the Most Holy Trinity; and they sub–join the antiphon: 'We have sinned; we have acted unrighteously; we have worked iniquity; Thou, O Lord Christ, 'who art all mercy, have pity on us. In unto the selfsame, I will sleep and take my rest.'
 
