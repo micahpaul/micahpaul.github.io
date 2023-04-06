@@ -615,12 +615,36 @@ When that solemn season had passed, their procurator, who was still with them, s
 
 Then, while they were embarking, all the birds of the island, as soon as they saw St. Brendan, sang together in concert: "May a happy voyage under his guidance bring you safely to the island of your procurator."
 
-They took with them provisions for forty days, as their course lay to the west *\[nb. Latin says 'east']* for that space of time; during which the procurator went on before them, guiding their way. At the end of forty days, towards evening, a dense cloud overshadowed them, so dark that they could scarce see one another. Then the procurator said to St. Brendan: 'Do you know, father, what darkness is this?' And the saint replied that he knew not. 'This darkness,' said he, 'surrounds the island you have sought for seven years; you will soon see that it is the entrance to it ;' and after an hour had elapsed a great light shone around them, and the boat stood by the shore.
+They took with them provisions for forty days, as their course lay to the west *\[nb. Latin says 'east']* for that space of time; during which the procurator went on before them, guiding their way. At the end of forty days, towards evening, a dense cloud overshadowed them, so dark that they could scarce see one another. 
 
-When they had disembarked, they saw a land, extensive and thickly set with trees, laden with fruits, as in the autumn season. All the time they were traversing that land, during their stay in it, no night was there, but a light always shone, like the light of the sun in the meridian, and for the forty days they viewed the land in various directions, they could not find the limits thereof. One day, however, they carne to a large river flowing towards the middle of the land, which they could not by any means cross over. St. Brendan then said to the brethren: 'We cannot cross over this river, and we must therefore remain ignorant of the size of this country.' While they were considering this matter, a young man of resplendent features, and very handsome aspect, came to them, and joyfully embracing and addressing each of them by his own name, said: 'Peace be with you, brothers, and with all who practise the peace of Christ. Blessed are they who dwell in thy house, O Lord; they shall praise Thee for ever and ever.'
+Then the procurator said to St. Brendan: "Do you know, father, what darkness is this?" 
 
-He then said to St. Brendan: 'This is the land you have sought after for so long a time; but you could not hitherto find it, because Christ our Lord wished, first to display to you His divers mysteries in this immense ocean. Return now to the land of your birth, bearing with you as much of those fruits and of those precious stones, as your boat can carry; for the days of your earthly pilgrimage must draw to a close, when you may rest in peace among your saintly brethren. After many years this land will be made manifest to those who come after you, when days of tribulation may come upon 'the people of Christ. The great river you see here divides this land into two parts; and just as it appears now, teeming with ripe fruits, so does it ever remain, without any blight or shadow whatever, for light unfailing shines thereon.' When St. Brendan inquired whether this land 'would. be revealed unto men, the young man replied: 'When the Most High Creator will have brought all nations under subjection, then will this land be made known to all His elect.' Soon after, St. Brendan, having received the blessing of this man, prepared for his return to his own country. He gathered some of the fruits of the land, and various kinds of precious stones; and having taken a last farewell of the good procurator who had each year provided food for him arid his brethren, he embarked once more and sailed back through the darkness again.
+And the saint replied that he knew not. 
 
-When they had passed through this, they reached the 'Island of Delights,' where they remained for three days, as guests in the monastery; and then St. Brendan, with the abbot's parting blessing, set sail in a direct course, under God's guidance, and arrived at his own monastery, where all his monks gave glory to God for the safe return of their holy patron, and learned from him the wonderful works of God, which he had seen or heard during his voyage.
+"This darkness," said he, "surrounds the island you have sought for seven years; you will soon see that it is the entrance to it." 
 
-[Selmer's edition contains a Chapter XXIX, which is now considered a later interpolation. The version translated by O'Donoghue has only the following conclusion]. Afterwards he ended in peace the days of his life, on the nones of July, our Lord Jesus Christ reigning, whose kingdom and empire endure for ever and ever. Amen!
+And after an hour had elapsed a great light shone around them, and the boat stood by the shore.
+
+When they had disembarked, they saw a land, extensive and thickly set with trees, laden with fruits, as in the autumn season. All the time they were traversing that land, during their stay in it, no night was there, but a light always shone, like the light of the sun in the meridian, and for the forty days they viewed the land in various directions, they could not find the limits thereof. 
+
+One day, however, they came to a large river flowing towards the middle of the land, which they could not by any means cross over. 
+
+St. Brendan then said to the brethren: "We cannot cross over this river, and we must therefore remain ignorant of the size of this country." 
+
+While they were considering this matter, a young man of resplendent features, and very handsome aspect, came to them, and joyfully embracing and addressing each of them by his own name, said: "Peace be with you, brothers, and with all who practise the peace of Christ. Blessed are they who dwell in thy house, O Lord; they shall praise Thee for ever and ever."
+
+He then said to St. Brendan: "This is the land you have sought after for so long a time; but you could not hitherto find it, because Christ our Lord wished, first to display to you His divers mysteries in this immense ocean. 
+
+"Return now to the land of your birth, bearing with you as much of those fruits and of those precious stones, as your boat can carry; for the days of your earthly pilgrimage must draw to a close, when you may rest in peace among your saintly brethren. 
+
+"After many years this land will be made manifest to those who come after you, when days of tribulation may come upon the people of Christ. The great river you see here divides this land into two parts; and just as it appears now, teeming with ripe fruits, so does it ever remain, without any blight or shadow whatever, for light unfailing shines thereon." 
+
+When St. Brendan inquired whether this land would be revealed unto men, the young man replied: "When the Most High Creator will have brought all nations under subjection, then will this land be made known to all His elect." 
+
+Soon after, St. Brendan, having received the blessing of this man, prepared for his return to his own country. He gathered some of the fruits of the land, and various kinds of precious stones; and having taken a last farewell of the good procurator who had each year provided food for him arid his brethren, he embarked once more and sailed back through the darkness again.
+
+When they had passed through this, they reached the "Island of Delights," where they remained for three days, as guests in the monastery; and then St. Brendan, with the abbot's parting blessing, set sail in a direct course, under God's guidance, and arrived at his own monastery, where all his monks gave glory to God for the safe return of their holy patron, and learned from him the wonderful works of God, which he had seen or heard during his voyage.
+
+*\[Selmer's edition contains a Chapter XXIX, which is now considered a later interpolation. The version translated by O'Donoghue has only the following conclusion]*. 
+
+Afterwards he ended in peace the days of his life, on the nones of July, our Lord Jesus Christ reigning, whose kingdom and empire endure for ever and ever. Amen!
