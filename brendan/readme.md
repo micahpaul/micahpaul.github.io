@@ -453,7 +453,7 @@ When the brethren saw it, they cried out to the holy father: "Help us, O father,
 
 But the man of God told them to fear it not, for God was their helper. 
 
-And then another great bird came into view, and in rapid flight flew against the Gryphon, engaging it in a combat, that seemed for some time of doubtful event; but at length, tearing out its eyes, it vanquished and slew it; and the carcass fell into the sea, in the sight of all the brethren, who thereupon gave thanks and praises' to God; while the bird which gained the victory flew away, whence it had come.
+And then another great bird came into view, and in rapid flight flew against the Gryphon, engaging it in a combat, that seemed for some time of doubtful event; but at length, tearing out its eyes, it vanquished and slew it; and the carcass fell into the sea, in the sight of all the brethren, who thereupon gave thanks and praises to God; while the bird which gained the victory flew away, whence it had come.
 
 They went to the island of St. Alibe, to celebrate the Christmas festival, and afterwards taking leave of the abbot, with mutual blessings, they sailed about the ocean for a long time, taking rest only at Easter and Christmas on the islands before mentioned.
 
@@ -581,7 +581,7 @@ The man of God replied:
 
 > For forty years I lived in the monastery of St. Patrick, and had the care of the cemetery. One day when the prior had pointed out to me the place for the burial of a deceased brother, there appeared before me an old man, whom I knew not, who said: "Do not, brother, make the grave there, for that is the burial-place of another."
 >
-> I said, 'Who are you, father?'
+> I said, "Who are you, father?"
 >
 > "Do you not know me?" said he. "Am I not your abbot?" 
 > 
