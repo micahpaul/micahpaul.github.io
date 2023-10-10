@@ -429,7 +429,7 @@ St. Brendan then, with many tears, gave him the kiss of peace, as did also the b
 
 Bidding them all fare–well, the brother quickly followed the two young men to the companies of the saints, who, on seeing him, sang the verse: "Behold how good and pleasant it is for brethren to dwell together in unity;" and in a higher key intoned the *Te Deum laudamus* ("We praise Thee, O God"); and then, when all had embraced. him, he was admitted into their society.
 
-St. Brendan set sail from the island, and. when mealtime had come, he told the brethren to refresh themselves with the grapes they got on the island. Taking up one of them, and seeing its great size, and how full of juice it was, he said, in wonder: "Never have I seen or read of grapes so large." 
+St. Brendan set sail from the island, and when mealtime had come, he told the brethren to refresh themselves with the grapes they got on the island. Taking up one of them, and seeing its great size, and how full of juice it was, he said, in wonder: "Never have I seen or read of grapes so large." 
 
 They were all of equal size, like a large ball, and when the juice of one was pressed into a vessel, it yielded a pound weight. This juice the father divided into twelve parts, giving a part every day to each of the brethren, and thus for twelve days, one grape sufficed for the refreshment of each brother, in whose mouth it always tasted like honey.
 
@@ -443,7 +443,7 @@ The brethren then drew up to the landing-place; and St. Brendan, leaving the boa
 
 The venerable father found on the island six fountains, watering the greenest herbage and vegetables of divers kinds. He then returned to the brethren, bringing with him some samples, as first-traits of the island. And he said to them: "Leave the boat now, and fix up your tent here; be of good cheer, and enjoy the excellent fruits of this land which God has shown to us." 
 
-And thus for forty days they fasted on the grapes, and herbs, and vegetables watered by those fountains.
+And thus for forty days they feasted on the grapes, and herbs, and vegetables watered by those fountains.
 
 After that period, they embarked again, taking with them some of the fruits of the island, and sailed along as the winds shaped their course.
 
