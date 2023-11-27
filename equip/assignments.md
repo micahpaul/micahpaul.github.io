@@ -1,22 +1,25 @@
-[Micah Hawkinson's Equip English Class, 2021-2022](/equip/readme.md)
+[Micah Hawkinson's Equip Intro to Web Development, Spring 2024](readme.md)
 ---
 
-**Writing Prompts**: Please take **at least** 30 minutes of **focused** time with no electronics, music, or distractions. Really focus on them. These aren't about volume so much as effort and quality. Work hard on them to strengthen your writing!
+The following assignments are due by the start of class each week. Grading will be on a complete / not complete basis. 
 
-| Date | Read | Write | Discussion Topic |
-| ---  | ---   | ---  | ---              |
-5 Jan 2022|No Reading|No Assignment|Review Fall Semester, Discussion
-12 Jan 2022|*The Making of a Story* 319-340|Exercise 1 or 2 on 328-329, OR the questions on 340|Unreliable Narrators
-19 Jan 2022|*MOS* 341-74|Exercise 1 or 2 on 355, OR the questions on 374|Dialogue
-26 Jan 2022|*MOS* 375-417|Exercise 1 or 2 on 388-389, OR the questions on 417|Plot
-2 Feb 2022||Snow Day - No Class
-9 Feb 2022|*MOS* 418-464|Exercise 1 or 2 on 435-437, OR the questions on 464|Topic
-16 Feb 2022|*The Making of a Poem* 165-206|Write at least 12 lines of an elegy or lament|Elegy
-23 Feb 2022|*MOP* 207-239|Write at least 12 lines of a pastoral or nature poem|Pastoral
-2 Mar 2022|*MOP* 240-255|Write at least 12 lines of an ode|Ode
-9 Mar 2022|*MOP* 259-288|Write at least 12 lines of an experimental or open form poem|Open Form
-16 Mar 2022||No Class|
-23 Mar 2022|No Reading|Work on Final Project|Workshop
-30 Mar 2022|No Reading|Work on Final Project|Workshop
-6 Apr 2022|No Reading|Work on Final Project|Workshop
-20 Apr 2022||Final Project Due|
+**Please contact Mr. Hawkinson as far in advance as possible if you know you will have trouble submitting an assignment on time!**
+
+| Date | Assignment / Topics |
+| ---  |  ---                |
+3 Jan 2024|Tools: `Ctrl-Shift-I`, [Free Code Camp](www.freecodecamp.org), GitHub, Notepad++, VS Code 
+10 Jan 2024|FreeCodeCamp: [CatPhotoApp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
+17 Jan 2024|FreeCodeCamp: [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
+24 Jan 2024|
+31 Jan 2024|
+7 Feb 2024|
+14 Feb 2024|
+21 Feb 2024|
+28 Feb 2024|NDII Break; no class
+6 Mar 2024|
+13 Mar 2024|Spring Break; no class
+20 Mar 2024|
+27 Mar 2024|Easter Break; no class
+3 Apr 2024|
+10 Apr 2024|
+17 Apr 2024|
