@@ -1,4 +1,4 @@
-[Micah Hawkinson's Equip Intro to Web Development, Spring 2024](readme.md)
+[Micah Hawkinson's EQUIP Programming, Fall 2024](readme.md)
 ---
 
 ## Class Description
