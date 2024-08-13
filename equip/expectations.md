@@ -28,10 +28,10 @@ The class is intended for students who have an interest and curiosity about how 
 Students will need:
 * A laptop computer with: 
   * Chrome or FireFox web browser installed
-  * Notepad++ installed (available free at https://notepad-plus-plus.org/)
   * VS Code installed (available free at https://code.visualstudio.com/)
   * GitHub Desktop installed (available free at https://desktop.github.com/)
-  * Note: Laptop should be brought to class each week
+  * Not required, but recommended: Notepad++ installed (available free at https://notepad-plus-plus.org/)
+  * Note: Laptop should be brought to class each week and should be at full charge if possible
 * Access to and accounts for the following websites:
   * https://github.com/ (free signup)
   * https://www.freecodecamp.org/ (free signup; can use a google account)

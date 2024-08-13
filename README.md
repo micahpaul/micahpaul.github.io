@@ -2,7 +2,7 @@
 
 I have made these:
 * [Zed's Color Game](zed)
-* [Equip English Site](equip)
+* [Equip Class](equip)
 * [Memify This!](memify)
 * [Myrick's Movie](movie)
 * [The Voyage of St Brendan the Abbot](brendan)
