@@ -17,7 +17,7 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 11 Sep 2024|Beginning CSS|Start work on [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
 18 Sep 2024|Beginning CSS|Complete [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu) **by end of class**
 25 Sep 2024|CSS Flexbox Design|Complete [Flexbox Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery) **by end of class**
-2 Oct 2024|CSS Animation|Complete [Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-29) **by end of class**
+2 Oct 2024|CSS Animation|Complete [Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel) **by end of class**
 9 Oct 2024|Fall Break; no class
 16 Oct 2024|TBD
 23 Oct 2024|TBD

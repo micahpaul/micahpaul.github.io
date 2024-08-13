@@ -30,7 +30,7 @@ Students will need:
   * Chrome or FireFox web browser installed
   * VS Code installed (available free at https://code.visualstudio.com/)
   * GitHub Desktop installed (available free at https://desktop.github.com/)
-  * Not required, but recommended: Notepad++ installed (available free at https://notepad-plus-plus.org/)
+  * *Not required, but recommended*: Notepad++ installed (available free at https://notepad-plus-plus.org/)
   * Note: Laptop should be brought to class each week and should be at full charge if possible
 * Access to and accounts for the following websites:
   * https://github.com/ (free signup)
