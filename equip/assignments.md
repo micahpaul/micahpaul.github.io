@@ -23,6 +23,17 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 23 Oct 2024|Beginning JavaScript|Complete [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator) **by end of class**
 30 Oct 2024|Apply JavaScript|Start work on [Roleplaying Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-1)
 6 Nov 2024|Apply JavaScript|Complete [Roleplaying Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/step-1) **by end of class**
-13 Nov 2024|Final Project|Pick a final project and start work on it (see list below)
-20 Nov 2024|Final Project|Continue work on final project (last day of class!)
-27 Nov 2024|Final Project|Final project is due by 5 p.m.
+13 Nov 2024|Semester Final|Pick a final project and start work on it (see list below)
+20 Nov 2024|Semester Final|Continue work on final project (this is the last day of class, but you may have another week if needed)
+27 Nov 2024|Semester Final|Final project is due by 5 p.m.
+
+### Fall 2024  Final Project Options
+* [HTML: Build a Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
+* [CSS: Build a Cat Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting/step-1)
+* [CSS: Build a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
+* [CSS: Build a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1)
+* [JS: Build a Calorie Counter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-1)
+* [Gorillas JS (on your GitHub)](https://www.freecodecamp.org/news/gorillas-game-in-javascript/)
+* [JS Stick Hero Clone (on your GitHub)](https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/)
+* [Melting Snowman (on your GitHub)](https://www.freecodecamp.org/news/how-to-code-a-simple-game/)
+* Or propose a project of your choice to Mr. Hawkinson!
