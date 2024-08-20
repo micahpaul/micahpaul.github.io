@@ -9,9 +9,9 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 
 **Please contact me as far in advance as possible if you know you will have trouble submitting an assignment on time!**
 
-| Date | Topic | Assignment |
-| ---  |  ---  | ---        |
-21 Aug 2024|Intro to Tools|`Ctrl-Shift-I`, [Free Code Camp](https://www.freecodecamp.org), GitHub, Notepad++, VS Code
+| Date | Topic | Assignment |Notes|
+| ---  |  ---  | ---        | --- |
+21 Aug 2024|Intro to Tools|`Ctrl-Shift-I`, [Free Code Camp](https://www.freecodecamp.org), GitHub, Notepad++, VS Code | [Demo Notes](demo_20240821.md)
 28 Aug 2024|Beginning HTML|Start work on [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app)
 4 Sep 2024|Beginning HTML|Complete [Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app) **by end of class**
 11 Sep 2024|Beginning CSS|Start work on [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu)
