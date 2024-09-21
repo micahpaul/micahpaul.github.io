@@ -7,18 +7,21 @@ var theColor;
 var stage = new createjs.Stage('myCanvas');
 createjs.Touch.enable(stage);
 
-var welcomeSound = makeSound("welcome");
+var welcomeSound = makeSound("wild_welcome");
 var greatJobSound = makeSound("greatjob");
 var tryAgainSound = makeSound("tryagain");
+var iLoveZed = makeSound("i_love_zed");
 
 function makeSound(baseName) {
-	var thisSound = new Audio("sounds/"+ baseName + ".mp3");
-	return thisSound;
+	return new Audio("sounds/"+ baseName + ".mp3");
 }
 
 function ColorObject (color) {
 	this.color = color;
 	this.sound = makeSound(color);
+	this.sound.addEventListener('ended',function(e){
+		iLoveZed.play();
+	});
 }
 
 function success(){
