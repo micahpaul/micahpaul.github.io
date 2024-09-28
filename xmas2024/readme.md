@@ -87,6 +87,8 @@ How about in 2022, right after we sent out our last "Christmas in July" card...
 
 ## Other Noteworthy Tidbits:
 * Micah has loved being part of the [Habit Community](https://thehabit.co/) and attending in-person writers' retreats with his friends from that group twice per year. 
+* Micah also continues to be involved in the [Rabbit Room](https://www.rabbitroom.com/) and treasures the friendships he's found there.
+* Magen is still the amazing ringmaster of our house and educational endeavors. She does excellent work as an administrator for Foundations, the homeschool academy we use to supplement our homeschooling.
 * Myrick looks forward to attending Hutchmoot with Micah this October (Myrick's first time, Micah's 12th).
 * Micah has enjoyed traveling to several correctional facilities for work, meeting wonderful nursing staff and spending time with remote co-workers in person. So far, he's been to Louisiana, Rhode Island, and Ohio, and he hopes to add more to the list soon.
 * We continue working on our [Toddling Through Kansas](https://kstoddles.blogspot.com/) project whenever we can. 300 towns done, about 600 to go!
