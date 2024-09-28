@@ -1,4 +1,4 @@
-# M. Hawkinson 2024 Christmas Card:
+# M. Hawkinson "Christmas" Card 2024:
 <img src="xmas_2024.jpg">
 
 Dear friends and family:
@@ -21,7 +21,7 @@ M. Hawkinsons
 
 <img src="fam.jpeg">
 
-We wanted to say more, but the postcard (see below) just didn't have enough space. And so much has happened since the last time we sent a card out! Where to begin? 
+We wanted to say more, but the postcard just didn't have enough space. And so much has happened since the last time we sent a card out! Where to begin? 
 
 How about in 2022, right after we sent out our last "Christmas in July" card...
 
