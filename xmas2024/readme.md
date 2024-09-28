@@ -32,7 +32,7 @@ How about in 2022, right after we sent out our last "Christmas in July" card...
 ### October
 * We went to the Rogue Invitational in Austin, which was fun!
 * Magen's van got hit by a deer on the way home, which was not.
-* Matt and Dad went on a man trip to San Antonio.
+* Matt and Micah went on a Man Trip to San Antonio.
 
 ### November
 * We hosted our first Maker Meetup gathering for local creative friends in Topeka.
@@ -44,7 +44,7 @@ How about in 2022, right after we sent out our last "Christmas in July" card...
 ### April
 * We finished licensing to do foster care
 * Micah spent a week and a half in Nashville working on his historical novel (with monsters) set in the world of Beowulf and St. Brendan the Navigator.
-  * Sometimes Micah's full of hope about this project. Sometimes he wants to forget about the whole silly thing. Pray for him when you think of it.
+  * Sometimes Micah is full of hope about this project. Sometimes he wants to forget about the whole silly thing. Pray for him when you think of it.
 
 ### June
 * We took our first short-term foster placement.
@@ -69,13 +69,10 @@ How about in 2022, right after we sent out our last "Christmas in July" card...
 * Micah and Magen celebrated her birthday with a getaway to Tulsa.
 
 ### April
-* Micah and Magen got to see Drew Holcomb at Knuckleheads in Kansas City. Fortunately, they were able to avoid tornadoes on the way there, and there was only a short weather delay for the outdoor concert.
+* Micah and Magen got to see Drew Holcomb at Knuckleheads in Kansas City. Fortunately, we were able to avoid tornadoes on the way there, and there was only a short weather delay for the outdoor concert.
 
 ### May
 * Myrick went to Leadership Training Camp at Kansas Bible Camp. He really enjoyed staffing there this summer.
-
-### June
-* Micah spent a week at a juvenile correctional facility in Ohio. Once more, the people were great!
 
 ### July
 * Our foster son got to go back to live with his mom. This was an occasion for great excitement, but we also miss him terribly. 
