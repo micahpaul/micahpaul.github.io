@@ -17,7 +17,7 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 11 Sep 2024|Beginning CSS|Start work on [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)|[Discussion Notes](notes_20240911.md)
 18 Sep 2024|Beginning CSS|Complete [Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) **by end of class**|[Discussion Notes](notes_20240918.md)
 25 Sep 2024|CSS Flexbox Design|Complete [Flexbox Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery) **by end of class**|[Discussion Notes](notes_20240925.md)
-2 Oct 2024|CSS Animation|Complete [Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel) **by end of class**|[Discussion Notes](notes_20240925.md)
+2 Oct 2024|CSS Animation|Complete [Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel) **by end of class**|[Discussion Notes](notes_20241002.md)
 9 Oct 2024|Fall Break; no class
 16 Oct 2024|Beginning JavaScript|Start work on [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator)
 23 Oct 2024|Beginning JavaScript|Complete [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator) **by end of class**
