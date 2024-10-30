@@ -20,7 +20,7 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 2 Oct 2024|CSS Animation|Complete [Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel) **by end of class**|[Discussion Notes](notes_20241002.md)
 9 Oct 2024|Fall Break; no class
 16 Oct 2024|Beginning JavaScript|Start work on [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator)|[Discussion Notes](notes_20241016.md)
-23 Oct 2024|Beginning JavaScript|Complete [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator) **by end of class**
+23 Oct 2024|Beginning JavaScript|Complete [Pyramid Generator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-introductory-javascript-by-building-a-pyramid-generator) **by end of class**|[Discussion Notes](notes_20241023.md)
 30 Oct 2024|Apply JavaScript|Start work on [Roleplaying Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game)
 6 Nov 2024|Apply JavaScript|Complete [Roleplaying Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-javascript-by-building-a-role-playing-game) **by end of class**
 13 Nov 2024|Semester Final|Pick a final project and start work on it (see list below)
@@ -36,4 +36,4 @@ Generally speaking, a project is due every week **by the end of class**. (Except
 * [Gorillas JS (on your GitHub)](https://www.freecodecamp.org/news/gorillas-game-in-javascript/)
 * [JS Stick Hero Clone (on your GitHub)](https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/)
 * [Melting Snowman (on your GitHub)](https://www.freecodecamp.org/news/how-to-code-a-simple-game/)
-* Or propose a project of your choice to Mr. Hawkinson!
+* Or propose a project of your choice to Mr. Hawkinson! Use GitHub to host it.
