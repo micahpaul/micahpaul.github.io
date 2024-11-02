@@ -12,6 +12,8 @@ const COLORS = [
 
 let theColor = "red";
 let currentScore = 0;
+let playColors = [];
+const NUM_PLAY_COLORS = 4;
 
 function clickPiece(color) {
     let extraText;
@@ -34,37 +36,58 @@ function updateDashboard(extraText="") {
         "\nCurrent score: " + currentScore;
 }
 
+function randomIntFromInterval(min,max)
+{
+    return Math.floor(Math.random()*(max-min+1)+min);
+}
+
+// clear out playColors, pick new ones at random, and select one right one  
+function pickPlayColors() {
+	playColors.length = 0;
+
+	while (playColors.length < NUM_PLAY_COLORS) {
+		var color = COLORS[randomIntFromInterval(0,COLORS.length-1)];
+		if (playColors.indexOf(color) == -1) {
+			playColors.push(color);
+		}
+	}
+	
+	theColor = playColors[randomIntFromInterval(0,playColors.length-1)];
+}
+
 function main() {
     const mainButton = document.getElementById("mainButton");
 	mainButton.parentNode.removeChild(mainButton);
 
-    const gameDiv = document.createElement("div");
-    gameDiv.className = "colorGame";
-    document.body.appendChild(gameDiv);
+    pickPlayColors();
 
     updateDashboard();
     
-    for (let ix = 0; ix < COLORS.length; ix++) {
-        const pieceDiv = document.createElement("div");
-        pieceDiv.className = "gamePiece";
-        pieceDiv.style.backgroundColor=COLORS[ix];
-        pieceDiv.style.left = ix * 12 + "%";
-        pieceDiv.onclick = () => {clickPiece(COLORS[ix])}
-        gameDiv.appendChild(pieceDiv);
-    }
-   
-    // const pieces = document.getElementsByClassName("gamePiece");
-    
-    // for (let i = 0; i < pieces.length; i++) {
-    //     pieces[i].style.backgroundColor='orange';
-    //     pieces[i].onclick = () => {alert("hi mom")};
+    const gameDiv = document.getElementById("game"); 
 
-    //     // todo: pick one as "the" color
-    //     // todo: onClick events
-    //     // todo: sounds
-    //     // todo: scores
-            // todo: speed up, slow down
-            // todo: better pattern, bigger circles
-            // todo: mix colors?
-    // }
+    for (let ix = 0; ix < playColors.length; ix++) {    
+        const xDiv = document.createElement("div");
+        xDiv.className = "el-wrap x";
+        
+        const yDiv = document.createElement("div");
+        yDiv.className = "el y";
+        yDiv.style.backgroundColor=playColors[ix];
+        yDiv.style.left = ix * 50 + "px";
+        yDiv.style.top = ix * 50 + "px";
+        yDiv.onclick = () => {clickPiece(playColors[ix])}
+        
+        xDiv.appendChild(yDiv);
+        
+        gameDiv.appendChild(xDiv);
+    }
+
+    console.log(document.body);
+
+    // todo: make play area smaller so they're always on screen?
+    // todo: different x vel, y vel, starting positions for each item
+    // todo: sounds
+    // todo: speed up, slow down
+    // todo: mix colors?
+    // todo: fewer targets?
+    // todo: make dashboard pretty          
 }

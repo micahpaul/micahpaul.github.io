@@ -1,9 +1,11 @@
 * {background-color: wheat;}
-canvas {
-        background-color: wheat;
-        margin: auto;
-        display: block;
-    }
+
+:root {
+  --width: 50px;
+  --x-speed: 13s;
+  --y-speed: 7s;
+  --transition-speed: 2.2s;
+}
 
 button {
 background-color:#7892c2;
@@ -22,47 +24,34 @@ text-shadow:0px 1px 0px #283966;
 margin: 100px;
 }
 
-.colorGame {
-  border: none;
-  border-radius: 50%;
-  margin-top: 100px;
-  margin-left: 150px;
-  position: absolute;
-  height: 55vw;
-  width: 55vw;
-  max-width: 500px;
-  max-height: 500px;
-  animation-name: wheel;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
+.game {
+  width: 800px;
+  height: 800px;
 }
 
-.gamePiece {
-  background-color: red;
-  width: 10%;
-  height: 10%;
+.el { 
+  width: var(--width);
+  height: var(--width);
   position: absolute;
+}
+
+.x {
+  animation: x var(--x-speed) linear infinite alternate;
+}
+.y {
+  border-radius: 50%;
   border: 2px solid;
-  border-radius: 50%;
-  transform-origin: 50% 0%;
-  animation: gamePieces 2s ease-in-out infinite;
+  animation: y var(--y-speed) linear infinite alternate;
 }
 
-@keyframes wheel {
-   0% {
-     transform: rotate(0deg);
-   }
-   100% {
-     transform: rotate(360deg);
-   }
-}
-
-@keyframes gamePieces {
-  0% {
-    transform: rotate(0deg);
-  }
+@keyframes x {
   100% {
-    transform: rotate(-360deg);
+    transform: translateX(calc(100vw - var(--width)));
   }
 }
+@keyframes y {
+  100% {
+    transform: translateY(calc(100vh - var(--width)));
+  }
+}
+
