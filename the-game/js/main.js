@@ -81,13 +81,18 @@ function main() {
         gameDiv.appendChild(xDiv);
     }
 
+    const gameSound = new Audio("ColorGame-Background.m4a");
+    gameSound.loop = true;
+    gameSound.play();
+
     console.log(document.body);
 
-    // todo: make play area smaller so they're always on screen?
+    // todo: make play area smaller so they're always on screen
     // todo: different x vel, y vel, starting positions for each item
-    // todo: sounds
+    // todo: sounds: jukebox?
+    // todo: visual themes / color schemes
     // todo: speed up, slow down
-    // todo: mix colors?
-    // todo: fewer targets?
+    // todo: touch multiple colors to get a mixed one?
+    // todo: different shapes
     // todo: make dashboard pretty          
 }
