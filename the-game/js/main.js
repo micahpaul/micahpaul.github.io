@@ -68,12 +68,12 @@ function main() {
     for (let ix = 0; ix < playColors.length; ix++) {    
         const xDiv = document.createElement("div");
         xDiv.className = "el-wrap x";
-        
+        xDiv.style.animationDuration = randomIntFromInterval(3,6) + 's';
+                
         const yDiv = document.createElement("div");
         yDiv.className = "el y";
         yDiv.style.backgroundColor=playColors[ix];
-        yDiv.style.left = ix * 50 + "px";
-        yDiv.style.top = ix * 50 + "px";
+        yDiv.style.animationDuration = randomIntFromInterval(3,6) + 's';
         yDiv.onclick = () => {clickPiece(playColors[ix])}
         
         xDiv.appendChild(yDiv);

@@ -2,9 +2,10 @@
 
 :root {
   --width: 50px;
-  --x-speed: 13s;
-  --y-speed: 7s;
-  --transition-speed: 2.2s;
+  --x-speed: 2.5s;
+  --y-speed: 3.5s;
+  --transition-speed: 1s;
+  --dashboard-height: 100px;
 }
 
 button {
@@ -24,15 +25,15 @@ text-shadow:0px 1px 0px #283966;
 margin: 100px;
 }
 
-.game {
-  width: 800px;
-  height: 800px;
+.dashboard {
+    height: var(--dashboard-height);
 }
 
 .el { 
   width: var(--width);
   height: var(--width);
   position: absolute;
+  cursor: pointer;
 }
 
 .x {
@@ -51,7 +52,7 @@ margin: 100px;
 }
 @keyframes y {
   100% {
-    transform: translateY(calc(100vh - var(--width)));
+    transform: translateY(calc(100vh - var(--width) - var(--dashboard-height)));
   }
 }
 
