@@ -13,6 +13,8 @@ const COLORS = [
 let theColor = "red";
 let currentScore = 0;
 let playColors = [];
+let xDivs = [];
+let yDivs = [];
 const NUM_PLAY_COLORS = 4;
 
 function clickPiece(color) {
@@ -21,6 +23,7 @@ function clickPiece(color) {
     if (color === theColor){
         currentScore++;
         extraText = "good job!";
+        updateColors();
     }
     else {
         currentScore--;
@@ -55,31 +58,61 @@ function pickPlayColors() {
 	theColor = playColors[randomIntFromInterval(0,playColors.length-1)];
 }
 
-function main() {
-    const mainButton = document.getElementById("mainButton");
-	mainButton.parentNode.removeChild(mainButton);
+function adjustseconds(secondsText, factor) {
+    let result = secondsText.substring(0,secondsText.length-1);
+    result *= factor;
+    return result + 's';
+}
 
+function updateColors() {
+    pickPlayColors();
+
+    updateDashboard();
+    
+    for (let ix = 0; ix < yDivs.length; ix++) {
+        yDivs[ix].style.backgroundColor=playColors[ix];
+        yDivs[ix].onclick = () => {clickPiece(playColors[ix])}
+        yDivs[ix].ontouchstart = () => {clickPiece(playColors[ix])}
+        xDivs[ix].style.animationDuration = adjustseconds(xDivs[ix].style.animationDuration, .9);
+        yDivs[ix].style.animationDuration = adjustseconds(yDivs[ix].style.animationDuration, .9);
+    }  
+}
+
+function createGamePieces() {
     pickPlayColors();
 
     updateDashboard();
     
     const gameDiv = document.getElementById("game"); 
 
+    gameDiv.innerHTML = "";
+
     for (let ix = 0; ix < playColors.length; ix++) {    
         const xDiv = document.createElement("div");
         xDiv.className = "el-wrap x";
-        xDiv.style.animationDuration = randomIntFromInterval(3,6) + 's';
+        xDiv.style.animationDuration = (1 + Math.random()) * 3 + 's';
                 
         const yDiv = document.createElement("div");
         yDiv.className = "el y";
         yDiv.style.backgroundColor=playColors[ix];
-        yDiv.style.animationDuration = randomIntFromInterval(3,6) + 's';
+        yDiv.style.animationDuration = (1 + Math.random()) * 3 + 's';
         yDiv.onclick = () => {clickPiece(playColors[ix])}
-        
+        yDiv.ontouchstart = () => {clickPiece(playColors[ix])}
+
+        yDivs.push(yDiv);
+        xDivs.push(xDiv);
+
         xDiv.appendChild(yDiv);
         
         gameDiv.appendChild(xDiv);
     }
+}
+
+function main() {
+    const mainButton = document.getElementById("mainButton");
+	mainButton.parentNode.removeChild(mainButton);
+
+    createGamePieces();    
 
     const gameSound = new Audio("ColorGame-Background.m4a");
     gameSound.loop = true;
@@ -87,12 +120,13 @@ function main() {
 
     console.log(document.body);
 
-    // todo: make play area smaller so they're always on screen
-    // todo: different x vel, y vel, starting positions for each item
+    // todo: different starting positions for each item
+    // todo: don't re-create objects every time
     // todo: sounds: jukebox?
     // todo: visual themes / color schemes
-    // todo: speed up, slow down
+    // todo: increasing difficulty
     // todo: touch multiple colors to get a mixed one?
     // todo: different shapes
-    // todo: make dashboard pretty          
+    // todo: make dashboard pretty
+    // todo: doesn't work on iPhone > Chrome
 }
