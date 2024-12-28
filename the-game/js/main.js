@@ -118,15 +118,17 @@ function main() {
     gameSound.loop = true;
     gameSound.play();
 
-    console.log(document.body);
 
-    // todo: different starting positions for each item
-    // todo: don't re-create objects every time
+    // todo: launch screen with difficulty options? 
     // todo: sounds: jukebox?
     // todo: visual themes / color schemes
     // todo: increasing difficulty
     // todo: touch multiple colors to get a mixed one?
     // todo: different shapes
     // todo: make dashboard pretty
-    // todo: doesn't work on iPhone > Chrome
+    // todo: different disappearing / appearing animations
+    
+    // maybe never:
+    // todo: different starting positions for each item
+    
 }

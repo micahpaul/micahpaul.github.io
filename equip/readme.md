@@ -1,4 +1,4 @@
-Micah Hawkinson's EQUIP Programming, Fall 2024
+Micah Hawkinson's EQUIP Programming, Spring 2025
 ---
 ### Pages:
 * [Weekly Assignments](assignments.md)
