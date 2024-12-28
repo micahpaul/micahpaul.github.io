@@ -5,7 +5,7 @@ This schedule shows the minimum work that must be completed during the semester.
 
 Weekly grades will be assigned on a complete / not complete basis. 
 
-Generally speaking, a project is due every week **by the end of class**. (Exceptions are clearly noted.) This will allow you to ask questions and fix any outstanding issues before I look at your project.
+Generally speaking, a project is due every week **before class**. If you are having trouble, please reach out for help via email or the class GroupMe ASAP. 
 
 **Please contact me as far in advance as possible if you know you will have trouble submitting an assignment on time!**
 
