@@ -11,29 +11,33 @@ Generally speaking, a project is due every week **before class**. If you are hav
 
 | Date | Topic | Assignment |Notes|
 | ---  |  ---  | ---        | --- |
-8 Jan 2025|Review Basic JS|Complete [Review JavaScript Fundamentals by Building a Gradebook App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#review-js-fundamentals-by-building-a-gradebook-app) before class|
-15 Jan 2025|Debugging|Complete [Learn Basic Debugging by Building a Random Background Color Changer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-debugging-by-building-a-random-background-color-changer) before class|
-22 Jan 2025|Document Object Model|Complete [Review DOM Manipulation by Building a Rock, Paper, Scissors Game](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#review-dom-manipulation-by-building-a-rock-paper-scissors-game) before class|
-29 Jan 2025|Strings and Arrays (part 1)|Complete through Step 33 of [Learn Basic String and Array Methods by Building a Music Player](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player) before class|
-5 Feb 2025|Strings and Arrays (part 2)|Complete through Step 66 of [Learn Basic String and Array Methods by Building a Music Player](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player) before class|
-12 Feb 2025|Strings and Arrays (part 3)|Complete [Learn Basic String and Array Methods by Building a Music Player](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player) before class|
-19 Feb 2025|localStorage (part 1)|Complete through Step 34 of [Learn localStorage by Building a Todo App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-localstorage-by-building-a-todo-app) before class|
-26 Feb 2025|localStorage (part 2)|Complete [Learn localStorage by Building a Todo App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-localstorage-by-building-a-todo-app) before class|
+8 Jan 2025|Review Basic JS|Complete [Build a Gradebook App](https://www.freecodecamp.org/learn/full-stack-developer/#lab-gradebook-app) **or** [Review JavaScript Fundamentals by Building a Gradebook App](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#review-js-fundamentals-by-building-a-gradebook-app) before class|Helpful lectures: [Understanding Core JavaScript Fundamentals](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-understanding-core-javascript-fundamentals)
+15 Jan 2025|Functions|Complete [Build a Calculator](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-calculator) before class|Helpful lecture: [Working With Functions](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-functions)
+22 Jan 2025|Domain Object Model|Complete [Build a Storytelling App](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-storytelling-app) before class|Helpful lectures: [DOM, click events, web APIs](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-the-dom-click-events-and-web-apis)
+29 Jan 2025|Debugging|Complete [Debug a Random Background Color Changer](https://www.freecodecamp.org/learn/full-stack-developer/lab-random-background-color-changer/debug-a-random-background-color-changer) before class|Helpful Lectures: [Debugging Techniques](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-debugging-techniques)
+5 Feb 2025|Working with Audio (part 1)|Complete through Step 23 of [Build a Music Player](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-music-player) before class|Helpful Lectures: [Working With Audio and Video](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-audio-and-video)
+12 Feb 2025|Working with Audio (part 2)|Complete [Build a Music Player](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-music-player) before class|Helpful Lectures: [Working With Audio and Video](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-audio-and-video)
+19 Feb 2025|localStorage (part 1)|Complete through Step 34 of [Build a Todo App Using Local Storage](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-todo-app) before class|Helpful Lectures: [Working With Client-Side Storage and CRUD Operations](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-client-side-storage-and-crud-operations)
+26 Feb 2025|localStorage (part 2)|Complete [Build a Todo App Using Local Storage](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-todo-app) before class|Helpful Lectures: [Working With Client-Side Storage and CRUD Operations](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-working-with-client-side-storage-and-crud-operations)
 5 Mar 2025|NDII Break|no class or assignments|
-12 Mar 2025|Algorithms (part 1)|Complete through Step 23 of [Learn Basic Algorithmic Thinking by Building a Number Sorter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter) before class|
+12 Mar 2025|Classes|Complete [Build a Shopping Cart](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-shopping-cart) before class|Helpful lectures: [Understanding How to Work With Classes in JavaScript](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-understanding-how-to-work-with-classes-in-javascript)
 19 Mar 2025|Spring Break|no class or assignments|
-26 Mar 2025|Algorithms (part 2)|Complete [Learn Basic Algorithmic Thinking by Building a Number Sorter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-algorithmic-thinking-by-building-a-number-sorter) before class|
+26 Mar 2025|Functional Programming|Complete [Build a Recipe Ingredient Converter](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-recipe-ingredient-converter) before class|Helpful lectures: [Understanding Functional Programming](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-understanding-functional-programming)
 2 Apr 2025|Source Control: GitHub|Follow Github Tutorial (link TBD) before class|
-9 Apr 2025|Remix & Tweak|Remix the source for [Polyrhythms in JavaScript](https://github.com/gniziemazity/polyrhythm) in some interesting way. Come prepared to share with the class. See the [YouTube tutorial here](https://www.youtube.com/watch?v=FFyuRzq0nsg).|
+9 Apr 2025|Remix & Tweak|Remix the source for [Polyrhythms in JavaScript](https://github.com/gniziemazity/polyrhythm) in some interesting way. Come prepared to share with the class.|See the [YouTube tutorial here](https://www.youtube.com/watch?v=FFyuRzq0nsg)
 16 Apr 2025|Easter Break|no class or assignments|
 23 Apr 2025|Final Project Show & Tell|Come prepared to show off your final project to the class|
 30 Apr 2025|weather makeup day|no additional assignments|
 
 ### Spring 2025 Final Project Options
-* [Gorillas in JS](https://www.freecodecamp.org/news/gorillas-game-in-javascript/)
-* [Stick Hero with HTML Canvas](https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/)
+* [Build a Drum Machine](https://www.freecodecamp.org/learn/full-stack-developer/#lab-drum-machine)
+* [Build a Bookmark Manager App](https://www.freecodecamp.org/learn/full-stack-developer/#lab-bookmark-manager-app)
+* [Stick Hero with HTML Canvas](https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/) - host on GitHub
+* [Mobile Device Tilt Game - Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation) - host on GitHub
+* [2d Platformer game - Phaser](https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/) - host on GitHub
+* Or propose a project of your choice to Mr. Hawkinson! Use GitHub to host it.
+
+### Projects to work through in class:
 * [Breakout - pure JS](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
 * [Breakout - Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-* [Mobile Device Tilt Game - Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation)
-* [2d Platformer game - Phaser](https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/)
-* Or propose a project of your choice to Mr. Hawkinson! Use GitHub to host it.
+* [Gorillas in JS](https://www.freecodecamp.org/news/gorillas-game-in-javascript/)
