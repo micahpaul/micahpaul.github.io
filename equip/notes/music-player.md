@@ -65,6 +65,74 @@ const playSong = id => {
 }
 ```
 
+## Build a Music Player: Step 17
+This is another one that more than one of you asked about.
+
+In the starting state of this step, the play button always plays the song with `id = 0`. The problem is that if another song is already playing, this behavior doesn't really make sense. The instructions ask us to start changing the behavior of this button click.
+
+The instructions say: 
+
+> To fix this, within the arrow function of the event listener, replace `playSong(0)` with an if statement that checks if `userData.currentSong` is `null`.
+>
+> Inside the if block, call the `playSong` function with the `id` of the first song in the `userData.songs` array.
+
+This is confusing because it has a few steps. First, we build the if statement: 
+
+```js
+  if(userData.currentSong === null) {
+
+  }
+```
+
+So far, so good! We still need a call to `playSong()`, so let's use the original for now, even though we know it's wrong.
+
+```js
+  if(userData.currentSong === null) {
+    playSong(0);
+  }
+```
+
+We click, and it works! Well, sort of. We're doing almost, but not quite, what we've been asked. 
+
+Remember that to get the first item out of an array, you can use square brackets, like this: `const firstItem = myArray[0];`
+
+So we might try this:
+
+```js
+  if(userData.currentSong === null) {
+    playSong(userData.songs[0]);
+  }
+```
+
+Alas, it does not work. Now we're getting some gnarly errors. To see why, let's use our trusty friend `console.log()`:
+
+```js
+  if(userData.currentSong === null) {
+    console.log(userData.songs[0]);
+    playSong(userData.songs[0]);
+  }
+```
+
+Aha! The logging shows us that we're calling it with the wrong kind of argument: 
+
+```js
+{ id: 0,
+  title: 'Scratching The Surface',
+  artist: 'Quincy Larson',
+  duration: '4:25',
+  src: 'https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3' }
+```
+
+`playSong()` is looking for an `id`, not the whole `song` object. So we can fix that easily enough:
+
+```js
+  if(userData.currentSong === null) {
+    playSong(userData.songs[0].id);
+  }
+```
+
+And now it should pass.
+
 ## Build a Music Player: Step 20
 
 This one was really hard for me, so I suspect it will be for you, too. 
