@@ -165,6 +165,112 @@ songs.forEach((song) => {
 });
 ```
 
+## Build a Music Player: Step 25
+This one is actually a lot easier than you think it will be.
+
+Let's start by declaring the function. We'll do it as an arrow function to match the style around it:
+
+```js
+const getNextSong = () => {};
+```
+
+This function needs to return something, so let's add that to the function body:
+
+```js
+const getNextSong = () => {return };
+```
+
+But what does it need to return? An item from an array. Remember that we access those via square brackets - `[]`.
+
+```js
+const getNextSong = () => {return userData.songs[0];};
+```
+
+This will return the first element in the array (the one at index=0). Close, but not quite what we want. We're told to use `getCurrentSongIndex()` plus one. 
+
+```js
+const getNextSong = () => {return userData.songs[getCurrentSongIndex()+1];};
+```
+
+And that's actually all you need to do! But what about returning `undefined` if the current song is the last one in the playlist? Conveniently, trying to access an array element at an invalid index results in `undefined`. See [a full explanation here](https://algocademy.com/link/?problem=exceeding-array-bounds&lang=js&solution=1). So we're good.
+
+## Build a Music Player: Step 27
+
+For this step, we need to finish our `playNextSong` function. We've already handled the case where no song is playing yet, in which case we play the first song in the list. 
+
+Start by adding an `else` block; we want to handle all the cases where `userData.currentSong` is not null.
+
+Inside the `else`, we need to do a few things: 
+1. figure out if "play next song" is a valid option
+1. if so, then play the next song
+1. if not, then stop and clear out the currently playing song
+
+Let's go ahead and "stub out" this function to show what things still need to be done.
+
+```js
+const playNextSong = () => {
+  if (userData.currentSong === null) {
+    playSong(userData.songs[0].id);
+  }
+  else {
+    const nextSongIsValid = false; // need to figure this out
+
+    if (nextSongIsValid) {
+      // call playSong(nextSong.id);
+    }
+    else {
+      // set userData.currentSong to null
+      // set userData.songCurrentTime to 0
+      // call pauseSong()
+    }
+  }
+}
+```
+
+There's a super simple way to see if the next song is valid: we can just call `getNextSong()` and see if it's truthy.
+
+```js
+const playNextSong = () => {
+  if (userData.currentSong === null) {
+    playSong(userData.songs[0].id);
+  }
+  else {
+    const nextSong = getNextSong();
+
+    if (nextSong) {
+      // call playSong(nextSong.id);
+    }
+    else {
+      // set userData.currentSong to null
+      // set userData.songCurrentTime to 0
+      // call pauseSong()
+    }
+  }
+}
+```
+
+After that, it's really simple to finish the stuff we have stubbed out:
+
+```js
+const playNextSong = () => {
+  if (userData.currentSong === null) {
+    playSong(userData.songs[0].id);
+  }
+  else {
+    const songToPlay = getNextSong(); 
+    
+    if (songToPlay) {
+      playSong(songToPlay.id);
+    }
+    else {
+     userData.currentSong = null;
+     userData.songCurrentTime = 0;
+     pauseSong();
+    }
+  }
+}
+```
+
 ## Build a Music Player: Step 36
 
 This step asks you to find `.playlist-song` element that has `aria-current="true"`. 
