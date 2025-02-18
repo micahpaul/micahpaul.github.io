@@ -282,3 +282,18 @@ let currentSongElement = document.querySelector('.playlist-song[aria-current="tr
 ```
 
 Then, you can check if `currentSongElement` is truthy. If it is, then call `currentSongElement.removeAttribute("aria-current")` to remove that attribute from it.
+
+## Build a Music Player: Step 41
+The key to this step is the "if defined" piece. In JavaScript, there's a way to use a value, but only if it's defined, using the "?" operator. This operator basically means use it if it's there, and if it's not, then don't try to use it. 
+
+The way to say "current song if it's defined" would be: `userData.currentSong?`
+
+With the "?" operator, this step becomes pretty simple:
+
+```js
+const setPlayerDisplay = () => {
+  playingSong.textContent = userData.currentSong?.title;
+  songArtist.textContent = userData.currentSong?.artist;
+}
+```
+
