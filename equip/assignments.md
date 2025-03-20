@@ -23,7 +23,7 @@ Generally speaking, a project is due every week **before class**. If you are hav
 12 Mar 2025|Classes|Complete [Build a Shopping Cart](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-shopping-cart) before class|Helpful lectures: [Understanding How to Work With Classes in JavaScript](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-understanding-how-to-work-with-classes-in-javascript)<br>**[Cart App Help](notes/shopping-cart.md)**
 19 Mar 2025|Spring Break|no class or assignments|
 26 Mar 2025|Functional Programming|Complete [Build a Recipe Ingredient Converter](https://www.freecodecamp.org/learn/full-stack-developer/#workshop-recipe-ingredient-converter) before class|Helpful lectures: [Understanding Functional Programming](https://www.freecodecamp.org/learn/full-stack-developer/#lecture-understanding-functional-programming)
-2 Apr 2025|Source Control: GitHub|Follow Github Tutorial (link TBD) before class|
+2 Apr 2025|Source Control: GitHub|Follow [this tutorial](notes/github.md) before class|After class, upload your in-class work as mentioned in [the tutorial](notes/github.md)
 9 Apr 2025|Remix & Tweak|Remix the source for [Polyrhythms in JavaScript](https://github.com/gniziemazity/polyrhythm) in some interesting way. Come prepared to share with the class.|See the [YouTube tutorial here](https://www.youtube.com/watch?v=FFyuRzq0nsg)
 16 Apr 2025|Easter Break|no class or assignments|
 23 Apr 2025|Final Project Show & Tell|Come prepared to show off your final project to the class|
