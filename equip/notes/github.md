@@ -8,6 +8,8 @@ In this tutorial, we will:
 1. commit our first file to the repository
 1. change the code and commit our changes
 
+**Note: This tutorial assumes you are using the GitHub website, not the GitHub Desktop program.**
+
 ## Sign up / sign in
 First things first! Let's make a Github account and sign into it.
 
