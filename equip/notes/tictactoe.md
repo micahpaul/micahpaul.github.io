@@ -1,6 +1,7 @@
 # In-Class Assignment 2 April 2025
 
 1. Create `index.html` with the following text:
+
 ```html
 <html>
     <head>
@@ -20,6 +21,7 @@
 ```
 
 2. In the same directory, create `tictactoe.js` with the following text:
+
 ```js
 const PLAYER_X = "X";
 const PLAYER_O = "O";
@@ -72,6 +74,7 @@ init();
 - Anything else you want to (sounds, images, nicer design, 1-player vs. computer, etc.)
 
 **Hint**: you might find it useful to store the cells in an array of arrays, like we did in the breakout game. Here's a code snippet of that: 
+
 ```js
 const bricks = [];
 for (let c = 0; c < brickColumnCount; c++) {
