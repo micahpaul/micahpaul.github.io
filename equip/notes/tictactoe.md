@@ -1,6 +1,6 @@
 # In-Class Assignment 2 April 2025
 
-1. Create `index.html` with the following text:
+* Create `index.html` with the following text:
 
 ```html
 <html>
@@ -20,7 +20,7 @@
 </html>
 ```
 
-2. In the same directory, create `tictactoe.js` with the following text:
+* In the same directory, create `tictactoe.js` with the following text:
 
 ```js
 const PLAYER_X = "X";
@@ -67,7 +67,7 @@ function init() {
 init();
 ```
 
-3. Open `index.html` in a web browser and play around with it. It's ok, but it could be better. Make these improvements (work with classmates if you're stuck):
+* Open `index.html` in a web browser and play around with it. It's ok, but it could be better. Make these improvements (work with classmates if you're stuck):
 - Don't allow a player to click on a square that's already taken.
 - When someone wins, show an alert to tell them they've won.
 - After the game is over, disable any further changes to the tic-tac-toe board.
@@ -85,6 +85,6 @@ for (let c = 0; c < brickColumnCount; c++) {
 }
 ```
 
-4. Create a repository in GitHub and save both of these files to it.
+* Create a repository in GitHub and save both of these files to it.
 
-5. Email your repository link to me (don't worry if you didn't have time to complete all the improvements).
+* Email your repository link to me (don't worry if you didn't have time to complete all the improvements).
