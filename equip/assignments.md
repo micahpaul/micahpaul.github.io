@@ -27,7 +27,7 @@ Generally speaking, a project is due every week **before class**. If you are hav
 9 Apr 2025|Remix & Tweak|Remix the source for [Polyrhythms in JavaScript](https://github.com/gniziemazity/polyrhythm) in some interesting way. Come prepared to share with the class.|See the [YouTube tutorial here](https://www.youtube.com/watch?v=FFyuRzq0nsg) for more on how the app works
 16 Apr 2025|Easter Break|no class or assignments|
 23 Apr 2025|Final Project Show & Tell|Come prepared to show off your final project to the class|
-30 Apr 2025|weather makeup day|no additional assignments|
+30 Apr 2025|weather makeup day|no additional assignments|[In-Class Assignment](notes/20250430.md)
 
 ### Spring 2025 Final Project Options
 * [Build a Drum Machine](https://www.freecodecamp.org/learn/full-stack-developer/#lab-drum-machine)
