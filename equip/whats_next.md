@@ -1,0 +1,6 @@
+# What's Next?
+You're done with programming for this semester! Way to go; I'm proud of your hard work. If you want to pursue programming further, here are a few things I'd recommend:
+* [FreeCodeCamp - Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer/). This is one of the best, most comprehensive online tools I've seen for learning how to program. You already have an account, and you've already completed many of the assignments. If you do this, go back and fill in all the assignments you've missed. Complete each section methodically.
+* [YouTube - Coding with Radu](https://www.youtube.com/c/radumariescuistodor). This is the guy who made our beloved Polyrhythm app. His tutorials are amazing and easy to follow. Highly recommended.
+* [Kaplay.js](https://play.kaplayjs.com/). We spent a little bit of time with these tutorials in class, but they would be a great entry point if you're wanting to get into game design. If you want to take this to the next level [here's a really fun tutorial](https://www.youtube.com/watch?v=EmMO0yQ7eeY&t=2s) where you can use Kaplay.js to make a Sonic the Hedgehog clone.
+* There are tons of other great resources online as well. Regardless of which ones you use, the most important part is this: **make stuff!** Schedule time to do it, do it often, and keep challenging yourself. 
