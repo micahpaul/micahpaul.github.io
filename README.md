@@ -2,7 +2,7 @@
 
 I have made these:
 * [Zed's Color Game](zed)
-* [Equip Class](equip)
+* [Archived Classes](equip)
 * [NEK Choir Songs Fall 2024](choir)
 * [Memify This!](memify)
 * [Myrick's Movie](movie)
