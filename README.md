@@ -5,5 +5,5 @@ I have made these:
 * [Archived Classes](equip)
 * [NEK Choir Songs Fall 2024](choir)
 * [Memify This!](memify)
-* [Myrick's Movie](movie)
+* [Myrick's Insane Movie](movie)
 * [The Voyage of St Brendan the Abbot](brendan)
