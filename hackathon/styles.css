@@ -1,0 +1,12 @@
+body {
+    background-image: url("FusionEHR\ Background.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    margin: 0; /* Ensures no default body margin creates extra space */
+    padding: 0;
+}
+
+html {
+    height: 100%; /* Ensures the html element spans the full height */
+}
