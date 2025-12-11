@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Screen Recorder</title>
+    <link rel="stylesheet" href="recorder.css">
+</head>
+<body>
+    <button id="startShare">Start Screen Share</button>
+    <button id="startRecord" disabled>Start Recording</button>
+    <button id="stopRecord" disabled>Stop Recording</button>
+    <a id="download" style="display:none;">Download Recording</a>
+    <br>
+    <video id="videoElement" controls autoplay muted style="border: 1px solid black; width: 640px; height: 480px;"></video>
+
+    <script src="recorder.js"></script>
+</body>
+</html>
