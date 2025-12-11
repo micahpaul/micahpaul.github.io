@@ -4,7 +4,20 @@
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-<script src='https://cdn.jotfor.ms/agent/embedjs/019b09f357cb750a8708ba29b66d68d2f50f/embed.js'></script>
+        <script>
+        function openSizedWindow(url, width, height) {
+            // Define window features including size, position, and controls
+            var features = 'width=' + width + ', height=' + height;
+            features += ', toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes';
+
+            window.open(url, '_blank', features);
+            return false; // Prevents the default anchor link behavior
+        }
+        </script>
+
+        <script src='https://cdn.jotfor.ms/agent/embedjs/019b09f357cb750a8708ba29b66d68d2f50f/embed.js'></script>
+        <div id="footer-link-container">
+            <a href="screen_cap.html" onclick="return openSizedWindow(this.href, 800, 700);">[]</a>
+        </div>
     </body>
-</script>
 </html>

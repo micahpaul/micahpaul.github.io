@@ -6,7 +6,21 @@ body {
     margin: 0; /* Ensures no default body margin creates extra space */
     padding: 0;
 }
+#footer-link-container {
+    /* Position the container relative to the viewport (the browser window) */
+    position: fixed; 
+    
+    /* Place it in the bottom right corner */
+    bottom: 0px; /* Adjust this value to move it up or down */
+    right: 0px;  /* Adjust this value to move it left or right */
 
+    font-size: 30px;
+    
+    /* Optional: Ensure it sits above other content */
+    z-index: 1000; 
+
+    opacity: 0;    
+}
 html {
     height: 100%; /* Ensures the html element spans the full height */
 }
