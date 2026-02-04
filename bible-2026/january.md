@@ -1,5 +1,7 @@
-[Bible Reading Plan From Andrew Osenga's Substack](https://andrewosenga.substack.com/p/january-bible-reading-plan)
+[Bible Reading Plan from Andrew Osenga's Substack](https://andrewosenga.substack.com/p/january-bible-reading-plan)
 ---
+
+(not affiliated with Andrew or his Substack; all mistakes are mine (-8 )
 
 Date|MORNING LESSON - OLD TESTAMENT|MORNING LESSON - NEW TESTAMENT|EVENING PSALMS
 |-|-|-|-
