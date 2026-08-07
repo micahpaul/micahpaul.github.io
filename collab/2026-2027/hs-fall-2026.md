@@ -17,9 +17,9 @@ Wednesdays, 12pm-1pm
 
 ## Weekly Assignments
 
-|Date |Read |Discussion Questions   |
-| --- | --- | ---                   |
-|8/12/2026|*The Great Gatsby*, chapter 1-5|TBD|
+|Date |Read |Notes / Questions  |
+| --- | --- | ---               |
+|8/12/2026|*The Great Gatsby*, chapter 1-5|**Content Warning:** This book contains accounts of marital infidelity and veiled references to sex. If these elements of the story make you uncomfortable, please be sure to discuss them with your parents. <br><br>[Discussion Questions](questions/hs-20260812.md)|
 |8/19/2026|*The Great Gatsby*, chapter 6-end|TBD|
 |8/26/2026|*Adventures of Huckleberry Finn*, chapter 1-23|TBD|
 |9/2/2026|*Adventures of Huckleberry Finn*, chapter 24-end|TBD|
