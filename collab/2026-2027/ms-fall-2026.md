@@ -19,7 +19,7 @@ Wednesdays, 1pm-2pm
 |Date |Read |Notes / Questions      |
 | --- | --- | ---                   |
 |8/12/2026|*To Kill a Mockingbird*, chapter 1-11|**Content Warning:** This book contains profanity, racial slurs, and some disturbing false allegations. If any of these things make you uncomfortable, please be sure to discuss them with your parents. <br><br>[Discussion Questions](questions/ms-20260812.md)|
-|8/19/2026|*To Kill a Mockingbird*, chapter 12-end|TBD|
+|8/19/2026|*To Kill a Mockingbird*, chapter 12-end|[Discussion Questions](questions/ms-20260819.md)|
 |8/26/2026|*Going Solo*, chapter 1-8|TBD|
 |9/2/2026|*Going Solo*, chapter 9-end|TBD|
 |9/9/2026|*The Giver*, chapter 1-11|TBD|
