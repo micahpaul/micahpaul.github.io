@@ -22,7 +22,7 @@ Wednesdays, 12pm-1pm
 |8/12/2026|*The Great Gatsby*, chapter 1-5|**Content Warning:** This book contains accounts of marital infidelity and veiled references to sex. If these elements of the story make you uncomfortable, please be sure to discuss them with your parents. <br><br>[Discussion Questions](questions/hs-20260812.md)|
 |8/19/2026|*The Great Gatsby*, chapter 6-end|[Discussion Questions](questions/hs-20260819.md)|
 |8/26/2026|*Adventures of Huckleberry Finn*, chapter 1-23|[Discussion Questions](questions/hs-20260826.md)|
-|9/2/2026|*Adventures of Huckleberry Finn*, chapter 24-end|TBD|
+|9/2/2026|*Adventures of Huckleberry Finn*, chapter 24-end|[Discussion Questions](questions/hs-20260902.md)|
 |9/9/2026|*The Humanoids*, prelude "With Folded Hands" - Humanoids Chapter 11|TBD|
 |9/16/2026|*The Humanoids*, Humanoids Chapter 11-end|TBD|
 |9/23/2026|*Murder Must Advertise*, chapters 1-11|TBD|
