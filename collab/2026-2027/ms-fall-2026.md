@@ -22,7 +22,7 @@ Wednesdays, 1pm-2pm
 |8/19/2026|*To Kill a Mockingbird*, chapter 12-end|[Discussion Questions](questions/ms-20260819.md)|
 |8/26/2026|*Going Solo*, The Voyage Out - Survival|[Discussion Questions](questions/ms-20260826.md)|
 |9/2/2026|*Going Solo*, First Encounter with a Bandit - end|[Discussion Questions](questions/ms-20260902.md)|
-|9/9/2026|*The Giver*, chapter 1-11|TBD|
+|9/9/2026|*The Giver*, chapter 1-11|[Discussion Questions](questions/ms-20260909.md)|
 |9/16/2026|*The Giver*, chapter 12-end|TBD|
 |9/23/2026|*The Penderwicks*, chapter 1-9|TBD|
 |9/30/2026|*The Penderwicks*, chapter 10-end|TBD|
