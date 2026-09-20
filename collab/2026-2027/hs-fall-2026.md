@@ -25,7 +25,7 @@ Wednesdays, 12pm-1pm
 |9/2/2026|*Adventures of Huckleberry Finn*, chapter 24-end|[Discussion Questions](questions/hs-20260902.md)|
 |9/9/2026|*The Humanoids*, prelude "With Folded Hands" - Humanoids Chapter 11|[Discussion Questions](questions/hs-20260909.md)|
 |9/16/2026|*The Humanoids*, Humanoids Chapter 11-end|[Discussion Questions](questions/hs-20260916.md)|
-|9/23/2026|*Murder Must Advertise*, chapters 1-11|TBD|
+|9/23/2026|*Murder Must Advertise*, chapters 1-11|[Discussion Questions](questions/hs-20260923.md)|
 |9/30/2026|*Murder Must Advertise*, chapters 12-end|TBD|
 |10/7/2026|Fall Break|TBD|
 |10/14/2026|*Pride and Prejudice*, chapters 1-29|TBD|
