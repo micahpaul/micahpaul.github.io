@@ -25,7 +25,7 @@ Wednesdays, 1pm-2pm
 |9/9/2026|*The Giver*, chapter 1-11|[Discussion Questions](questions/ms-20260909.md)|
 |9/16/2026|*The Giver*, chapter 12-end|[Discussion Questions](questions/ms-20260916.md)|
 |9/23/2026|*The Penderwicks*, chapter 1-9|[Discussion Questions](questions/ms-20260923.md)|
-|9/30/2026|*The Penderwicks*, chapter 10-end|TBD|
+|9/30/2026|*The Penderwicks*, chapter 10-end|[Discussion Questions](questions/ms-20260930.md)|
 |10/7/2026|Fall Break|TBD|
 |10/14/2026|*The Wednesday Wars*, September-January|TBD|
 |10/21/2026|*The Wednesday Wars*, February-June|TBD|
