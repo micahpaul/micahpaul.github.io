@@ -27,8 +27,8 @@ Wednesdays, 12pm-1pm
 |9/16/2026|*The Humanoids*, Humanoids Chapter 11-end|[Discussion Questions](questions/hs-20260916.md)|
 |9/23/2026|*Murder Must Advertise*, chapters 1-11|[Discussion Questions](questions/hs-20260923.md)|
 |9/30/2026|*Murder Must Advertise*, chapters 12-end|[Discussion Questions](questions/hs-20260930.md)|
-|10/7/2026|Fall Break|TBD|
-|10/14/2026|*Pride and Prejudice*, chapters 1-29|TBD|
+|10/7/2026|Fall Break|No homework|
+|10/14/2026|*Pride and Prejudice*, chapters 1-29|[Discussion Questions](questions/hs-20261014.md)|
 |10/21/2026|*Pride and Prejudice*, chapters 30-end|TBD|
 |10/28/2026|*The Outlaws of Sherwood*, chapters 1-14|TBD|
 |11/4/2026|*The Outlaws of Sherwood*, chapters 15-end|TBD|
