@@ -28,7 +28,7 @@ Wednesdays, 1pm-2pm
 |9/30/2026|*The Penderwicks*, chapter 10-end|[Discussion Questions](questions/ms-20260930.md)|
 |10/7/2026|Fall Break|No homework|
 |10/14/2026|*The Wednesday Wars*, September-January|[Discussion Questions](questions/ms-20261014.md)|
-|10/21/2026|*The Wednesday Wars*, February-June|[Discussion Questions](questions/hs-20261021.md)|
+|10/21/2026|*The Wednesday Wars*, February-June|[Discussion Questions](questions/ms-20261021.md)|
 |10/28/2026|*The Mysterious Howling*, chapter 1-13|TBD|
 |11/4/2026|*The Mysterious Howling*, chapter 14-26|TBD|
 |11/11/2026|Share-a-Book Day!|[Assignment](share-a-book.md)|
