@@ -29,7 +29,7 @@ Wednesdays, 1pm-2pm
 |10/7/2026|Fall Break|No homework|
 |10/14/2026|*The Wednesday Wars*, September-January|[Discussion Questions](questions/ms-20261014.md)|
 |10/21/2026|*The Wednesday Wars*, February-June|[Discussion Questions](questions/ms-20261021.md)|
-|10/28/2026|*The Mysterious Howling*, chapter 1-13|TBD|
-|11/4/2026|*The Mysterious Howling*, chapter 14-26|TBD|
+|10/28/2026|*The Mysterious Howling*, chapter 1-8|TBD|
+|11/4/2026|*The Mysterious Howling*, chapter 9-end|TBD|
 |11/11/2026|Share-a-Book Day!|[Assignment](share-a-book.md)|
 |11/18/2026|Weather Makeup Day|TBD|
