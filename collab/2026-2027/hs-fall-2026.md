@@ -30,7 +30,7 @@ Wednesdays, 12pm-1pm
 |10/7/2026|Fall Break|No homework|
 |10/14/2026|*Pride and Prejudice*, chapters 1-29|[Discussion Questions](questions/hs-20261014.md)|
 |10/21/2026|*Pride and Prejudice*, chapters 30-end|[Discussion Questions](questions/hs-20261021.md)|
-|10/28/2026|*The Outlaws of Sherwood*, chapters 1-14|TBD|
+|10/28/2026|*The Outlaws of Sherwood*, chapters 1-14|[Discussion Questions](questions/hs-20261028.md)|
 |11/4/2026|*The Outlaws of Sherwood*, chapters 15-end|TBD|
 |11/11/2026|Share-a-Book Day!|[Assignment](share-a-book.md)|
 |11/18/2026|Weather Makeup Day|TBD|
