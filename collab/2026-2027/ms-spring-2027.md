@@ -5,9 +5,12 @@
 Wednesdays, 1:00 - 1:55pm
 
 ## Books
-**Note:** I've included Amazon links for reference, but you don't need that specific edition. E-books on Kindle or other E-readers are also acceptable. However, it's **very** important for students to keep track of important quotes that they can bring to class!
+**Note:** I've included product links for reference, but you don't need that specific edition. E-books on Kindle or other E-readers are also acceptable. However, it's **very** important for students to keep track of important quotes that they can bring to class!
 
-* [*Title*](https://link.co)
+* [*Mrs. Frisby and the Rats of NIMH*, Robert C. O'Brien](https://www.amazon.com/clp/0689710682)
+* [*The Charlatan's Boy*, Jonathan Rogers](https://store.rabbitroom.com/products/the-charlatans-boy?srsltid=AYCX9vJ8QtIb4HyRlVZ4D-2xtgxMqje31O0x278Z1J7ptjI3tJD96kAR)
+* [*The Phantom Tollbooth*, Norton Juster](https://www.amazon.com/Phantom-Tollbooth-Norton-Juster/dp/0394820371/)
+* [*Anne of Green Gables*, L. M. Montgomery](https://www.amazon.com/Anne-Green-Gables-Signet-Classics/dp/0451528824)
 
 ## Weekly Assignments
 
