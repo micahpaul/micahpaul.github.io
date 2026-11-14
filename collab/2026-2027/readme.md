@@ -3,5 +3,5 @@
 * [Class Description](class-description.md)
 * [Middle School Fall 2026](ms-fall-2026.md)
 * [High School Fall 2026](hs-fall-2026.md)
-* Middle School Spring 2027
-* High School Spring 2027
+* [Middle School Spring 2027](ms-spring-2027.md)
+* [High School Spring 2027](hs-spring-2027.md)
